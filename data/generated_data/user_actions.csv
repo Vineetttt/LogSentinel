@@ -1,0 +1,2001 @@
+User ID,Timestamp,Action,Resource,Status,Compliant
+fmokrxts,2023-01-01 00:00:01,Login,Admin Panel,Unauthorized,False
+swvtyozm,2023-01-01 00:00:38,Access,Financials,Unauthorized,False
+phdshtes,2023-01-01 00:01:46,Login,Admin Panel,Unauthorized,False
+yipsbeum,2023-01-01 00:03:11,View,Documents,Success,True
+xdzecgif,2023-01-01 00:06:49,Edit,Admin Panel,Unauthorized,False
+yraonula,2023-01-01 00:10:11,Edit,Financials,Unauthorized,False
+mwqarzek,2023-01-01 00:11:31,Access,Reports,Success,True
+nznbvacv,2023-01-01 00:11:32,View,Dashboard,Success,True
+kcdqrdqi,2023-01-01 00:11:48,Access,Reports,Success,True
+vhzunfay,2023-01-01 00:13:43,Login,Documents,Success,True
+gwzmblme,2023-01-01 00:13:55,Edit,Financials,Success,False
+zqgysutv,2023-01-01 00:16:21,View,Documents,Success,True
+xpyhblqz,2023-01-01 00:19:39,Access,Admin Panel,Unauthorized,False
+qjnghsbu,2023-01-01 00:20:35,Login,Documents,Success,True
+pfxurnqp,2023-01-01 00:23:16,View,Dashboard,Success,True
+knvfrvxt,2023-01-01 00:23:21,Login,Documents,Success,True
+vfuxljnr,2023-01-01 00:24:10,Access,Admin Panel,Success,False
+qdaedbkg,2023-01-01 00:25:55,Login,Dashboard,Success,True
+pynhlpql,2023-01-01 00:26:48,Access,Dashboard,Success,True
+pgfzzznl,2023-01-01 00:28:47,Access,Documents,Success,True
+vlcfumqx,2023-01-01 00:28:48,Delete,Admin Panel,Unauthorized,False
+avmsizqm,2023-01-01 00:32:29,Access,Reports,Success,True
+lsyehuzv,2023-01-01 00:32:51,View,Reports,Success,True
+uwvvqfvb,2023-01-01 00:34:36,Login,Documents,Success,True
+bofneoxu,2023-01-01 00:36:09,Access,Dashboard,Success,True
+fyvfaiis,2023-01-01 00:36:19,Login,Dashboard,Success,True
+atawghie,2023-01-01 00:38:26,Access,Dashboard,Success,True
+ikawopyj,2023-01-01 00:39:10,Edit,Financials,Unauthorized,False
+psvoxjek,2023-01-01 00:39:49,Access,Admin Panel,Success,False
+ihoqtidv,2023-01-01 00:40:48,Edit,Financials,Unauthorized,False
+eawmsskb,2023-01-01 00:42:33,Login,Dashboard,Success,True
+kaafhydt,2023-01-01 00:43:17,Login,Financials,Unauthorized,False
+qujnrqlm,2023-01-01 00:43:30,View,Reports,Success,True
+hrsrqkek,2023-01-01 00:43:50,View,Dashboard,Success,True
+ttndvpxh,2023-01-01 00:44:51,Edit,Financials,Unauthorized,False
+ousbsmcd,2023-01-01 00:46:55,Login,Financials,Unauthorized,False
+gsftajey,2023-01-01 00:56:40,Access,Documents,Success,True
+higxlrfn,2023-01-01 00:57:31,View,Reports,Success,True
+xncgbhdq,2023-01-01 01:00:46,View,Dashboard,Success,True
+tocfuosx,2023-01-01 01:00:53,Delete,Admin Panel,Success,False
+vkewiywk,2023-01-01 01:01:11,Access,Reports,Success,True
+vqhwtxel,2023-01-01 01:01:49,Access,Documents,Success,True
+ekxckikr,2023-01-01 01:02:28,Delete,Financials,Unauthorized,False
+xrmzwjog,2023-01-01 01:02:33,Login,Admin Panel,Success,False
+qzhrvctn,2023-01-01 01:04:24,View,Documents,Success,True
+omkhbvxk,2023-01-01 01:06:16,Delete,Admin Panel,Unauthorized,False
+uxxnqzwh,2023-01-01 01:06:39,Access,Documents,Success,True
+zjjflidl,2023-01-01 01:06:52,Login,Dashboard,Success,True
+fnfwflxy,2023-01-01 01:09:58,Access,Documents,Success,True
+flkkpfsf,2023-01-01 01:14:13,View,Admin Panel,Unauthorized,False
+qrrrhval,2023-01-01 01:15:26,Delete,Financials,Unauthorized,False
+dynqkczs,2023-01-01 01:15:42,View,Reports,Success,True
+rocuspew,2023-01-01 01:17:54,Login,Documents,Success,True
+ubhicuxy,2023-01-01 01:19:30,Edit,Admin Panel,Success,False
+xjdcfphs,2023-01-01 01:21:13,Access,Admin Panel,Unauthorized,False
+ptxceuxb,2023-01-01 01:21:42,View,Reports,Success,True
+tauxnepo,2023-01-01 01:22:16,Login,Reports,Success,True
+evgibqca,2023-01-01 01:22:18,Login,Documents,Success,True
+apzfstms,2023-01-01 01:22:37,Login,Documents,Success,True
+pcahrjjw,2023-01-01 01:23:58,Access,Admin Panel,Unauthorized,False
+jbqbtgqn,2023-01-01 01:25:34,Edit,Financials,Success,False
+aokmsqxo,2023-01-01 01:26:35,Edit,Admin Panel,Unauthorized,False
+hssdbuqt,2023-01-01 01:32:57,Access,Documents,Success,True
+eciupsho,2023-01-01 01:33:41,Login,Documents,Success,True
+xdfleftv,2023-01-01 01:36:54,Login,Reports,Success,True
+ozdseuzz,2023-01-01 01:37:19,Access,Documents,Success,True
+ijdvmovy,2023-01-01 01:38:36,View,Documents,Success,True
+agssrfpq,2023-01-01 01:39:33,View,Dashboard,Success,True
+lomqlypy,2023-01-01 01:41:00,Edit,Financials,Success,False
+gjokqjmk,2023-01-01 01:42:57,View,Financials,Unauthorized,False
+nkxftvia,2023-01-01 01:45:21,View,Documents,Success,True
+fsnlzqdv,2023-01-01 01:45:29,Access,Dashboard,Success,True
+cbidkgmp,2023-01-01 01:46:28,View,Dashboard,Success,True
+ooxhuyad,2023-01-01 01:46:52,Access,Reports,Success,True
+uehnuowi,2023-01-01 01:47:02,Login,Documents,Success,True
+hqohrqir,2023-01-01 01:47:49,Login,Admin Panel,Unauthorized,False
+ofcxjyuj,2023-01-01 01:48:26,Delete,Financials,Unauthorized,False
+pwnbuhhl,2023-01-01 01:50:18,Access,Documents,Success,True
+kpymzpox,2023-01-01 01:51:17,Login,Admin Panel,Unauthorized,False
+biwprybn,2023-01-01 01:56:13,Login,Dashboard,Success,True
+ldsqgukw,2023-01-01 01:59:35,View,Dashboard,Success,True
+yatmbdnu,2023-01-01 02:01:34,Login,Reports,Success,True
+rlzszlcn,2023-01-01 02:03:16,Login,Reports,Success,True
+fmqahvpp,2023-01-01 02:03:25,Edit,Admin Panel,Unauthorized,False
+vjyjgtgp,2023-01-01 02:04:21,View,Admin Panel,Unauthorized,False
+ipchkvdd,2023-01-01 02:04:57,Edit,Financials,Unauthorized,False
+tikksuqs,2023-01-01 02:06:28,Edit,Admin Panel,Unauthorized,False
+rmswfndk,2023-01-01 02:07:47,View,Documents,Success,True
+tbfcuywd,2023-01-01 02:09:53,View,Reports,Success,True
+kzukniec,2023-01-01 02:10:45,Login,Reports,Success,True
+ravgilsv,2023-01-01 02:14:04,Login,Dashboard,Success,True
+pduhrqyv,2023-01-01 02:14:16,Delete,Admin Panel,Unauthorized,False
+kucmkndo,2023-01-01 02:15:34,Edit,Admin Panel,Unauthorized,False
+nfnmbzll,2023-01-01 02:19:05,Login,Reports,Success,True
+qhwrcflh,2023-01-01 02:19:13,View,Documents,Success,True
+ebwuhsdg,2023-01-01 02:20:14,Delete,Admin Panel,Success,False
+oquqgzbe,2023-01-01 02:21:09,Access,Financials,Unauthorized,False
+xlmsaucc,2023-01-01 02:21:26,Access,Documents,Success,True
+vjrwuvrd,2023-01-01 02:26:31,Edit,Admin Panel,Unauthorized,False
+jvzdiooi,2023-01-01 02:27:35,View,Financials,Unauthorized,False
+ixbxlgys,2023-01-01 02:29:51,View,Reports,Success,True
+ivsykhdo,2023-01-01 02:30:26,Access,Financials,Unauthorized,False
+iatsjyct,2023-01-01 02:30:44,Login,Dashboard,Success,True
+ubhiohma,2023-01-01 02:34:31,View,Reports,Success,True
+dkcrbjfv,2023-01-01 02:37:12,Delete,Admin Panel,Unauthorized,False
+uozhixeg,2023-01-01 02:37:19,Login,Dashboard,Success,True
+nlnuwwvq,2023-01-01 02:39:36,Delete,Admin Panel,Unauthorized,False
+qkrjpsoj,2023-01-01 02:39:53,Login,Documents,Success,True
+tbxwyitg,2023-01-01 02:40:01,View,Dashboard,Success,True
+dtlsuicv,2023-01-01 02:41:15,Delete,Financials,Unauthorized,False
+cjifbvgg,2023-01-01 02:44:24,View,Reports,Success,True
+zoqcsnqk,2023-01-01 02:45:22,Edit,Admin Panel,Unauthorized,False
+fvwnitrw,2023-01-01 02:46:31,Login,Reports,Success,True
+vtsdxqfy,2023-01-01 02:48:04,Delete,Admin Panel,Unauthorized,False
+hqkjtgew,2023-01-01 02:50:15,Login,Financials,Unauthorized,False
+nliklbfz,2023-01-01 02:51:40,Login,Dashboard,Success,True
+uhhxqxvs,2023-01-01 02:52:25,Access,Documents,Success,True
+sgzmobmz,2023-01-01 02:53:30,View,Documents,Success,True
+llpagswo,2023-01-01 02:54:13,View,Dashboard,Success,True
+citigrsv,2023-01-01 02:54:30,Access,Reports,Success,True
+ilzjeury,2023-01-01 02:57:33,Delete,Financials,Unauthorized,False
+inhgdpuf,2023-01-01 02:58:20,Edit,Financials,Unauthorized,False
+chqlqnvb,2023-01-01 02:59:16,Login,Documents,Success,True
+bswpzpbt,2023-01-01 03:00:08,Login,Dashboard,Success,True
+pdxxqqev,2023-01-01 03:01:52,View,Dashboard,Success,True
+pmnraebo,2023-01-01 03:02:11,Access,Admin Panel,Unauthorized,False
+tggiqgbi,2023-01-01 03:02:53,Login,Documents,Success,True
+ibqofhtk,2023-01-01 03:03:10,Login,Dashboard,Success,True
+olcvavhw,2023-01-01 03:04:14,Login,Dashboard,Success,True
+tblbcfyr,2023-01-01 03:04:21,Edit,Admin Panel,Success,False
+dzzjtotv,2023-01-01 03:04:34,Edit,Financials,Unauthorized,False
+ioxzknqh,2023-01-01 03:05:19,Edit,Admin Panel,Unauthorized,False
+wgwffjpj,2023-01-01 03:06:11,Access,Reports,Success,True
+fwauyrhr,2023-01-01 03:06:21,Delete,Financials,Unauthorized,False
+dxjtphna,2023-01-01 03:06:35,Access,Admin Panel,Success,False
+ungxpjil,2023-01-01 03:07:29,Edit,Admin Panel,Unauthorized,False
+vxsqwvxi,2023-01-01 03:09:28,View,Documents,Success,True
+dycshowl,2023-01-01 03:10:29,Delete,Admin Panel,Unauthorized,False
+zmyhpnyt,2023-01-01 03:10:52,Access,Dashboard,Success,True
+ovmnqcsp,2023-01-01 03:11:52,Access,Reports,Success,True
+lkqtgoqu,2023-01-01 03:12:52,View,Financials,Unauthorized,False
+xcgubaxo,2023-01-01 03:14:31,Edit,Financials,Unauthorized,False
+fryuyqyr,2023-01-01 03:15:23,View,Reports,Success,True
+bxyixjca,2023-01-01 03:17:51,Edit,Financials,Unauthorized,False
+uacqsjnz,2023-01-01 03:17:58,Edit,Admin Panel,Unauthorized,False
+mkwyqcfk,2023-01-01 03:18:09,Access,Financials,Unauthorized,False
+umyivgjf,2023-01-01 03:22:21,Login,Admin Panel,Unauthorized,False
+fsodfqfh,2023-01-01 03:24:05,Delete,Financials,Unauthorized,False
+wwxjnvsw,2023-01-01 03:25:21,Edit,Financials,Unauthorized,False
+zcjoevqf,2023-01-01 03:25:32,Access,Documents,Success,True
+znnkmrpv,2023-01-01 03:28:10,Login,Financials,Unauthorized,False
+plnkllir,2023-01-01 03:28:46,Login,Dashboard,Success,True
+uedjbuhj,2023-01-01 03:29:10,Access,Admin Panel,Success,False
+fjscylxs,2023-01-01 03:37:16,View,Dashboard,Success,True
+drrdowxp,2023-01-01 03:38:54,Login,Documents,Success,True
+pdikicur,2023-01-01 03:39:09,View,Reports,Success,True
+aocaixvq,2023-01-01 03:39:26,Delete,Admin Panel,Unauthorized,False
+kghxhvur,2023-01-01 03:39:54,Access,Documents,Success,True
+rijlxkhc,2023-01-01 03:39:59,View,Dashboard,Success,True
+bgblhseq,2023-01-01 03:41:32,Access,Dashboard,Success,True
+cwcgpuzt,2023-01-01 03:41:41,Login,Financials,Unauthorized,False
+zruisgwa,2023-01-01 03:41:46,Edit,Admin Panel,Unauthorized,False
+hmpapvis,2023-01-01 03:41:50,Login,Financials,Success,False
+zbiqxxbz,2023-01-01 03:42:38,View,Documents,Success,True
+vrpelohb,2023-01-01 03:45:01,Login,Reports,Success,True
+gprnakaw,2023-01-01 03:45:48,Delete,Admin Panel,Unauthorized,False
+nmnsjdpu,2023-01-01 03:46:04,Delete,Financials,Unauthorized,False
+tcktjwxq,2023-01-01 03:46:40,Edit,Admin Panel,Unauthorized,False
+fnczosas,2023-01-01 03:47:26,Access,Documents,Success,True
+hyuvolwe,2023-01-01 03:47:43,Login,Reports,Success,True
+tdmskwrr,2023-01-01 03:48:04,Delete,Financials,Unauthorized,False
+jufbzhxk,2023-01-01 03:49:09,Login,Dashboard,Success,True
+keuetjlx,2023-01-01 03:50:55,View,Documents,Success,True
+euxptcxt,2023-01-01 03:52:03,Login,Documents,Success,True
+whssoion,2023-01-01 03:52:18,Access,Reports,Success,True
+sznxmsdt,2023-01-01 03:53:35,Access,Dashboard,Success,True
+tvkkfucl,2023-01-01 03:53:56,Delete,Financials,Unauthorized,False
+qhzawkcc,2023-01-01 03:55:34,Login,Reports,Success,True
+fneibshu,2023-01-01 03:56:21,View,Reports,Success,True
+nkivpwwp,2023-01-01 03:57:54,Delete,Admin Panel,Unauthorized,False
+onzqobgw,2023-01-01 03:58:03,Access,Documents,Success,True
+fcprugnb,2023-01-01 03:58:27,Access,Documents,Success,True
+vodomvsa,2023-01-01 03:59:01,Edit,Admin Panel,Success,False
+zrsyfgwc,2023-01-01 04:02:06,View,Financials,Success,False
+isrotiyc,2023-01-01 04:03:19,Login,Documents,Success,True
+kejzbelu,2023-01-01 04:05:52,View,Reports,Success,True
+qrinwgue,2023-01-01 04:07:05,Access,Admin Panel,Success,False
+dtzclsia,2023-01-01 04:10:13,Login,Documents,Success,True
+wqmjvuzn,2023-01-01 04:10:52,View,Dashboard,Success,True
+onmfvaew,2023-01-01 04:12:23,Login,Reports,Success,True
+hrhfaedo,2023-01-01 04:14:07,Login,Reports,Success,True
+tztkreki,2023-01-01 04:16:26,Access,Reports,Success,True
+sbjwtbqq,2023-01-01 04:16:48,Login,Admin Panel,Success,False
+abvhvefg,2023-01-01 04:19:04,Edit,Admin Panel,Unauthorized,False
+edxhkvye,2023-01-01 04:20:57,Access,Documents,Success,True
+mdffwuvt,2023-01-01 04:21:12,Login,Dashboard,Success,True
+gzmbvkfm,2023-01-01 04:21:23,Access,Dashboard,Success,True
+pwhskkaw,2023-01-01 04:26:44,Delete,Admin Panel,Unauthorized,False
+xbrvwqzc,2023-01-01 04:32:26,Login,Dashboard,Success,True
+osghzxlw,2023-01-01 04:32:39,Delete,Financials,Unauthorized,False
+jnyflufq,2023-01-01 04:33:07,View,Documents,Success,True
+dpwtduoa,2023-01-01 04:33:27,Access,Reports,Success,True
+xmecvylk,2023-01-01 04:38:09,Login,Dashboard,Success,True
+zieqxdek,2023-01-01 04:39:31,Login,Dashboard,Success,True
+uhzxczmb,2023-01-01 04:40:02,View,Reports,Success,True
+lzokbtzr,2023-01-01 04:41:31,Access,Dashboard,Success,True
+ygyqzsio,2023-01-01 04:42:58,Edit,Admin Panel,Unauthorized,False
+sgtcodki,2023-01-01 04:43:46,Delete,Financials,Unauthorized,False
+nwbcejkv,2023-01-01 04:44:12,Edit,Admin Panel,Unauthorized,False
+onalwqtc,2023-01-01 04:45:00,View,Documents,Success,True
+ksjrpqvl,2023-01-01 04:45:22,Access,Documents,Success,True
+wstsfgmv,2023-01-01 04:45:53,View,Dashboard,Success,True
+ppeayggp,2023-01-01 04:46:43,Access,Financials,Unauthorized,False
+harlvysc,2023-01-01 04:50:42,Access,Documents,Success,True
+qyuyvnhn,2023-01-01 04:54:08,Edit,Admin Panel,Unauthorized,False
+zxflyvxz,2023-01-01 04:54:24,Delete,Financials,Unauthorized,False
+nwgrvyjg,2023-01-01 04:59:10,View,Documents,Success,True
+woemdhbw,2023-01-01 04:59:25,Delete,Financials,Unauthorized,False
+feqcxhmd,2023-01-01 04:59:46,Login,Admin Panel,Success,False
+arbctgfm,2023-01-01 05:00:39,View,Reports,Success,True
+rpjvlwbe,2023-01-01 05:00:40,Access,Documents,Success,True
+vsnwsyrp,2023-01-01 05:01:23,Delete,Financials,Success,False
+zzvfhkrq,2023-01-01 05:01:52,Delete,Admin Panel,Unauthorized,False
+mloxgjck,2023-01-01 05:02:24,Access,Documents,Success,True
+sebgeeys,2023-01-01 05:03:55,View,Admin Panel,Unauthorized,False
+igwicxhf,2023-01-01 05:05:45,Access,Admin Panel,Success,False
+yzgfbzhq,2023-01-01 05:06:33,Login,Admin Panel,Unauthorized,False
+fxslpeuz,2023-01-01 05:07:31,Login,Documents,Success,True
+sxvurvfw,2023-01-01 05:08:03,Delete,Admin Panel,Success,False
+rcqddkgb,2023-01-01 05:08:43,Access,Reports,Success,True
+wkdnncjf,2023-01-01 05:10:26,Login,Dashboard,Success,True
+ttspsgwb,2023-01-01 05:11:52,View,Financials,Success,False
+qrjcyjrm,2023-01-01 05:13:19,Login,Admin Panel,Unauthorized,False
+jpzqimgd,2023-01-01 05:13:30,Edit,Financials,Success,False
+ygjgdurm,2023-01-01 05:14:07,Login,Documents,Success,True
+luzyhstw,2023-01-01 05:15:00,View,Documents,Success,True
+gubzqhov,2023-01-01 05:17:04,Edit,Admin Panel,Unauthorized,False
+wnwmkrzp,2023-01-01 05:18:56,Access,Documents,Success,True
+rclvuefu,2023-01-01 05:19:18,Access,Documents,Success,True
+vjeepzqp,2023-01-01 05:20:21,Delete,Admin Panel,Unauthorized,False
+evbhkfvb,2023-01-01 05:21:19,Delete,Financials,Unauthorized,False
+gmrpqtgm,2023-01-01 05:21:44,View,Financials,Unauthorized,False
+gqtxnlnl,2023-01-01 05:22:21,Access,Documents,Success,True
+dlhpfmfs,2023-01-01 05:22:25,Delete,Financials,Success,False
+aaeanuol,2023-01-01 05:22:30,Login,Dashboard,Success,True
+rwjmrigm,2023-01-01 05:23:42,View,Financials,Unauthorized,False
+wwynqrmz,2023-01-01 05:24:19,Access,Documents,Success,True
+lwtpydwv,2023-01-01 05:25:20,Login,Admin Panel,Success,False
+hvzqponp,2023-01-01 05:27:25,Edit,Financials,Unauthorized,False
+bveunvkj,2023-01-01 05:29:57,Access,Documents,Success,True
+sfjfgvxs,2023-01-01 05:32:41,Access,Financials,Unauthorized,False
+nxljvvsk,2023-01-01 05:34:20,Delete,Financials,Unauthorized,False
+vkuumkks,2023-01-01 05:35:45,Access,Dashboard,Success,True
+vczhyfeh,2023-01-01 05:36:17,Delete,Financials,Unauthorized,False
+cdmivlvm,2023-01-01 05:37:13,Access,Reports,Success,True
+lcoamdny,2023-01-01 05:38:04,Login,Documents,Success,True
+xxliznla,2023-01-01 05:38:35,Login,Documents,Success,True
+cyvgdlkq,2023-01-01 05:38:44,Access,Dashboard,Success,True
+defostho,2023-01-01 05:39:12,View,Documents,Success,True
+ljwwtqsk,2023-01-01 05:41:38,View,Reports,Success,True
+mbcrbcrk,2023-01-01 05:42:34,Login,Financials,Unauthorized,False
+ospoxqwi,2023-01-01 05:47:08,Login,Dashboard,Success,True
+dvltbpfg,2023-01-01 05:47:41,View,Reports,Success,True
+oxgkcsyn,2023-01-01 05:48:10,Login,Dashboard,Success,True
+mfczrcqk,2023-01-01 05:49:55,Access,Reports,Success,True
+yngmppnr,2023-01-01 05:50:33,View,Dashboard,Success,True
+jlofckbt,2023-01-01 05:50:58,View,Dashboard,Success,True
+zmrxoxpd,2023-01-01 05:52:36,Access,Reports,Success,True
+wumxvyls,2023-01-01 05:52:46,Login,Dashboard,Success,True
+mzfwnphi,2023-01-01 05:53:25,Delete,Admin Panel,Unauthorized,False
+xqubenwl,2023-01-01 05:54:23,Access,Dashboard,Success,True
+ydrfejrj,2023-01-01 05:54:45,View,Financials,Unauthorized,False
+wlpzuwns,2023-01-01 05:55:26,Access,Dashboard,Success,True
+toupffij,2023-01-01 05:55:29,View,Dashboard,Success,True
+qleidmva,2023-01-01 05:55:34,Access,Documents,Success,True
+cowekxwz,2023-01-01 05:58:17,Access,Financials,Success,False
+qiegfytz,2023-01-01 05:58:31,View,Documents,Success,True
+ctyhjtgs,2023-01-01 05:58:55,Login,Documents,Success,True
+hjmjmkou,2023-01-01 05:58:57,Delete,Admin Panel,Success,False
+cdpbwjmh,2023-01-01 06:00:49,Login,Admin Panel,Unauthorized,False
+outndkui,2023-01-01 06:02:04,Edit,Financials,Unauthorized,False
+hpzrcqrw,2023-01-01 06:02:17,Delete,Financials,Unauthorized,False
+gfqxsvvh,2023-01-01 06:02:21,Access,Documents,Success,True
+pxjjodkx,2023-01-01 06:03:04,Access,Dashboard,Success,True
+zhjnygcf,2023-01-01 06:06:08,Edit,Financials,Unauthorized,False
+mabyiitn,2023-01-01 06:07:24,Delete,Admin Panel,Unauthorized,False
+eyfqluzc,2023-01-01 06:07:53,Login,Reports,Success,True
+xwusixko,2023-01-01 06:11:53,View,Dashboard,Success,True
+gmlumeah,2023-01-01 06:12:03,Login,Dashboard,Success,True
+jhpyydid,2023-01-01 06:13:11,Delete,Admin Panel,Unauthorized,False
+jrixtykc,2023-01-01 06:13:41,Access,Financials,Unauthorized,False
+bazxuohb,2023-01-01 06:15:16,View,Dashboard,Success,True
+hzvhszbj,2023-01-01 06:15:59,Login,Dashboard,Success,True
+gmlbdvsq,2023-01-01 06:17:34,Login,Dashboard,Success,True
+qcezofzt,2023-01-01 06:18:13,View,Financials,Success,False
+plhydtko,2023-01-01 06:22:51,Delete,Financials,Unauthorized,False
+ejxcofrm,2023-01-01 06:22:54,Access,Admin Panel,Unauthorized,False
+shqpjhrk,2023-01-01 06:23:49,Delete,Admin Panel,Unauthorized,False
+lqkqnaio,2023-01-01 06:24:15,Edit,Financials,Success,False
+avrkpuxg,2023-01-01 06:24:44,View,Financials,Unauthorized,False
+eljrxemq,2023-01-01 06:24:49,View,Reports,Success,True
+bxjfewsy,2023-01-01 06:25:27,View,Reports,Success,True
+yshcwchi,2023-01-01 06:27:20,Login,Dashboard,Success,True
+xmsfkaml,2023-01-01 06:27:21,Login,Dashboard,Success,True
+elkcfrtm,2023-01-01 06:31:17,Login,Dashboard,Success,True
+ywjrumrb,2023-01-01 06:34:48,View,Financials,Success,False
+rlnlswlb,2023-01-01 06:36:51,Login,Documents,Success,True
+pqhcxqyz,2023-01-01 06:38:40,Login,Reports,Success,True
+zapqkjsy,2023-01-01 06:42:25,View,Documents,Success,True
+onrjsgxd,2023-01-01 06:43:00,View,Reports,Success,True
+ktrqknhd,2023-01-01 06:44:37,View,Admin Panel,Unauthorized,False
+qdwaaaxw,2023-01-01 06:44:39,Login,Documents,Success,True
+rrzrdllz,2023-01-01 06:45:22,Edit,Financials,Unauthorized,False
+twfrqblb,2023-01-01 06:45:52,Access,Reports,Success,True
+ezghneex,2023-01-01 06:47:56,Login,Admin Panel,Success,False
+abuqnokd,2023-01-01 06:51:20,Access,Dashboard,Success,True
+kawodoxh,2023-01-01 06:51:51,Delete,Admin Panel,Success,False
+nkqfzprv,2023-01-01 06:52:00,Login,Reports,Success,True
+esfqwpnr,2023-01-01 06:58:46,View,Admin Panel,Success,False
+smbcjqrg,2023-01-01 06:59:39,Login,Documents,Success,True
+aafsmhan,2023-01-01 07:01:22,View,Admin Panel,Unauthorized,False
+qhpqwwdz,2023-01-01 07:04:24,Edit,Admin Panel,Unauthorized,False
+gkquhqrk,2023-01-01 07:05:28,Login,Financials,Unauthorized,False
+obvixlje,2023-01-01 07:06:02,Login,Documents,Success,True
+qbjwhohg,2023-01-01 07:07:58,Edit,Admin Panel,Unauthorized,False
+slnkojvl,2023-01-01 07:08:49,View,Financials,Unauthorized,False
+eppxbyhr,2023-01-01 07:11:13,Delete,Financials,Unauthorized,False
+spehklst,2023-01-01 07:13:13,Login,Dashboard,Success,True
+uqnnmavo,2023-01-01 07:13:21,Delete,Financials,Success,False
+vddipwbp,2023-01-01 07:14:10,View,Financials,Success,False
+ysuadcxj,2023-01-01 07:14:42,Access,Documents,Success,True
+uifcmlbw,2023-01-01 07:15:28,View,Financials,Success,False
+jkjbioey,2023-01-01 07:16:02,Access,Documents,Success,True
+pxwfzjcr,2023-01-01 07:16:10,Access,Documents,Success,True
+efmbekty,2023-01-01 07:19:33,Edit,Financials,Unauthorized,False
+wyjueixw,2023-01-01 07:20:15,Delete,Financials,Unauthorized,False
+xszircbd,2023-01-01 07:22:48,Edit,Financials,Unauthorized,False
+zrxfavzr,2023-01-01 07:24:19,Access,Financials,Unauthorized,False
+cysfgxcy,2023-01-01 07:24:28,Login,Admin Panel,Success,False
+lwhfbjma,2023-01-01 07:25:27,Login,Dashboard,Success,True
+ltsbiout,2023-01-01 07:25:29,Delete,Admin Panel,Unauthorized,False
+cpyliqwy,2023-01-01 07:28:23,Access,Admin Panel,Success,False
+ygxsbncs,2023-01-01 07:32:25,Edit,Financials,Success,False
+pyfojzxj,2023-01-01 07:32:54,Access,Dashboard,Success,True
+wbtcchax,2023-01-01 07:33:20,Delete,Financials,Unauthorized,False
+pnxkkqxe,2023-01-01 07:40:32,Access,Documents,Success,True
+esizwsay,2023-01-01 07:40:41,Access,Dashboard,Success,True
+rpmmhhkp,2023-01-01 07:41:41,View,Dashboard,Success,True
+yaojbutk,2023-01-01 07:42:28,Access,Reports,Success,True
+sgjygweg,2023-01-01 07:47:27,Delete,Admin Panel,Success,False
+okmluymj,2023-01-01 07:47:36,Access,Admin Panel,Unauthorized,False
+cspbipag,2023-01-01 07:48:15,Login,Documents,Success,True
+cyixkwci,2023-01-01 07:49:22,Access,Admin Panel,Success,False
+ddeeellu,2023-01-01 07:55:13,Access,Dashboard,Success,True
+kcevhcwf,2023-01-01 07:56:44,Login,Admin Panel,Unauthorized,False
+awiegohn,2023-01-01 07:57:14,View,Dashboard,Success,True
+mddzxxaq,2023-01-01 07:59:49,Delete,Financials,Unauthorized,False
+lglvaxsj,2023-01-01 08:01:23,Delete,Financials,Unauthorized,False
+brurxxdx,2023-01-01 08:01:49,View,Financials,Unauthorized,False
+dvzusmxs,2023-01-01 08:05:54,Access,Reports,Success,True
+zbfvnwen,2023-01-01 08:07:25,Login,Admin Panel,Unauthorized,False
+nmwwkpzg,2023-01-01 08:09:17,Edit,Admin Panel,Unauthorized,False
+ytdcevkx,2023-01-01 08:10:27,View,Dashboard,Success,True
+jgzsmwzn,2023-01-01 08:10:37,View,Dashboard,Success,True
+pijglmms,2023-01-01 08:10:50,Access,Financials,Unauthorized,False
+mmzhgvaf,2023-01-01 08:10:58,Login,Documents,Success,True
+agwfpkyw,2023-01-01 08:11:32,Login,Dashboard,Success,True
+fmfawchg,2023-01-01 08:12:08,Delete,Financials,Unauthorized,False
+qthqhozt,2023-01-01 08:12:31,Edit,Financials,Unauthorized,False
+dsguoxeh,2023-01-01 08:13:39,Delete,Admin Panel,Unauthorized,False
+ipobayzf,2023-01-01 08:14:18,View,Documents,Success,True
+yswulony,2023-01-01 08:17:05,Access,Documents,Success,True
+qwicldst,2023-01-01 08:19:55,View,Financials,Unauthorized,False
+loeqodzc,2023-01-01 08:20:57,Access,Financials,Success,False
+sjaxhdsx,2023-01-01 08:21:23,Login,Reports,Success,True
+bqnlbauq,2023-01-01 08:22:34,Edit,Financials,Unauthorized,False
+ysacdjfr,2023-01-01 08:23:20,Delete,Admin Panel,Unauthorized,False
+rkrvzgon,2023-01-01 08:23:54,Login,Reports,Success,True
+nwctgsha,2023-01-01 08:25:35,Login,Documents,Success,True
+cbyyilbi,2023-01-01 08:26:11,Access,Admin Panel,Unauthorized,False
+ghuejfuk,2023-01-01 08:26:26,Edit,Admin Panel,Success,False
+jiczsghf,2023-01-01 08:26:40,Access,Documents,Success,True
+pzpikqvo,2023-01-01 08:28:35,View,Admin Panel,Unauthorized,False
+sevqqapl,2023-01-01 08:35:20,Access,Admin Panel,Success,False
+ostemfpw,2023-01-01 08:36:56,Login,Dashboard,Success,True
+jfdelvfg,2023-01-01 08:39:20,Delete,Admin Panel,Unauthorized,False
+zmdogcfv,2023-01-01 08:39:37,Login,Admin Panel,Unauthorized,False
+mvkthqty,2023-01-01 08:39:52,Login,Financials,Unauthorized,False
+lauxbrws,2023-01-01 08:40:12,Login,Reports,Success,True
+eymmxuyf,2023-01-01 08:40:58,View,Reports,Success,True
+ygcippfx,2023-01-01 08:41:09,Login,Documents,Success,True
+vrfrlyok,2023-01-01 08:41:27,View,Documents,Success,True
+ltfaypzw,2023-01-01 08:43:33,Login,Admin Panel,Unauthorized,False
+dwwlrbvs,2023-01-01 08:46:53,Edit,Financials,Unauthorized,False
+tvqxroad,2023-01-01 08:47:37,View,Reports,Success,True
+cjoaxqpa,2023-01-01 08:48:33,Access,Reports,Success,True
+qbnufwqs,2023-01-01 08:49:44,Login,Reports,Success,True
+iydojcyb,2023-01-01 08:50:55,Login,Financials,Unauthorized,False
+yleimunk,2023-01-01 08:53:12,Login,Reports,Success,True
+ltqfyehs,2023-01-01 08:53:53,Access,Dashboard,Success,True
+ukrafaqk,2023-01-01 08:58:24,Login,Financials,Unauthorized,False
+ywdfhbbi,2023-01-01 08:59:21,View,Documents,Success,True
+qwzkqilp,2023-01-01 09:01:47,Delete,Admin Panel,Success,False
+mjtkbxav,2023-01-01 09:05:32,Login,Reports,Success,True
+sdlvcytj,2023-01-01 09:06:33,Delete,Financials,Success,False
+rbaomjnn,2023-01-01 09:07:05,View,Financials,Unauthorized,False
+pniawvvp,2023-01-01 09:09:06,View,Documents,Success,True
+qchfrbwn,2023-01-01 09:10:19,Access,Admin Panel,Unauthorized,False
+litnlohx,2023-01-01 09:10:38,View,Dashboard,Success,True
+dbevgvvs,2023-01-01 09:12:02,Access,Reports,Success,True
+lkdryuxg,2023-01-01 09:13:20,Login,Dashboard,Success,True
+zmzoehai,2023-01-01 09:13:29,Edit,Admin Panel,Unauthorized,False
+moxcdmpf,2023-01-01 09:14:30,Edit,Financials,Unauthorized,False
+ybtwubty,2023-01-01 09:14:57,View,Dashboard,Success,True
+yhqceruo,2023-01-01 09:15:38,Access,Documents,Success,True
+krrhdcdb,2023-01-01 09:16:27,Delete,Financials,Unauthorized,False
+lpioitvl,2023-01-01 09:17:00,View,Dashboard,Success,True
+uolezrnp,2023-01-01 09:18:46,Delete,Admin Panel,Success,False
+zxltcbzg,2023-01-01 09:21:15,View,Dashboard,Success,True
+ohieorcf,2023-01-01 09:22:11,Edit,Admin Panel,Unauthorized,False
+kywqisfp,2023-01-01 09:27:10,Edit,Financials,Success,False
+qrkttbew,2023-01-01 09:28:14,Delete,Financials,Unauthorized,False
+uqbdhyxb,2023-01-01 09:30:42,Access,Documents,Success,True
+ncdckngg,2023-01-01 09:31:07,Delete,Admin Panel,Success,False
+domddyse,2023-01-01 09:31:12,Edit,Admin Panel,Success,False
+hzfsbrqi,2023-01-01 09:31:29,Login,Reports,Success,True
+digybpus,2023-01-01 09:31:30,Access,Reports,Success,True
+tcxytvhp,2023-01-01 09:34:33,Access,Dashboard,Success,True
+eoyuypks,2023-01-01 09:35:06,View,Admin Panel,Success,False
+pcwbokdx,2023-01-01 09:36:17,Login,Financials,Unauthorized,False
+ywavncrf,2023-01-01 09:40:51,Access,Documents,Success,True
+peykttex,2023-01-01 09:43:34,Delete,Financials,Unauthorized,False
+yejntdbt,2023-01-01 09:45:13,Edit,Financials,Unauthorized,False
+qtocnimj,2023-01-01 09:52:15,Edit,Admin Panel,Unauthorized,False
+vwiwbwbd,2023-01-01 09:53:28,Login,Documents,Success,True
+kpeofdjv,2023-01-01 09:53:51,Edit,Financials,Success,False
+lyuddgqo,2023-01-01 09:53:58,Login,Documents,Success,True
+rdfwkfid,2023-01-01 09:56:19,View,Documents,Success,True
+hbseoetx,2023-01-01 09:56:33,Login,Reports,Success,True
+oiotdogo,2023-01-01 09:58:08,Login,Reports,Success,True
+otxtzrbr,2023-01-01 10:02:34,View,Admin Panel,Unauthorized,False
+vvnomtvi,2023-01-01 10:02:39,View,Financials,Success,False
+kylulgrv,2023-01-01 10:03:12,Access,Admin Panel,Unauthorized,False
+yjatyagb,2023-01-01 10:04:10,View,Admin Panel,Unauthorized,False
+bvpfoanx,2023-01-01 10:05:16,Delete,Admin Panel,Unauthorized,False
+zuhkgdgg,2023-01-01 10:05:59,View,Reports,Success,True
+mpobomtj,2023-01-01 10:05:59,Delete,Financials,Unauthorized,False
+olhemesg,2023-01-01 10:06:05,Access,Reports,Success,True
+mjeacemd,2023-01-01 10:06:38,Edit,Admin Panel,Unauthorized,False
+isnvcmsk,2023-01-01 10:07:22,Login,Documents,Success,True
+bkcdvzal,2023-01-01 10:11:22,Delete,Admin Panel,Unauthorized,False
+fhluzfct,2023-01-01 10:14:45,Access,Reports,Success,True
+duvbjcsj,2023-01-01 10:14:58,View,Admin Panel,Success,False
+iymbrkoy,2023-01-01 10:16:20,View,Admin Panel,Unauthorized,False
+csnbvcfj,2023-01-01 10:18:01,View,Documents,Success,True
+ibgaynxo,2023-01-01 10:21:20,Edit,Financials,Success,False
+xnirisjw,2023-01-01 10:21:23,Login,Documents,Success,True
+sstwzkhs,2023-01-01 10:22:59,View,Financials,Unauthorized,False
+klbrxjze,2023-01-01 10:25:08,View,Dashboard,Success,True
+jciknyin,2023-01-01 10:25:24,View,Financials,Unauthorized,False
+pghqwslb,2023-01-01 10:29:35,Login,Dashboard,Success,True
+gpnrtlun,2023-01-01 10:29:43,Access,Documents,Success,True
+ygfmnpsr,2023-01-01 10:30:55,View,Dashboard,Success,True
+yofzdjpo,2023-01-01 10:31:28,Login,Admin Panel,Unauthorized,False
+izhpsqsv,2023-01-01 10:32:04,Delete,Financials,Unauthorized,False
+sqwwxdfp,2023-01-01 10:32:09,Access,Dashboard,Success,True
+mdwqemhq,2023-01-01 10:33:00,Delete,Financials,Unauthorized,False
+hewhmchv,2023-01-01 10:36:50,Login,Dashboard,Success,True
+rrnwmeou,2023-01-01 10:38:09,Login,Documents,Success,True
+yymqhlay,2023-01-01 10:40:51,Access,Admin Panel,Unauthorized,False
+plovxwcc,2023-01-01 10:41:05,Delete,Financials,Unauthorized,False
+wscjobbn,2023-01-01 10:41:17,View,Dashboard,Success,True
+rplnycrq,2023-01-01 10:41:55,Login,Dashboard,Success,True
+afntyesn,2023-01-01 10:43:37,View,Documents,Success,True
+eviltlde,2023-01-01 10:43:46,Access,Documents,Success,True
+xpwsiqqw,2023-01-01 10:43:50,Access,Admin Panel,Unauthorized,False
+qmabbcpm,2023-01-01 10:44:24,Edit,Admin Panel,Success,False
+uekwuzfg,2023-01-01 10:46:11,Edit,Financials,Unauthorized,False
+onvgkrtj,2023-01-01 10:52:05,Login,Dashboard,Success,True
+kbgfalmi,2023-01-01 10:52:13,Login,Financials,Unauthorized,False
+oqrjklgs,2023-01-01 10:52:24,Access,Admin Panel,Unauthorized,False
+xxpfabfz,2023-01-01 10:59:16,Edit,Financials,Success,False
+ioahuijy,2023-01-01 10:59:19,Access,Reports,Success,True
+hhmsymge,2023-01-01 11:00:22,Access,Reports,Success,True
+zmgoqlsd,2023-01-01 11:00:39,Delete,Admin Panel,Unauthorized,False
+tjlbtyzf,2023-01-01 11:01:01,View,Documents,Success,True
+fntkmeuv,2023-01-01 11:01:38,Login,Documents,Success,True
+xyjdzwun,2023-01-01 11:04:27,View,Admin Panel,Unauthorized,False
+icvfspku,2023-01-01 11:04:45,Access,Documents,Success,True
+xbehfrlk,2023-01-01 11:04:58,Login,Documents,Success,True
+bqncfuer,2023-01-01 11:09:33,Edit,Admin Panel,Unauthorized,False
+gxmhvwgu,2023-01-01 11:09:52,Delete,Admin Panel,Success,False
+uloyuxzq,2023-01-01 11:11:32,Edit,Admin Panel,Unauthorized,False
+pbmexzmh,2023-01-01 11:13:31,Access,Dashboard,Success,True
+skduodus,2023-01-01 11:13:43,Login,Documents,Success,True
+xyzbsvwf,2023-01-01 11:14:03,Login,Dashboard,Success,True
+emxlsrsn,2023-01-01 11:14:26,Access,Admin Panel,Unauthorized,False
+zdaeijds,2023-01-01 11:14:32,Edit,Admin Panel,Unauthorized,False
+dpfkmaqf,2023-01-01 11:21:32,View,Dashboard,Success,True
+nwruzqhb,2023-01-01 11:21:51,Delete,Financials,Unauthorized,False
+vwlbbclv,2023-01-01 11:23:12,View,Dashboard,Success,True
+nmpobjrn,2023-01-01 11:23:34,Delete,Financials,Unauthorized,False
+jszvpgpm,2023-01-01 11:24:25,Edit,Admin Panel,Unauthorized,False
+wrmgervj,2023-01-01 11:27:03,Login,Dashboard,Success,True
+dwtzooyi,2023-01-01 11:29:32,Edit,Admin Panel,Unauthorized,False
+teduljdq,2023-01-01 11:29:34,Login,Reports,Success,True
+nkhnnsay,2023-01-01 11:30:49,Access,Financials,Unauthorized,False
+rienltsd,2023-01-01 11:34:13,Login,Dashboard,Success,True
+idrscywt,2023-01-01 11:34:36,Access,Financials,Unauthorized,False
+dtqebahk,2023-01-01 11:34:46,View,Documents,Success,True
+rdxjjhnw,2023-01-01 11:36:42,Delete,Admin Panel,Unauthorized,False
+npbfumml,2023-01-01 11:37:44,Edit,Admin Panel,Success,False
+amkiydmm,2023-01-01 11:37:56,Access,Financials,Unauthorized,False
+ihlkkrne,2023-01-01 11:41:15,Delete,Financials,Unauthorized,False
+ketrjxqa,2023-01-01 11:41:35,Login,Admin Panel,Unauthorized,False
+uhgtfymj,2023-01-01 11:43:15,Delete,Financials,Unauthorized,False
+axpsmclj,2023-01-01 11:43:23,Edit,Financials,Unauthorized,False
+hqxvjasj,2023-01-01 11:44:46,Login,Reports,Success,True
+ktwxjeay,2023-01-01 11:46:00,View,Documents,Success,True
+zbapntvp,2023-01-01 11:46:35,Access,Reports,Success,True
+lgekztay,2023-01-01 11:49:01,Login,Admin Panel,Success,False
+zhxmmrik,2023-01-01 11:52:08,Delete,Financials,Success,False
+rbaipxii,2023-01-01 11:52:53,Access,Dashboard,Success,True
+otdckfpo,2023-01-01 11:55:32,Login,Dashboard,Success,True
+cbrwgxob,2023-01-01 11:56:31,Login,Admin Panel,Unauthorized,False
+lttnlckf,2023-01-01 11:56:41,Access,Dashboard,Success,True
+wbbizjiw,2023-01-01 12:00:20,Access,Admin Panel,Unauthorized,False
+ipwrdnfh,2023-01-01 12:01:16,View,Financials,Success,False
+onwfdtgx,2023-01-01 12:03:21,Access,Reports,Success,True
+vsvbyprj,2023-01-01 12:05:54,View,Admin Panel,Success,False
+padrcgnj,2023-01-01 12:06:45,Access,Dashboard,Success,True
+emaqradz,2023-01-01 12:08:09,Access,Dashboard,Success,True
+cmchgehc,2023-01-01 12:09:12,Login,Financials,Unauthorized,False
+kptdadsm,2023-01-01 12:10:28,Login,Financials,Unauthorized,False
+hvxthltq,2023-01-01 12:10:37,View,Admin Panel,Success,False
+fsylnhxs,2023-01-01 12:10:55,Login,Reports,Success,True
+awtfzdxm,2023-01-01 12:11:00,Edit,Admin Panel,Unauthorized,False
+pvykcdeq,2023-01-01 12:12:29,Delete,Admin Panel,Success,False
+ftccgqir,2023-01-01 12:14:11,Access,Dashboard,Success,True
+bfqqpnwr,2023-01-01 12:17:02,Login,Financials,Unauthorized,False
+dsnjawkm,2023-01-01 12:17:32,Delete,Admin Panel,Success,False
+otqacanh,2023-01-01 12:17:57,View,Admin Panel,Success,False
+eozzerkt,2023-01-01 12:17:58,Access,Reports,Success,True
+vyavlnpl,2023-01-01 12:21:45,View,Reports,Success,True
+jiqsddtt,2023-01-01 12:22:10,Login,Documents,Success,True
+ttchvxat,2023-01-01 12:22:16,View,Reports,Success,True
+jmgwnyvf,2023-01-01 12:22:21,Delete,Financials,Success,False
+zsyclzqe,2023-01-01 12:24:48,Login,Admin Panel,Success,False
+dmovzbkq,2023-01-01 12:24:57,Delete,Financials,Unauthorized,False
+pvxlqcwk,2023-01-01 12:26:19,Edit,Financials,Unauthorized,False
+tszlnynr,2023-01-01 12:27:17,Delete,Admin Panel,Success,False
+tepthzwc,2023-01-01 12:27:39,View,Admin Panel,Unauthorized,False
+fkzjbnci,2023-01-01 12:27:42,View,Documents,Success,True
+sptiopat,2023-01-01 12:27:49,View,Dashboard,Success,True
+rakrkwgo,2023-01-01 12:27:59,View,Financials,Unauthorized,False
+oezdseew,2023-01-01 12:29:05,View,Documents,Success,True
+afnqvrjg,2023-01-01 12:32:44,View,Reports,Success,True
+ozktxahd,2023-01-01 12:35:49,Edit,Admin Panel,Unauthorized,False
+mpfmiuxb,2023-01-01 12:36:25,Edit,Financials,Unauthorized,False
+ejncmooy,2023-01-01 12:37:59,Access,Dashboard,Success,True
+akuxjkys,2023-01-01 12:38:04,View,Dashboard,Success,True
+iztudben,2023-01-01 12:38:05,Access,Admin Panel,Success,False
+izptyofb,2023-01-01 12:39:22,Login,Admin Panel,Unauthorized,False
+outipuyy,2023-01-01 12:39:45,Delete,Financials,Unauthorized,False
+rnxhymge,2023-01-01 12:40:10,View,Documents,Success,True
+lmkjfddi,2023-01-01 12:40:58,Login,Admin Panel,Unauthorized,False
+morvduzo,2023-01-01 12:41:38,Delete,Financials,Success,False
+kaucyepb,2023-01-01 12:43:12,Edit,Financials,Unauthorized,False
+sxvapdpu,2023-01-01 12:45:55,Edit,Financials,Unauthorized,False
+houtinap,2023-01-01 12:46:06,Edit,Financials,Success,False
+emnazmjg,2023-01-01 12:46:40,View,Reports,Success,True
+ahhqmupg,2023-01-01 12:47:37,Access,Reports,Success,True
+kcqkumes,2023-01-01 12:48:32,Login,Documents,Success,True
+xhwbhxzk,2023-01-01 12:48:34,Login,Documents,Success,True
+ciniibtl,2023-01-01 12:49:56,Access,Documents,Success,True
+fyykqaek,2023-01-01 12:51:51,Access,Reports,Success,True
+izoxtmcl,2023-01-01 12:51:58,Login,Admin Panel,Unauthorized,False
+ridqjagb,2023-01-01 12:54:25,View,Documents,Success,True
+kezfxtjx,2023-01-01 12:55:32,Login,Reports,Success,True
+sgijdvqk,2023-01-01 12:56:04,Login,Dashboard,Success,True
+vcufyptb,2023-01-01 12:57:38,Login,Reports,Success,True
+qstzdzhf,2023-01-01 12:58:06,Access,Admin Panel,Unauthorized,False
+hzgvptci,2023-01-01 12:58:26,View,Documents,Success,True
+rqyiwepg,2023-01-01 13:00:01,Delete,Financials,Unauthorized,False
+eijjycwt,2023-01-01 13:04:13,Delete,Financials,Success,False
+pzvomzev,2023-01-01 13:04:39,Edit,Financials,Unauthorized,False
+ahiwoqsa,2023-01-01 13:04:48,Delete,Admin Panel,Success,False
+akblopgm,2023-01-01 13:06:23,Edit,Financials,Unauthorized,False
+bwrmvwtq,2023-01-01 13:07:36,Edit,Financials,Success,False
+koqwsvdi,2023-01-01 13:07:44,Edit,Admin Panel,Unauthorized,False
+yqcjlass,2023-01-01 13:07:47,View,Admin Panel,Unauthorized,False
+kdttzhce,2023-01-01 13:08:24,Access,Documents,Success,True
+fjbhcywk,2023-01-01 13:09:48,Delete,Financials,Unauthorized,False
+lqbkbqia,2023-01-01 13:09:58,View,Reports,Success,True
+uqhqlnyr,2023-01-01 13:12:07,Edit,Admin Panel,Success,False
+rwwxdkwu,2023-01-01 13:12:15,Login,Dashboard,Success,True
+xtfreytr,2023-01-01 13:12:16,View,Financials,Unauthorized,False
+vmjgxvru,2023-01-01 13:15:56,Delete,Admin Panel,Success,False
+jjgkzzrm,2023-01-01 13:18:19,Login,Dashboard,Success,True
+muusnaie,2023-01-01 13:19:58,Delete,Admin Panel,Unauthorized,False
+isusflci,2023-01-01 13:20:33,View,Reports,Success,True
+ooavrvii,2023-01-01 13:22:56,View,Admin Panel,Unauthorized,False
+kjopdlqw,2023-01-01 13:23:49,Login,Documents,Success,True
+alcrfmyr,2023-01-01 13:25:37,Login,Dashboard,Success,True
+qhxllpze,2023-01-01 13:25:45,View,Documents,Success,True
+hcutctck,2023-01-01 13:25:45,Edit,Admin Panel,Unauthorized,False
+jiyrmihg,2023-01-01 13:26:07,Delete,Admin Panel,Unauthorized,False
+mczrlqgw,2023-01-01 13:26:24,Edit,Financials,Unauthorized,False
+xfnurihz,2023-01-01 13:29:24,View,Admin Panel,Unauthorized,False
+pakcynep,2023-01-01 13:33:35,Edit,Admin Panel,Unauthorized,False
+jagjspxp,2023-01-01 13:34:47,Access,Documents,Success,True
+cqhsflls,2023-01-01 13:36:57,Login,Documents,Success,True
+ivutifyr,2023-01-01 13:37:36,Access,Reports,Success,True
+ylahmxcd,2023-01-01 13:42:11,Delete,Admin Panel,Unauthorized,False
+ertmbicq,2023-01-01 13:42:23,View,Admin Panel,Success,False
+fyiplgzv,2023-01-01 13:48:32,Access,Documents,Success,True
+qrtsgdab,2023-01-01 13:50:20,Login,Dashboard,Success,True
+cqsrympa,2023-01-01 13:51:05,View,Documents,Success,True
+hwcltgrf,2023-01-01 13:51:14,Login,Documents,Success,True
+kftkkgup,2023-01-01 13:53:15,View,Documents,Success,True
+jhqnfhmr,2023-01-01 13:59:16,Access,Documents,Success,True
+ncqbulhf,2023-01-01 14:01:33,View,Documents,Success,True
+jrltmlte,2023-01-01 14:02:27,Access,Reports,Success,True
+eoqukrjj,2023-01-01 14:02:29,View,Reports,Success,True
+ckxbvkqt,2023-01-01 14:02:38,Delete,Financials,Unauthorized,False
+eyopnejp,2023-01-01 14:05:07,Access,Financials,Unauthorized,False
+ablcgwoz,2023-01-01 14:05:15,Edit,Financials,Unauthorized,False
+rlfqdosn,2023-01-01 14:06:13,Access,Reports,Success,True
+flkqzlzw,2023-01-01 14:06:13,Access,Dashboard,Success,True
+tugrxsmd,2023-01-01 14:06:25,Login,Dashboard,Success,True
+kstekemj,2023-01-01 14:06:43,Access,Financials,Unauthorized,False
+qxfdrhiv,2023-01-01 14:06:50,Access,Dashboard,Success,True
+iivnfspz,2023-01-01 14:13:08,Delete,Admin Panel,Unauthorized,False
+xghlawrh,2023-01-01 14:14:00,View,Dashboard,Success,True
+zwpvlrxu,2023-01-01 14:14:00,Access,Reports,Success,True
+opnioizi,2023-01-01 14:16:05,View,Documents,Success,True
+fjwbejin,2023-01-01 14:16:08,Access,Documents,Success,True
+lcoswwqk,2023-01-01 14:17:09,Edit,Financials,Success,False
+oxgzkxsj,2023-01-01 14:17:10,Access,Financials,Success,False
+sqspawac,2023-01-01 14:19:35,Edit,Admin Panel,Unauthorized,False
+gtcwnadq,2023-01-01 14:19:40,Login,Documents,Success,True
+wqlybkax,2023-01-01 14:22:43,Login,Documents,Success,True
+rfnhwres,2023-01-01 14:22:46,View,Financials,Unauthorized,False
+chhqbwjf,2023-01-01 14:23:16,Login,Reports,Success,True
+hxycalfo,2023-01-01 14:23:59,View,Documents,Success,True
+sqcpmlha,2023-01-01 14:26:41,Login,Reports,Success,True
+xeyremow,2023-01-01 14:29:17,Delete,Financials,Unauthorized,False
+hscemuap,2023-01-01 14:31:14,Edit,Admin Panel,Unauthorized,False
+scirgipp,2023-01-01 14:31:52,Edit,Financials,Unauthorized,False
+ercsqofo,2023-01-01 14:35:12,Login,Reports,Success,True
+yiogespc,2023-01-01 14:36:36,Access,Admin Panel,Unauthorized,False
+fbhknwbe,2023-01-01 14:39:59,View,Dashboard,Success,True
+tbewwhxi,2023-01-01 14:40:33,View,Reports,Success,True
+yttqmnfo,2023-01-01 14:41:35,View,Reports,Success,True
+tpqavhia,2023-01-01 14:41:48,View,Reports,Success,True
+tevbtybg,2023-01-01 14:42:46,Login,Dashboard,Success,True
+tdlvgaqf,2023-01-01 14:42:51,Delete,Admin Panel,Success,False
+yonbtvyn,2023-01-01 14:43:07,Access,Admin Panel,Unauthorized,False
+pknizizf,2023-01-01 14:46:37,View,Reports,Success,True
+blmgiwdh,2023-01-01 14:47:30,View,Financials,Unauthorized,False
+iwijnwbt,2023-01-01 14:47:45,Delete,Financials,Unauthorized,False
+twhhsmey,2023-01-01 14:51:29,View,Reports,Success,True
+owejbkbj,2023-01-01 14:51:38,Login,Financials,Unauthorized,False
+psshoenn,2023-01-01 14:52:19,Access,Documents,Success,True
+vxvolhdc,2023-01-01 14:53:04,Delete,Admin Panel,Success,False
+okatdwjm,2023-01-01 14:53:37,Access,Dashboard,Success,True
+korefyvr,2023-01-01 14:53:50,View,Documents,Success,True
+ndthifzg,2023-01-01 15:02:03,Access,Documents,Success,True
+vlyukunu,2023-01-01 15:03:41,Login,Dashboard,Success,True
+brccftpm,2023-01-01 15:03:48,Edit,Admin Panel,Unauthorized,False
+ikiwqzvd,2023-01-01 15:09:32,Delete,Admin Panel,Unauthorized,False
+jxwrntus,2023-01-01 15:13:00,Edit,Financials,Unauthorized,False
+ywrxmuyr,2023-01-01 15:13:23,View,Documents,Success,True
+povqjycy,2023-01-01 15:15:00,Login,Reports,Success,True
+ggtbqsfd,2023-01-01 15:15:04,Access,Documents,Success,True
+daumrmpx,2023-01-01 15:15:37,Login,Documents,Success,True
+hswesplg,2023-01-01 15:16:27,View,Dashboard,Success,True
+icqhjwoe,2023-01-01 15:18:50,View,Documents,Success,True
+vpbbbniv,2023-01-01 15:19:51,View,Reports,Success,True
+eigjfoil,2023-01-01 15:23:54,Access,Dashboard,Success,True
+shptynoa,2023-01-01 15:26:51,Login,Documents,Success,True
+qyoebltr,2023-01-01 15:27:24,Login,Dashboard,Success,True
+fkkqwsda,2023-01-01 15:29:25,Login,Dashboard,Success,True
+lzunzuak,2023-01-01 15:30:15,View,Reports,Success,True
+hkolpvhc,2023-01-01 15:32:23,Access,Documents,Success,True
+ayqwcmwh,2023-01-01 15:33:50,View,Documents,Success,True
+zrbxumxh,2023-01-01 15:34:36,Login,Admin Panel,Success,False
+hhwliafs,2023-01-01 15:39:56,Login,Reports,Success,True
+dpuutruu,2023-01-01 15:43:04,Edit,Admin Panel,Unauthorized,False
+hxspycgm,2023-01-01 15:43:30,Login,Documents,Success,True
+ammhglew,2023-01-01 15:43:35,Delete,Financials,Success,False
+txtkytox,2023-01-01 15:47:33,Access,Dashboard,Success,True
+vgytvsgg,2023-01-01 15:48:10,Login,Reports,Success,True
+xkgsvmae,2023-01-01 15:48:18,Edit,Admin Panel,Unauthorized,False
+llmuwbzg,2023-01-01 15:48:37,Login,Reports,Success,True
+ngoprzro,2023-01-01 15:50:05,Edit,Admin Panel,Unauthorized,False
+roolntkd,2023-01-01 15:50:18,Delete,Financials,Unauthorized,False
+olhphtoo,2023-01-01 15:52:35,Access,Documents,Success,True
+uzfcngau,2023-01-01 15:53:13,View,Reports,Success,True
+bvbqyogs,2023-01-01 15:53:14,View,Documents,Success,True
+tawbwbel,2023-01-01 15:54:12,Edit,Admin Panel,Unauthorized,False
+jngocplk,2023-01-01 15:54:56,Login,Dashboard,Success,True
+wpswtlox,2023-01-01 15:57:04,Access,Documents,Success,True
+csoqiece,2023-01-01 15:57:50,View,Admin Panel,Success,False
+gfnvlfku,2023-01-01 15:58:52,Delete,Financials,Unauthorized,False
+tomjowos,2023-01-01 16:01:14,View,Admin Panel,Unauthorized,False
+ygdjoyyk,2023-01-01 16:01:33,Edit,Financials,Success,False
+oggrgfbl,2023-01-01 16:01:38,Access,Reports,Success,True
+eivmmyee,2023-01-01 16:01:41,Delete,Financials,Unauthorized,False
+qrvuozsr,2023-01-01 16:05:06,Delete,Financials,Unauthorized,False
+bagmhuqh,2023-01-01 16:06:37,Edit,Financials,Unauthorized,False
+mpbprvmt,2023-01-01 16:07:06,Login,Documents,Success,True
+sxnjjwfe,2023-01-01 16:07:55,Login,Financials,Unauthorized,False
+lxuvgdxd,2023-01-01 16:10:24,View,Financials,Unauthorized,False
+wpmfqfis,2023-01-01 16:11:54,Login,Dashboard,Success,True
+drbinwwm,2023-01-01 16:12:31,View,Reports,Success,True
+qosldrfi,2023-01-01 16:13:43,Access,Reports,Success,True
+pkxxajfq,2023-01-01 16:14:12,View,Admin Panel,Unauthorized,False
+vzrjktcm,2023-01-01 16:15:09,View,Reports,Success,True
+ckrksfxn,2023-01-01 16:15:12,Access,Documents,Success,True
+iletcwij,2023-01-01 16:18:17,View,Dashboard,Success,True
+xkqpaqjb,2023-01-01 16:23:53,Access,Documents,Success,True
+gyamtprm,2023-01-01 16:24:15,Access,Documents,Success,True
+lpbzulyt,2023-01-01 16:24:55,View,Admin Panel,Unauthorized,False
+xhhyqrth,2023-01-01 16:28:59,Edit,Financials,Success,False
+efzvzuzy,2023-01-01 16:29:51,Delete,Admin Panel,Unauthorized,False
+mlsgfwoc,2023-01-01 16:34:32,View,Financials,Unauthorized,False
+buuwtoak,2023-01-01 16:34:42,Login,Reports,Success,True
+qebatqho,2023-01-01 16:35:07,Delete,Admin Panel,Unauthorized,False
+acegkzyn,2023-01-01 16:38:13,Login,Documents,Success,True
+uymutssg,2023-01-01 16:40:54,Access,Documents,Success,True
+rjuafhmd,2023-01-01 16:41:06,Login,Admin Panel,Unauthorized,False
+eyxxdrhh,2023-01-01 16:42:49,View,Admin Panel,Unauthorized,False
+olmyihsi,2023-01-01 16:43:02,Access,Dashboard,Success,True
+gwxwhebj,2023-01-01 16:43:48,Access,Documents,Success,True
+victhmpt,2023-01-01 16:44:24,View,Reports,Success,True
+kwrjpetd,2023-01-01 16:44:27,Delete,Financials,Unauthorized,False
+uvhgchug,2023-01-01 16:44:34,Login,Dashboard,Success,True
+xqhzizqd,2023-01-01 16:45:09,Access,Financials,Unauthorized,False
+szoigwgm,2023-01-01 16:45:51,Access,Dashboard,Success,True
+brxxypsl,2023-01-01 16:45:55,Delete,Financials,Unauthorized,False
+ctuuwxsz,2023-01-01 16:50:54,Delete,Financials,Unauthorized,False
+mirgvklg,2023-01-01 16:51:20,Delete,Financials,Success,False
+cbbxkwlt,2023-01-01 16:52:30,View,Documents,Success,True
+wpdbratm,2023-01-01 16:52:37,Edit,Financials,Unauthorized,False
+dfbbelgs,2023-01-01 16:52:51,Login,Reports,Success,True
+cjfnjdzz,2023-01-01 16:56:52,Login,Reports,Success,True
+pbmtrcae,2023-01-01 17:01:07,Access,Admin Panel,Unauthorized,False
+cemfxviu,2023-01-01 17:01:24,Edit,Financials,Unauthorized,False
+ajdfptez,2023-01-01 17:01:27,Delete,Financials,Unauthorized,False
+khluttvq,2023-01-01 17:01:29,Login,Dashboard,Success,True
+cnokjnjn,2023-01-01 17:02:08,Access,Documents,Success,True
+vfyoutbe,2023-01-01 17:02:40,View,Financials,Success,False
+rcvafucy,2023-01-01 17:02:50,Access,Reports,Success,True
+jhwcsggj,2023-01-01 17:03:10,View,Dashboard,Success,True
+nxzxwlae,2023-01-01 17:03:45,Login,Dashboard,Success,True
+paqglmaf,2023-01-01 17:08:30,Edit,Financials,Unauthorized,False
+fhlolich,2023-01-01 17:10:54,Delete,Financials,Unauthorized,False
+osevtktx,2023-01-01 17:13:06,Edit,Financials,Unauthorized,False
+wgjaebav,2023-01-01 17:13:39,Delete,Admin Panel,Unauthorized,False
+gskxiklg,2023-01-01 17:16:29,Login,Reports,Success,True
+lclkamwb,2023-01-01 17:16:56,Access,Financials,Success,False
+yrmndage,2023-01-01 17:17:11,Login,Financials,Unauthorized,False
+fyzjhqtn,2023-01-01 17:17:18,Login,Admin Panel,Unauthorized,False
+iskrycep,2023-01-01 17:19:02,Delete,Admin Panel,Success,False
+eagmuqxh,2023-01-01 17:22:24,Login,Documents,Success,True
+lamlmdah,2023-01-01 17:22:51,Login,Dashboard,Success,True
+wouxsllz,2023-01-01 17:24:08,Edit,Financials,Success,False
+brdhdkgl,2023-01-01 17:24:14,Login,Dashboard,Success,True
+ckhknhjs,2023-01-01 17:24:47,Login,Documents,Success,True
+wkluvrqp,2023-01-01 17:25:26,Access,Reports,Success,True
+htegffqe,2023-01-01 17:25:52,Login,Reports,Success,True
+geayziez,2023-01-01 17:26:15,Edit,Admin Panel,Unauthorized,False
+humapucm,2023-01-01 17:26:43,View,Dashboard,Success,True
+veizmaea,2023-01-01 17:27:11,View,Dashboard,Success,True
+ybhoppjf,2023-01-01 17:27:50,Access,Reports,Success,True
+evgczzxe,2023-01-01 17:28:18,Login,Reports,Success,True
+zevveefr,2023-01-01 17:28:50,Login,Reports,Success,True
+mmkhnatj,2023-01-01 17:29:23,View,Admin Panel,Unauthorized,False
+tkavgjwl,2023-01-01 17:31:38,Access,Admin Panel,Unauthorized,False
+zllikmza,2023-01-01 17:32:13,View,Reports,Success,True
+rvbwjwdb,2023-01-01 17:32:52,View,Financials,Unauthorized,False
+yhzhpdlm,2023-01-01 17:33:46,Login,Dashboard,Success,True
+lpaodjyr,2023-01-01 17:35:44,Edit,Admin Panel,Unauthorized,False
+tlrqvalu,2023-01-01 17:35:53,Login,Documents,Success,True
+uqbmvljm,2023-01-01 17:39:58,Edit,Financials,Unauthorized,False
+npdewyxm,2023-01-01 17:40:42,View,Admin Panel,Success,False
+uzulwgit,2023-01-01 17:43:35,Edit,Financials,Unauthorized,False
+xwxqfano,2023-01-01 17:45:00,Edit,Financials,Unauthorized,False
+qqcjqfyg,2023-01-01 17:46:52,Login,Dashboard,Success,True
+bicnyuwk,2023-01-01 17:49:58,Edit,Financials,Success,False
+ymhvvhmw,2023-01-01 17:52:31,View,Documents,Success,True
+cqltnfei,2023-01-01 17:54:56,Access,Reports,Success,True
+qdoynasy,2023-01-01 17:55:16,Login,Dashboard,Success,True
+dbbwmrdo,2023-01-01 17:55:32,View,Reports,Success,True
+ukrvdxkc,2023-01-01 17:56:59,Access,Dashboard,Success,True
+onoqwljn,2023-01-01 17:57:00,Delete,Financials,Unauthorized,False
+qvtukked,2023-01-01 17:57:00,Access,Documents,Success,True
+xixcclsx,2023-01-01 17:58:48,Edit,Financials,Unauthorized,False
+adllbhlb,2023-01-01 17:59:08,Login,Documents,Success,True
+xwdbhwei,2023-01-01 18:00:26,Edit,Financials,Success,False
+wmfwfytc,2023-01-01 18:01:11,View,Dashboard,Success,True
+cjkmfwug,2023-01-01 18:07:18,View,Documents,Success,True
+nzvfxfcs,2023-01-01 18:07:39,Delete,Financials,Success,False
+uadmmomr,2023-01-01 18:08:34,View,Documents,Success,True
+vdflmnpb,2023-01-01 18:09:19,View,Documents,Success,True
+azjxngdg,2023-01-01 18:09:30,Delete,Financials,Success,False
+bpovfthd,2023-01-01 18:09:31,Access,Dashboard,Success,True
+riymovlw,2023-01-01 18:09:33,View,Documents,Success,True
+evasmooe,2023-01-01 18:09:58,Access,Dashboard,Success,True
+inecjatl,2023-01-01 18:12:18,Access,Admin Panel,Unauthorized,False
+rwckgpxw,2023-01-01 18:12:43,Login,Dashboard,Success,True
+jgmskphz,2023-01-01 18:13:45,Access,Dashboard,Success,True
+oobdzddy,2023-01-01 18:20:05,Delete,Financials,Unauthorized,False
+ebnpiicj,2023-01-01 18:20:43,Access,Financials,Unauthorized,False
+aescfgsj,2023-01-01 18:21:45,Edit,Financials,Unauthorized,False
+dcimagyj,2023-01-01 18:23:39,Access,Reports,Success,True
+nwktdgju,2023-01-01 18:24:13,Login,Dashboard,Success,True
+wftyzwuz,2023-01-01 18:26:43,Login,Documents,Success,True
+zyxmpqwd,2023-01-01 18:28:31,View,Admin Panel,Unauthorized,False
+pqzcznny,2023-01-01 18:30:53,Access,Reports,Success,True
+jyvhvlax,2023-01-01 18:33:29,View,Admin Panel,Unauthorized,False
+lonmufot,2023-01-01 18:35:42,View,Dashboard,Success,True
+enpluiwe,2023-01-01 18:36:47,View,Financials,Unauthorized,False
+rtvdqqhh,2023-01-01 18:37:03,Login,Dashboard,Success,True
+ijppfuaj,2023-01-01 18:39:19,Access,Reports,Success,True
+qinftzmr,2023-01-01 18:40:40,Edit,Financials,Unauthorized,False
+ffguhahv,2023-01-01 18:43:22,Access,Admin Panel,Unauthorized,False
+udkqzbba,2023-01-01 18:44:25,Delete,Financials,Success,False
+ubbneeol,2023-01-01 18:47:55,Delete,Financials,Unauthorized,False
+jmhwotmt,2023-01-01 18:49:50,View,Reports,Success,True
+nkbsulxq,2023-01-01 18:52:59,Delete,Financials,Unauthorized,False
+rlteikuz,2023-01-01 18:54:55,Edit,Financials,Unauthorized,False
+hinqnohc,2023-01-01 18:55:00,Login,Dashboard,Success,True
+mjgnrkiv,2023-01-01 18:55:45,Login,Documents,Success,True
+yhyaaalj,2023-01-01 18:57:01,Access,Admin Panel,Unauthorized,False
+sgwhytaq,2023-01-01 18:57:31,Login,Financials,Unauthorized,False
+dafcvlwj,2023-01-01 18:59:06,Delete,Financials,Unauthorized,False
+gyccorut,2023-01-01 19:02:57,View,Reports,Success,True
+rxviuzjy,2023-01-01 19:03:14,View,Admin Panel,Unauthorized,False
+ovmlxsbe,2023-01-01 19:03:50,Access,Dashboard,Success,True
+xbihvyzy,2023-01-01 19:05:36,Access,Financials,Success,False
+redzdwlz,2023-01-01 19:08:22,Login,Reports,Success,True
+plchsvjn,2023-01-01 19:08:33,Login,Reports,Success,True
+swjfzotu,2023-01-01 19:09:30,Delete,Admin Panel,Success,False
+vhozrqwf,2023-01-01 19:09:52,Edit,Financials,Unauthorized,False
+pypuprji,2023-01-01 19:10:35,View,Financials,Unauthorized,False
+fdgicyln,2023-01-01 19:11:24,Delete,Admin Panel,Unauthorized,False
+kpieliqp,2023-01-01 19:11:53,Delete,Admin Panel,Unauthorized,False
+axgyymxr,2023-01-01 19:15:32,Delete,Admin Panel,Unauthorized,False
+hoixdvco,2023-01-01 19:20:15,View,Reports,Success,True
+jijubfbf,2023-01-01 19:22:27,Login,Documents,Success,True
+cmrfmlrr,2023-01-01 19:22:29,View,Dashboard,Success,True
+egaophqr,2023-01-01 19:24:50,View,Admin Panel,Unauthorized,False
+wfnctkcm,2023-01-01 19:25:30,Login,Documents,Success,True
+yaphqenz,2023-01-01 19:26:38,Login,Reports,Success,True
+szibywke,2023-01-01 19:26:43,Login,Documents,Success,True
+zsqlsgqc,2023-01-01 19:32:50,Access,Dashboard,Success,True
+ygiurlrc,2023-01-01 19:32:51,Login,Dashboard,Success,True
+uwbxdtzy,2023-01-01 19:40:27,Access,Documents,Success,True
+bmnevsee,2023-01-01 19:40:54,Access,Reports,Success,True
+zbodglto,2023-01-01 19:43:57,Access,Dashboard,Success,True
+yfrwjevq,2023-01-01 19:46:27,Access,Dashboard,Success,True
+folbkjff,2023-01-01 19:47:45,View,Documents,Success,True
+dddlhumt,2023-01-01 19:49:52,Delete,Financials,Success,False
+ujwvvjrc,2023-01-01 19:53:38,Access,Reports,Success,True
+seaqmrhp,2023-01-01 19:54:19,Login,Dashboard,Success,True
+upxaxowe,2023-01-01 19:54:28,Edit,Admin Panel,Unauthorized,False
+rwoxisgn,2023-01-01 19:54:45,Delete,Financials,Unauthorized,False
+qokigpve,2023-01-01 19:57:00,Access,Dashboard,Success,True
+pdxqafwk,2023-01-01 19:58:27,Login,Financials,Success,False
+royrnxod,2023-01-01 20:00:54,Access,Documents,Success,True
+sptmgqwn,2023-01-01 20:03:23,Access,Documents,Success,True
+lrbglqvx,2023-01-01 20:05:47,Delete,Admin Panel,Unauthorized,False
+cgvcodiv,2023-01-01 20:06:02,Login,Documents,Success,True
+ldpzszwi,2023-01-01 20:06:04,Access,Financials,Unauthorized,False
+ccvkjgjc,2023-01-01 20:06:50,Delete,Admin Panel,Success,False
+hltgtiuf,2023-01-01 20:09:13,Login,Admin Panel,Unauthorized,False
+zkffsvsf,2023-01-01 20:09:20,View,Reports,Success,True
+vlsvhekd,2023-01-01 20:12:17,Login,Documents,Success,True
+vxrareul,2023-01-01 20:12:27,Login,Documents,Success,True
+hryojmua,2023-01-01 20:14:45,Access,Financials,Unauthorized,False
+mahhtqxp,2023-01-01 20:16:06,Edit,Admin Panel,Unauthorized,False
+uofbvmhs,2023-01-01 20:17:18,Access,Financials,Unauthorized,False
+utzqmzyq,2023-01-01 20:17:53,Delete,Admin Panel,Success,False
+zkknzzru,2023-01-01 20:19:46,Edit,Financials,Unauthorized,False
+ruvmtxix,2023-01-01 20:20:20,Login,Reports,Success,True
+wopwjnfc,2023-01-01 20:21:02,Login,Financials,Unauthorized,False
+qhrwsksp,2023-01-01 20:21:28,Login,Documents,Success,True
+aikekpzn,2023-01-01 20:21:59,Login,Dashboard,Success,True
+ezzszoir,2023-01-01 20:28:57,Login,Dashboard,Success,True
+vmekzkgn,2023-01-01 20:29:19,View,Dashboard,Success,True
+rytynqvz,2023-01-01 20:29:53,Login,Dashboard,Success,True
+poobledp,2023-01-01 20:29:58,Edit,Financials,Unauthorized,False
+txbdqjrd,2023-01-01 20:30:36,Edit,Financials,Unauthorized,False
+yntqctqe,2023-01-01 20:31:44,Login,Documents,Success,True
+ximjqnoe,2023-01-01 20:33:12,Access,Reports,Success,True
+isnqvjpe,2023-01-01 20:33:51,Delete,Financials,Unauthorized,False
+zvkoekzs,2023-01-01 20:35:19,Login,Admin Panel,Unauthorized,False
+mwahbmai,2023-01-01 20:37:51,Delete,Admin Panel,Unauthorized,False
+ibvorsyu,2023-01-01 20:38:06,Delete,Admin Panel,Unauthorized,False
+uvanfroj,2023-01-01 20:38:21,Access,Documents,Success,True
+rzvmwoor,2023-01-01 20:39:16,Access,Dashboard,Success,True
+wyaprhwm,2023-01-01 20:41:03,Login,Reports,Success,True
+ezsioyaw,2023-01-01 20:41:23,View,Financials,Success,False
+ewrwxunv,2023-01-01 20:44:00,Delete,Admin Panel,Unauthorized,False
+juytgfiy,2023-01-01 20:44:56,Login,Admin Panel,Unauthorized,False
+bqgtyfrm,2023-01-01 20:45:25,View,Reports,Success,True
+rixvvlwm,2023-01-01 20:51:51,Edit,Admin Panel,Unauthorized,False
+cnnierib,2023-01-01 20:52:29,View,Reports,Success,True
+lrhmmtrf,2023-01-01 20:53:59,Access,Documents,Success,True
+jzkffaru,2023-01-01 20:55:46,Login,Financials,Unauthorized,False
+pfrypiyr,2023-01-01 20:56:46,Access,Dashboard,Success,True
+mcximffm,2023-01-01 20:58:40,View,Financials,Unauthorized,False
+xijzmntb,2023-01-01 21:03:47,Edit,Financials,Unauthorized,False
+bjovcacm,2023-01-01 21:04:23,Access,Financials,Unauthorized,False
+ryfgkeio,2023-01-01 21:04:31,Login,Reports,Success,True
+yoieccbn,2023-01-01 21:04:47,Delete,Financials,Unauthorized,False
+vomhjeiy,2023-01-01 21:05:08,Delete,Financials,Unauthorized,False
+fmjcimwp,2023-01-01 21:09:10,Delete,Admin Panel,Unauthorized,False
+kkpsqcbz,2023-01-01 21:11:17,View,Financials,Unauthorized,False
+ksmksbja,2023-01-01 21:20:29,Edit,Financials,Unauthorized,False
+hzuxmhti,2023-01-01 21:21:57,Login,Reports,Success,True
+ntlaakua,2023-01-01 21:22:17,View,Dashboard,Success,True
+vcxjjkdf,2023-01-01 21:23:24,Login,Reports,Success,True
+diwsuddi,2023-01-01 21:24:52,Access,Financials,Unauthorized,False
+enrtlbpi,2023-01-01 21:29:50,Edit,Financials,Unauthorized,False
+cpnbzeaf,2023-01-01 21:32:04,Edit,Financials,Success,False
+kvxracmy,2023-01-01 21:33:46,Access,Documents,Success,True
+yjkxgthd,2023-01-01 21:34:01,View,Documents,Success,True
+opyzlcsv,2023-01-01 21:34:56,Access,Dashboard,Success,True
+sqtikyii,2023-01-01 21:35:21,Edit,Financials,Unauthorized,False
+npbhbikx,2023-01-01 21:36:06,View,Documents,Success,True
+gjjqhgho,2023-01-01 21:36:11,Edit,Financials,Unauthorized,False
+kylbstch,2023-01-01 21:38:58,Login,Dashboard,Success,True
+jnuecoia,2023-01-01 21:41:38,Login,Reports,Success,True
+uoofcnbp,2023-01-01 21:43:20,Delete,Financials,Unauthorized,False
+gjcygxsj,2023-01-01 21:43:45,View,Documents,Success,True
+wbxazigu,2023-01-01 21:44:18,Login,Reports,Success,True
+utxhkwbu,2023-01-01 21:45:36,View,Reports,Success,True
+hkrramdi,2023-01-01 21:46:30,Access,Financials,Unauthorized,False
+ehbyfbcn,2023-01-01 21:47:08,Login,Reports,Success,True
+sikbarke,2023-01-01 21:47:22,Login,Dashboard,Success,True
+pvjxmkve,2023-01-01 21:48:14,Delete,Financials,Unauthorized,False
+qscrnjed,2023-01-01 21:48:15,Login,Reports,Success,True
+yupwchrr,2023-01-01 21:48:47,Edit,Financials,Success,False
+mzgsntss,2023-01-01 21:50:32,Access,Documents,Success,True
+wowyrqkp,2023-01-01 21:56:26,Edit,Financials,Success,False
+eyeenbag,2023-01-01 21:58:37,View,Financials,Unauthorized,False
+vrazyhzk,2023-01-01 21:58:40,View,Dashboard,Success,True
+tuuglyni,2023-01-01 22:02:22,Login,Dashboard,Success,True
+kjdxahbg,2023-01-01 22:02:29,Access,Dashboard,Success,True
+ufgxcftw,2023-01-01 22:03:10,Access,Reports,Success,True
+lhtmhbkc,2023-01-01 22:03:43,Edit,Financials,Unauthorized,False
+yebxipjy,2023-01-01 22:04:48,Login,Documents,Success,True
+nrbpshfb,2023-01-01 22:06:26,Delete,Financials,Unauthorized,False
+vihyseww,2023-01-01 22:09:36,Login,Admin Panel,Unauthorized,False
+esffxmyx,2023-01-01 22:10:49,Login,Admin Panel,Unauthorized,False
+enfwdqoq,2023-01-01 22:11:03,View,Financials,Success,False
+tzqaakwt,2023-01-01 22:12:28,Login,Dashboard,Success,True
+tqnwimiq,2023-01-01 22:13:42,Edit,Admin Panel,Success,False
+ixthmlbr,2023-01-01 22:14:29,Delete,Admin Panel,Unauthorized,False
+ebfwlcbt,2023-01-01 22:15:10,Access,Reports,Success,True
+ajhhsxnv,2023-01-01 22:15:59,View,Documents,Success,True
+epsxxzyh,2023-01-01 22:15:59,Delete,Financials,Unauthorized,False
+drgfdgig,2023-01-01 22:17:08,Login,Financials,Success,False
+rqekmjtx,2023-01-01 22:17:33,Edit,Admin Panel,Unauthorized,False
+zuxwbesz,2023-01-01 22:18:16,Login,Admin Panel,Unauthorized,False
+bdvgasnw,2023-01-01 22:23:42,Access,Admin Panel,Unauthorized,False
+hogpubkk,2023-01-01 22:24:46,Access,Documents,Success,True
+ybptlnlc,2023-01-01 22:24:53,Access,Documents,Success,True
+tmlmxnsg,2023-01-01 22:27:06,Access,Dashboard,Success,True
+icrsngkh,2023-01-01 22:30:34,View,Documents,Success,True
+hdszsmjb,2023-01-01 22:32:43,Login,Financials,Success,False
+zdptbzug,2023-01-01 22:34:01,Access,Documents,Success,True
+rmlpebiv,2023-01-01 22:35:29,Login,Documents,Success,True
+rxfmjzse,2023-01-01 22:36:08,View,Financials,Unauthorized,False
+ytafuzly,2023-01-01 22:36:09,Edit,Admin Panel,Success,False
+zktoysmh,2023-01-01 22:36:22,Delete,Admin Panel,Unauthorized,False
+fhrwpetm,2023-01-01 22:40:03,View,Dashboard,Success,True
+iztnoxea,2023-01-01 22:40:34,Login,Documents,Success,True
+uhbencct,2023-01-01 22:42:39,Access,Reports,Success,True
+hvfcmdzs,2023-01-01 22:43:29,View,Documents,Success,True
+hzggztab,2023-01-01 22:43:49,Delete,Admin Panel,Unauthorized,False
+ydacdtww,2023-01-01 22:46:05,Access,Dashboard,Success,True
+lcuqnzjd,2023-01-01 22:46:09,Login,Documents,Success,True
+kjiwydod,2023-01-01 22:47:08,Access,Financials,Unauthorized,False
+offwimph,2023-01-01 22:48:53,View,Reports,Success,True
+ubblnqjl,2023-01-01 22:50:26,Access,Dashboard,Success,True
+ciczgmxh,2023-01-01 22:57:01,Access,Admin Panel,Unauthorized,False
+elebiiez,2023-01-01 22:59:39,Edit,Admin Panel,Unauthorized,False
+dwoenloo,2023-01-01 23:00:10,Access,Reports,Success,True
+waezczbi,2023-01-01 23:03:30,View,Dashboard,Success,True
+ilhucxss,2023-01-01 23:04:47,Edit,Admin Panel,Unauthorized,False
+kjnbchet,2023-01-01 23:05:46,Edit,Admin Panel,Unauthorized,False
+cajusnsr,2023-01-01 23:05:58,Delete,Admin Panel,Unauthorized,False
+feyuvzjv,2023-01-01 23:06:14,Login,Reports,Success,True
+wfieajfq,2023-01-01 23:08:01,Access,Dashboard,Success,True
+vbrfrchp,2023-01-01 23:10:09,View,Documents,Success,True
+ypkbigjb,2023-01-01 23:15:43,View,Dashboard,Success,True
+dantoxak,2023-01-01 23:16:41,Access,Reports,Success,True
+krsdjlhc,2023-01-01 23:19:41,Access,Financials,Unauthorized,False
+pnayumgf,2023-01-01 23:20:52,Access,Reports,Success,True
+zsfldfih,2023-01-01 23:23:24,View,Documents,Success,True
+wyanwfna,2023-01-01 23:24:48,Login,Reports,Success,True
+sigwsqfa,2023-01-01 23:25:17,Login,Documents,Success,True
+beobdueu,2023-01-01 23:25:46,Login,Reports,Success,True
+cuvzsdio,2023-01-01 23:28:06,Login,Admin Panel,Unauthorized,False
+afqpfzcd,2023-01-01 23:30:11,Access,Documents,Success,True
+tkjzsivg,2023-01-01 23:30:26,Delete,Admin Panel,Unauthorized,False
+ugbuioog,2023-01-01 23:32:56,Delete,Financials,Unauthorized,False
+hxwqdltd,2023-01-01 23:35:16,Login,Financials,Unauthorized,False
+kchyuvpc,2023-01-01 23:35:42,Delete,Admin Panel,Success,False
+alvhtfka,2023-01-01 23:36:10,Access,Dashboard,Success,True
+twduwuxw,2023-01-01 23:36:46,Edit,Financials,Success,False
+bgymuozg,2023-01-01 23:41:17,Access,Financials,Unauthorized,False
+eckuiekl,2023-01-01 23:44:46,Delete,Admin Panel,Unauthorized,False
+dnhdpnmp,2023-01-01 23:45:40,Delete,Financials,Unauthorized,False
+xvvkdjhs,2023-01-01 23:50:51,Login,Dashboard,Success,True
+pnzxyfdg,2023-01-01 23:51:10,Login,Documents,Success,True
+wejhxfqw,2023-01-01 23:51:11,Login,Financials,Success,False
+qensygka,2023-01-01 23:55:42,Login,Dashboard,Success,True
+dmmyovkq,2023-01-01 23:56:20,Access,Reports,Success,True
+aadhvmps,2023-01-01 23:59:38,Delete,Admin Panel,Unauthorized,False
+yqgzzped,2023-01-01 23:59:49,Access,Dashboard,Success,True
+odsitlmv,2023-01-02 00:02:06,View,Documents,Success,True
+icxwitgv,2023-01-02 00:02:43,Delete,Admin Panel,Unauthorized,False
+iwjgfyvp,2023-01-02 00:04:21,Delete,Financials,Unauthorized,False
+vzuhldin,2023-01-02 00:06:29,Login,Financials,Unauthorized,False
+ievsxfsp,2023-01-02 00:07:07,Access,Dashboard,Success,True
+sxggiglz,2023-01-02 00:09:31,Delete,Financials,Unauthorized,False
+ootkujau,2023-01-02 00:10:33,View,Documents,Success,True
+isgkylty,2023-01-02 00:11:00,Delete,Admin Panel,Unauthorized,False
+tkpsvxwz,2023-01-02 00:13:05,View,Reports,Success,True
+kezxbaby,2023-01-02 00:13:39,Access,Documents,Success,True
+hzykzvwg,2023-01-02 00:17:19,Edit,Financials,Unauthorized,False
+mkpaipej,2023-01-02 00:18:02,Access,Financials,Unauthorized,False
+odhicvhi,2023-01-02 00:19:40,Edit,Admin Panel,Unauthorized,False
+clzeawvt,2023-01-02 00:24:10,View,Financials,Unauthorized,False
+ektdefss,2023-01-02 00:24:47,Login,Admin Panel,Unauthorized,False
+iwgijdnf,2023-01-02 00:27:01,Delete,Financials,Unauthorized,False
+lvikamxo,2023-01-02 00:27:48,Login,Financials,Success,False
+ebmrgink,2023-01-02 00:29:07,View,Dashboard,Success,True
+ccvljxaq,2023-01-02 00:32:22,Edit,Admin Panel,Success,False
+jwcipiqz,2023-01-02 00:32:32,Access,Financials,Success,False
+cnftmvnk,2023-01-02 00:33:04,Login,Reports,Success,True
+pvfdzwar,2023-01-02 00:33:11,Edit,Admin Panel,Unauthorized,False
+trblpknd,2023-01-02 00:33:32,View,Documents,Success,True
+irpcqpno,2023-01-02 00:33:37,Access,Reports,Success,True
+kbtxirhk,2023-01-02 00:34:34,Delete,Admin Panel,Unauthorized,False
+aeafjcul,2023-01-02 00:35:44,View,Financials,Success,False
+qqrbbgcn,2023-01-02 00:40:50,Access,Documents,Success,True
+nqzzstff,2023-01-02 00:41:02,Access,Documents,Success,True
+ytycoqdz,2023-01-02 00:41:57,Access,Documents,Success,True
+wqyjlxdu,2023-01-02 00:42:15,View,Financials,Unauthorized,False
+xumzcqiw,2023-01-02 00:42:36,Access,Dashboard,Success,True
+fpwmszuh,2023-01-02 00:44:10,Delete,Admin Panel,Unauthorized,False
+aylwglmd,2023-01-02 00:44:46,Login,Reports,Success,True
+kypjtmha,2023-01-02 00:48:44,Edit,Admin Panel,Unauthorized,False
+kkgspvft,2023-01-02 00:50:00,Access,Reports,Success,True
+bguinsuw,2023-01-02 00:53:16,Edit,Admin Panel,Unauthorized,False
+judqmegq,2023-01-02 00:53:20,View,Dashboard,Success,True
+vdzzpssa,2023-01-02 00:54:07,Delete,Financials,Unauthorized,False
+vyguwequ,2023-01-02 00:56:32,View,Reports,Success,True
+qetmzycv,2023-01-02 01:04:38,Access,Documents,Success,True
+lxknvtyt,2023-01-02 01:08:30,Delete,Financials,Success,False
+ilhxaoyn,2023-01-02 01:09:29,Delete,Admin Panel,Unauthorized,False
+ykngseit,2023-01-02 01:09:45,Login,Documents,Success,True
+luajpegw,2023-01-02 01:09:47,Access,Admin Panel,Success,False
+iwteqsqk,2023-01-02 01:10:42,Access,Dashboard,Success,True
+emskukym,2023-01-02 01:11:38,Login,Dashboard,Success,True
+laowganp,2023-01-02 01:11:40,Login,Admin Panel,Success,False
+yorsayul,2023-01-02 01:13:49,View,Reports,Success,True
+rcmdvylm,2023-01-02 01:15:10,Edit,Financials,Unauthorized,False
+tbveagte,2023-01-02 01:20:16,View,Documents,Success,True
+fdmpcpef,2023-01-02 01:21:33,View,Documents,Success,True
+hivvqqif,2023-01-02 01:21:57,Delete,Financials,Success,False
+bevwqutf,2023-01-02 01:22:32,Login,Documents,Success,True
+rtgdwwbs,2023-01-02 01:24:25,View,Dashboard,Success,True
+rvfjgkcm,2023-01-02 01:27:56,Access,Dashboard,Success,True
+nbtltbgk,2023-01-02 01:28:03,View,Financials,Unauthorized,False
+immolrgz,2023-01-02 01:28:04,Access,Reports,Success,True
+ufkuhvfx,2023-01-02 01:28:33,View,Financials,Unauthorized,False
+dvgeqftn,2023-01-02 01:30:53,Delete,Financials,Unauthorized,False
+wrwaqorh,2023-01-02 01:30:59,Login,Dashboard,Success,True
+otdbvrse,2023-01-02 01:31:33,Edit,Financials,Unauthorized,False
+xasyvjse,2023-01-02 01:31:50,View,Documents,Success,True
+sxafnayk,2023-01-02 01:33:06,View,Dashboard,Success,True
+hpzhkvbj,2023-01-02 01:33:40,View,Reports,Success,True
+miiktnhg,2023-01-02 01:35:07,View,Reports,Success,True
+cguvesbe,2023-01-02 01:36:02,Delete,Financials,Unauthorized,False
+jdgpwlgu,2023-01-02 01:39:44,Edit,Financials,Success,False
+byjmmyiu,2023-01-02 01:40:54,View,Reports,Success,True
+zdcujsyd,2023-01-02 01:41:11,Login,Documents,Success,True
+rpahralj,2023-01-02 01:42:24,Delete,Admin Panel,Success,False
+pohstypx,2023-01-02 01:42:50,Access,Reports,Success,True
+dauosaep,2023-01-02 01:46:04,Login,Reports,Success,True
+ayvigslr,2023-01-02 01:47:27,View,Dashboard,Success,True
+uupyqlxw,2023-01-02 01:48:37,Access,Dashboard,Success,True
+vgpthgoh,2023-01-02 01:51:07,View,Reports,Success,True
+bgbcmehb,2023-01-02 01:52:10,View,Financials,Success,False
+eqzbgdog,2023-01-02 01:54:05,Access,Documents,Success,True
+yuwplmss,2023-01-02 01:54:11,Delete,Financials,Unauthorized,False
+tthcythc,2023-01-02 01:55:01,Access,Dashboard,Success,True
+bogtoljy,2023-01-02 01:55:24,View,Reports,Success,True
+dthmzvgm,2023-01-02 01:55:45,Access,Admin Panel,Unauthorized,False
+nuxmuujk,2023-01-02 01:58:05,View,Reports,Success,True
+wtzmrtrp,2023-01-02 01:58:53,Login,Dashboard,Success,True
+joarbasa,2023-01-02 01:59:12,Edit,Financials,Unauthorized,False
+cegipnjv,2023-01-02 01:59:42,View,Financials,Unauthorized,False
+ffzvbmpx,2023-01-02 01:59:46,View,Documents,Success,True
+nikupgne,2023-01-02 02:02:10,Edit,Financials,Unauthorized,False
+tcwsvwjt,2023-01-02 02:02:21,View,Documents,Success,True
+ngzemtqu,2023-01-02 02:02:43,Login,Financials,Success,False
+ylrxgeke,2023-01-02 02:03:03,Login,Dashboard,Success,True
+dhhnikgs,2023-01-02 02:05:26,Edit,Financials,Unauthorized,False
+xtinwezz,2023-01-02 02:09:56,Delete,Financials,Unauthorized,False
+yigpbgww,2023-01-02 02:10:09,Delete,Admin Panel,Success,False
+pjsynjtm,2023-01-02 02:13:42,Login,Reports,Success,True
+hwachnae,2023-01-02 02:15:49,Edit,Admin Panel,Success,False
+pqbyuhrq,2023-01-02 02:22:00,Login,Reports,Success,True
+edgcgvza,2023-01-02 02:22:43,Access,Documents,Success,True
+qoqbkcka,2023-01-02 02:24:03,Edit,Admin Panel,Unauthorized,False
+amfddfjp,2023-01-02 02:24:32,Edit,Financials,Success,False
+emmnasjj,2023-01-02 02:25:09,Delete,Financials,Unauthorized,False
+xqzsgpkd,2023-01-02 02:25:13,Delete,Financials,Unauthorized,False
+pngvckan,2023-01-02 02:28:32,Login,Documents,Success,True
+vmgqzaku,2023-01-02 02:29:08,Login,Admin Panel,Unauthorized,False
+qwqdniql,2023-01-02 02:30:53,Login,Reports,Success,True
+gmogfvqg,2023-01-02 02:32:53,Login,Financials,Unauthorized,False
+kaprtmln,2023-01-02 02:37:29,Delete,Admin Panel,Unauthorized,False
+muuivuse,2023-01-02 02:38:27,Login,Financials,Unauthorized,False
+bilksfud,2023-01-02 02:40:19,Delete,Financials,Unauthorized,False
+gtwmlkzv,2023-01-02 02:41:25,Login,Dashboard,Success,True
+sgjiawix,2023-01-02 02:42:36,Login,Documents,Success,True
+ckzdebqv,2023-01-02 02:45:43,Edit,Financials,Unauthorized,False
+razybxck,2023-01-02 02:46:26,Access,Financials,Unauthorized,False
+pfghuxel,2023-01-02 02:46:58,Access,Financials,Success,False
+ujidfsag,2023-01-02 02:47:37,View,Dashboard,Success,True
+solxwimp,2023-01-02 02:48:01,Login,Financials,Unauthorized,False
+ogccxtix,2023-01-02 02:48:09,Access,Dashboard,Success,True
+iaklkmfu,2023-01-02 02:50:21,View,Reports,Success,True
+fesclgqk,2023-01-02 02:50:44,View,Reports,Success,True
+ibdqarjb,2023-01-02 02:52:03,View,Documents,Success,True
+twobghwp,2023-01-02 02:54:00,Access,Reports,Success,True
+qlhmrbfy,2023-01-02 02:54:16,Access,Documents,Success,True
+rwmzfqpl,2023-01-02 02:55:15,Edit,Admin Panel,Unauthorized,False
+udrdogrw,2023-01-02 02:56:18,Delete,Admin Panel,Unauthorized,False
+kpyfvvlt,2023-01-02 02:56:29,Login,Dashboard,Success,True
+chvrncju,2023-01-02 02:57:44,Edit,Financials,Unauthorized,False
+owovfuld,2023-01-02 02:58:00,View,Admin Panel,Success,False
+hftffurf,2023-01-02 02:58:00,Login,Reports,Success,True
+enctakzj,2023-01-02 02:58:16,Delete,Financials,Success,False
+djnytggn,2023-01-02 03:02:08,Edit,Financials,Success,False
+ovzdbhgl,2023-01-02 03:03:16,View,Dashboard,Success,True
+gqgoppov,2023-01-02 03:04:01,View,Financials,Unauthorized,False
+ucnsphbp,2023-01-02 03:07:38,View,Financials,Success,False
+gbtbdoow,2023-01-02 03:09:12,Delete,Admin Panel,Unauthorized,False
+illabkeu,2023-01-02 03:09:20,Delete,Admin Panel,Unauthorized,False
+gpwrunta,2023-01-02 03:09:35,Edit,Admin Panel,Unauthorized,False
+qzsnlrtp,2023-01-02 03:10:46,Edit,Financials,Success,False
+xhipcpap,2023-01-02 03:12:17,Login,Dashboard,Success,True
+fwregxfe,2023-01-02 03:16:54,Access,Documents,Success,True
+hdgiaced,2023-01-02 03:17:47,View,Reports,Success,True
+tddeacja,2023-01-02 03:19:39,View,Dashboard,Success,True
+hvfdmreq,2023-01-02 03:20:23,Access,Reports,Success,True
+yjkgfjdn,2023-01-02 03:20:54,Login,Admin Panel,Unauthorized,False
+mjykcqze,2023-01-02 03:22:51,View,Financials,Unauthorized,False
+szjxjlwp,2023-01-02 03:23:01,Edit,Financials,Unauthorized,False
+mbeswudh,2023-01-02 03:23:04,Delete,Admin Panel,Unauthorized,False
+xgculzbp,2023-01-02 03:23:38,Access,Financials,Unauthorized,False
+zufnkiey,2023-01-02 03:25:16,Access,Reports,Success,True
+umyyrsfw,2023-01-02 03:28:04,Edit,Financials,Unauthorized,False
+ygaskvbd,2023-01-02 03:29:31,Access,Dashboard,Success,True
+vahavxna,2023-01-02 03:29:33,Edit,Financials,Unauthorized,False
+zlimhmkm,2023-01-02 03:29:52,Access,Dashboard,Success,True
+cwpyxmpr,2023-01-02 03:35:41,Login,Reports,Success,True
+qdqxzowl,2023-01-02 03:38:43,Access,Dashboard,Success,True
+golszzte,2023-01-02 03:39:53,View,Documents,Success,True
+kpzzejjo,2023-01-02 03:41:45,Access,Reports,Success,True
+updtxwzp,2023-01-02 03:42:36,Access,Reports,Success,True
+ypuhpebo,2023-01-02 03:46:01,View,Dashboard,Success,True
+lpqejsgj,2023-01-02 03:49:36,Delete,Financials,Success,False
+vtmktwra,2023-01-02 03:52:19,Login,Reports,Success,True
+rwbdlvnh,2023-01-02 03:54:23,Access,Dashboard,Success,True
+rwpawogt,2023-01-02 03:59:03,Login,Documents,Success,True
+izikwbvy,2023-01-02 04:03:33,Access,Admin Panel,Unauthorized,False
+qkhbtwhg,2023-01-02 04:06:22,Access,Dashboard,Success,True
+mfnyvjot,2023-01-02 04:06:58,View,Documents,Success,True
+nueiuerb,2023-01-02 04:08:14,Edit,Admin Panel,Unauthorized,False
+qyxzuorq,2023-01-02 04:09:06,Login,Financials,Unauthorized,False
+bqzrlfdw,2023-01-02 04:09:23,View,Financials,Unauthorized,False
+smaxphhc,2023-01-02 04:11:23,View,Documents,Success,True
+hvekickl,2023-01-02 04:12:10,Login,Admin Panel,Unauthorized,False
+neibooen,2023-01-02 04:15:47,Edit,Admin Panel,Unauthorized,False
+pivsqmdn,2023-01-02 04:18:16,Delete,Financials,Success,False
+ighhruky,2023-01-02 04:20:16,View,Financials,Success,False
+ksjzuqal,2023-01-02 04:20:39,View,Reports,Success,True
+caulsnya,2023-01-02 04:24:58,View,Documents,Success,True
+jukydqxe,2023-01-02 04:25:15,Edit,Admin Panel,Unauthorized,False
+xjekdxaa,2023-01-02 04:25:45,Delete,Financials,Unauthorized,False
+nkoycrvc,2023-01-02 04:27:23,Login,Dashboard,Success,True
+exuowxkg,2023-01-02 04:28:30,Access,Documents,Success,True
+nwhfnyan,2023-01-02 04:30:54,Edit,Admin Panel,Success,False
+yiethpir,2023-01-02 04:31:03,Access,Documents,Success,True
+vpcxrqhs,2023-01-02 04:32:25,Edit,Financials,Unauthorized,False
+ukefzzgm,2023-01-02 04:32:49,Login,Reports,Success,True
+shinqzrs,2023-01-02 04:34:00,View,Admin Panel,Unauthorized,False
+jryeieys,2023-01-02 04:38:06,Login,Reports,Success,True
+mdevltat,2023-01-02 04:38:40,Delete,Financials,Success,False
+oekmzcsr,2023-01-02 04:38:59,Login,Reports,Success,True
+wmlbshtc,2023-01-02 04:39:09,View,Documents,Success,True
+bgjvssfq,2023-01-02 04:40:10,Login,Documents,Success,True
+bjqjbxqr,2023-01-02 04:44:34,Access,Admin Panel,Success,False
+vqvvlbis,2023-01-02 04:45:51,Login,Documents,Success,True
+kqqsatfs,2023-01-02 04:46:31,Login,Admin Panel,Unauthorized,False
+apkmdvud,2023-01-02 04:52:00,View,Dashboard,Success,True
+hydxscra,2023-01-02 04:53:16,Edit,Admin Panel,Unauthorized,False
+qsmlgxwx,2023-01-02 04:53:24,Edit,Financials,Success,False
+sldakzks,2023-01-02 04:54:12,Access,Documents,Success,True
+ycklyxuj,2023-01-02 04:55:39,View,Reports,Success,True
+poilsdkf,2023-01-02 04:55:56,Login,Documents,Success,True
+avxoogmb,2023-01-02 04:56:07,Access,Admin Panel,Unauthorized,False
+tlapzant,2023-01-02 04:58:30,Login,Documents,Success,True
+czhcvere,2023-01-02 04:59:30,Access,Dashboard,Success,True
+ozlxsomg,2023-01-02 04:59:34,Edit,Admin Panel,Unauthorized,False
+pgkbqxpn,2023-01-02 05:00:17,View,Documents,Success,True
+ocsklnhx,2023-01-02 05:00:24,Delete,Admin Panel,Success,False
+tqprnfmo,2023-01-02 05:00:31,View,Dashboard,Success,True
+kasqhcca,2023-01-02 05:04:28,Login,Dashboard,Success,True
+yfgmvoso,2023-01-02 05:05:32,Access,Dashboard,Success,True
+jzsdkwkd,2023-01-02 05:05:59,Access,Admin Panel,Success,False
+kavpwpgx,2023-01-02 05:08:23,Delete,Financials,Unauthorized,False
+wlepikcm,2023-01-02 05:08:45,View,Reports,Success,True
+uhodwamx,2023-01-02 05:12:38,Access,Documents,Success,True
+wapjvyrc,2023-01-02 05:13:52,Access,Reports,Success,True
+awikhtff,2023-01-02 05:14:01,Delete,Admin Panel,Unauthorized,False
+cwfudvxu,2023-01-02 05:15:26,View,Documents,Success,True
+mswynlha,2023-01-02 05:16:09,Access,Admin Panel,Unauthorized,False
+nnchtaeo,2023-01-02 05:20:02,View,Reports,Success,True
+fojnwooh,2023-01-02 05:21:13,View,Reports,Success,True
+cfuflylp,2023-01-02 05:21:28,Delete,Financials,Unauthorized,False
+awxdkikt,2023-01-02 05:21:54,View,Dashboard,Success,True
+jowodgww,2023-01-02 05:23:19,Access,Admin Panel,Success,False
+kfyzuhpz,2023-01-02 05:23:22,Login,Documents,Success,True
+ithdjbvk,2023-01-02 05:23:28,Access,Reports,Success,True
+ujfrakon,2023-01-02 05:25:14,Login,Dashboard,Success,True
+iinwhhhs,2023-01-02 05:27:02,Login,Admin Panel,Unauthorized,False
+dimjdaid,2023-01-02 05:30:01,Access,Dashboard,Success,True
+gwcnlcub,2023-01-02 05:30:17,View,Dashboard,Success,True
+arvgwawb,2023-01-02 05:32:09,Edit,Admin Panel,Unauthorized,False
+oesddqyy,2023-01-02 05:34:00,Access,Dashboard,Success,True
+ityvmakn,2023-01-02 05:34:38,Login,Financials,Unauthorized,False
+xfihzahx,2023-01-02 05:35:06,View,Dashboard,Success,True
+pzzbcrho,2023-01-02 05:35:32,Edit,Admin Panel,Unauthorized,False
+oepckqot,2023-01-02 05:36:15,Login,Documents,Success,True
+rruhlzcz,2023-01-02 05:37:33,View,Admin Panel,Unauthorized,False
+ogsqzvyf,2023-01-02 05:38:01,View,Dashboard,Success,True
+iqjrcozv,2023-01-02 05:38:35,Login,Documents,Success,True
+rxrbvkfj,2023-01-02 05:41:04,Delete,Admin Panel,Unauthorized,False
+xptbmyck,2023-01-02 05:47:04,Login,Financials,Unauthorized,False
+fcgoxieg,2023-01-02 05:51:13,View,Documents,Success,True
+qdsywojr,2023-01-02 05:51:49,Access,Dashboard,Success,True
+agzojkvd,2023-01-02 05:52:22,Access,Dashboard,Success,True
+fmtvzdlc,2023-01-02 05:53:38,View,Dashboard,Success,True
+jnzqoddd,2023-01-02 05:54:08,Delete,Admin Panel,Unauthorized,False
+utaposqz,2023-01-02 05:55:31,View,Dashboard,Success,True
+xzzcbqea,2023-01-02 05:56:44,Access,Financials,Unauthorized,False
+wdttlihy,2023-01-02 05:57:11,Access,Documents,Success,True
+onvwqrtz,2023-01-02 05:57:26,Delete,Admin Panel,Unauthorized,False
+zxehzibl,2023-01-02 05:57:31,Edit,Admin Panel,Unauthorized,False
+rsbetgio,2023-01-02 05:59:22,Login,Financials,Unauthorized,False
+oncdkrjz,2023-01-02 05:59:46,Access,Financials,Success,False
+xndpnakb,2023-01-02 05:59:53,Edit,Admin Panel,Unauthorized,False
+qwpdumcg,2023-01-02 06:00:13,View,Documents,Success,True
+hlkmzepq,2023-01-02 06:03:58,Edit,Admin Panel,Unauthorized,False
+pscocivi,2023-01-02 06:06:33,Login,Financials,Unauthorized,False
+payayeiu,2023-01-02 06:08:26,Access,Documents,Success,True
+ssmolgax,2023-01-02 06:09:49,Login,Dashboard,Success,True
+ylpdrerv,2023-01-02 06:12:52,Access,Documents,Success,True
+jfidxntz,2023-01-02 06:13:01,Login,Admin Panel,Unauthorized,False
+dydmykbs,2023-01-02 06:14:04,Access,Admin Panel,Success,False
+robpbcmc,2023-01-02 06:14:23,View,Dashboard,Success,True
+cceqhajw,2023-01-02 06:18:51,Access,Documents,Success,True
+ipbpvpnm,2023-01-02 06:20:49,Edit,Financials,Unauthorized,False
+wnhqhaqt,2023-01-02 06:24:07,Access,Dashboard,Success,True
+kmaoigoz,2023-01-02 06:24:21,Login,Documents,Success,True
+wmwjdvxc,2023-01-02 06:26:12,Login,Financials,Unauthorized,False
+zdyvuptt,2023-01-02 06:30:20,View,Documents,Success,True
+xqjdhemw,2023-01-02 06:36:44,Login,Admin Panel,Unauthorized,False
+wkrvfhjr,2023-01-02 06:41:14,Access,Reports,Success,True
+lzyvggpn,2023-01-02 06:42:34,Delete,Admin Panel,Unauthorized,False
+rgggcwnh,2023-01-02 06:43:11,Access,Reports,Success,True
+hbhjrscs,2023-01-02 06:44:16,Login,Reports,Success,True
+pnfbodbq,2023-01-02 06:44:36,View,Dashboard,Success,True
+wfhhlmty,2023-01-02 06:44:38,Login,Dashboard,Success,True
+fztwkgyt,2023-01-02 06:45:22,View,Financials,Unauthorized,False
+sdegydrx,2023-01-02 06:45:43,Access,Documents,Success,True
+vkkwmuua,2023-01-02 06:47:16,Access,Dashboard,Success,True
+bmorahef,2023-01-02 06:50:55,Login,Reports,Success,True
+vayogiks,2023-01-02 06:51:19,Edit,Admin Panel,Unauthorized,False
+hcdozmhr,2023-01-02 06:53:58,Access,Admin Panel,Unauthorized,False
+lkgrgilc,2023-01-02 06:56:06,Access,Reports,Success,True
+dthipbwb,2023-01-02 06:57:09,Access,Documents,Success,True
+sblforkx,2023-01-02 06:58:22,Access,Reports,Success,True
+ztupuesz,2023-01-02 06:59:13,View,Admin Panel,Success,False
+xdjlsquo,2023-01-02 07:00:48,Delete,Admin Panel,Unauthorized,False
+fwqzenbc,2023-01-02 07:03:44,View,Reports,Success,True
+fqqprqbs,2023-01-02 07:04:16,Access,Reports,Success,True
+nzliasiz,2023-01-02 07:04:56,Delete,Admin Panel,Unauthorized,False
+cpzxuvqm,2023-01-02 07:04:59,Login,Reports,Success,True
+yillyhif,2023-01-02 07:05:54,Edit,Admin Panel,Success,False
+dmeghkan,2023-01-02 07:06:29,Access,Documents,Success,True
+mznjedqv,2023-01-02 07:07:50,Delete,Admin Panel,Unauthorized,False
+qjsxclea,2023-01-02 07:09:39,Access,Reports,Success,True
+hxmzfynb,2023-01-02 07:11:48,Login,Reports,Success,True
+ktcmkchv,2023-01-02 07:13:17,View,Documents,Success,True
+klijamqu,2023-01-02 07:20:16,Delete,Financials,Unauthorized,False
+sqoiswkd,2023-01-02 07:20:29,Delete,Financials,Unauthorized,False
+xzlsacaw,2023-01-02 07:22:37,Delete,Financials,Success,False
+eeedqeim,2023-01-02 07:22:39,Access,Documents,Success,True
+uhacumbi,2023-01-02 07:26:44,View,Documents,Success,True
+rtkdnbxs,2023-01-02 07:27:23,Edit,Admin Panel,Unauthorized,False
+zhaxnsqh,2023-01-02 07:28:40,Access,Dashboard,Success,True
+fgtnzbvw,2023-01-02 07:30:07,View,Admin Panel,Success,False
+asznidgp,2023-01-02 07:30:34,Access,Dashboard,Success,True
+botimdjp,2023-01-02 07:31:04,Login,Dashboard,Success,True
+eegioxkj,2023-01-02 07:31:49,Login,Dashboard,Success,True
+dicsyuzp,2023-01-02 07:33:17,Edit,Admin Panel,Unauthorized,False
+kwjvwkpw,2023-01-02 07:35:17,Access,Dashboard,Success,True
+qeoqsbhi,2023-01-02 07:35:38,Access,Documents,Success,True
+lsphzwzs,2023-01-02 07:35:52,Edit,Admin Panel,Unauthorized,False
+fjcfwwwo,2023-01-02 07:37:17,Access,Documents,Success,True
+dkwckvsb,2023-01-02 07:39:53,View,Dashboard,Success,True
+ztdnyoxo,2023-01-02 07:45:01,Delete,Admin Panel,Unauthorized,False
+auhuolgy,2023-01-02 07:45:15,View,Admin Panel,Success,False
+ucvojjcc,2023-01-02 07:48:43,View,Financials,Unauthorized,False
+tjznyqgy,2023-01-02 07:48:44,Login,Financials,Unauthorized,False
+dlwlseyx,2023-01-02 07:52:32,Access,Documents,Success,True
+hqtnyztq,2023-01-02 07:53:10,Login,Dashboard,Success,True
+gbwcrbdu,2023-01-02 07:53:44,Delete,Financials,Unauthorized,False
+cucjknnl,2023-01-02 07:54:20,Login,Documents,Success,True
+ejtcyrqk,2023-01-02 07:58:26,View,Dashboard,Success,True
+onalzswd,2023-01-02 08:02:00,Login,Reports,Success,True
+uerwyguj,2023-01-02 08:03:18,View,Documents,Success,True
+eaalnvth,2023-01-02 08:03:20,Access,Reports,Success,True
+wbrxgqdh,2023-01-02 08:04:15,Delete,Financials,Success,False
+qowrrbky,2023-01-02 08:05:20,Login,Dashboard,Success,True
+gwjkgydk,2023-01-02 08:06:25,Login,Dashboard,Success,True
+vgyavaga,2023-01-02 08:09:10,Login,Admin Panel,Unauthorized,False
+ltpqvyce,2023-01-02 08:10:07,Access,Dashboard,Success,True
+ppwhyyrf,2023-01-02 08:11:53,Delete,Admin Panel,Unauthorized,False
+xsscbwnl,2023-01-02 08:15:36,Access,Documents,Success,True
+mnkrmdqz,2023-01-02 08:17:41,Access,Reports,Success,True
+yuqdxppn,2023-01-02 08:19:05,Login,Dashboard,Success,True
+raxdplyd,2023-01-02 08:20:10,Access,Financials,Unauthorized,False
+yntgabmf,2023-01-02 08:20:45,Access,Dashboard,Success,True
+ymshagzw,2023-01-02 08:21:18,Access,Dashboard,Success,True
+tmbgofxl,2023-01-02 08:21:28,View,Documents,Success,True
+krfokiku,2023-01-02 08:21:29,View,Reports,Success,True
+fiaxvwwv,2023-01-02 08:23:18,Login,Documents,Success,True
+htmcgltc,2023-01-02 08:23:28,View,Documents,Success,True
+strzcpqo,2023-01-02 08:24:00,Edit,Admin Panel,Unauthorized,False
+qxejlhue,2023-01-02 08:26:02,View,Financials,Unauthorized,False
+unzjqoji,2023-01-02 08:27:12,Login,Financials,Success,False
+hsccbzig,2023-01-02 08:27:12,Delete,Financials,Success,False
+huzlrhju,2023-01-02 08:27:15,Edit,Admin Panel,Unauthorized,False
+gqtebjjg,2023-01-02 08:27:51,Delete,Admin Panel,Unauthorized,False
+djjcofwr,2023-01-02 08:29:41,View,Financials,Unauthorized,False
+hpeipeul,2023-01-02 08:30:10,Access,Admin Panel,Unauthorized,False
+nusyreej,2023-01-02 08:33:36,Access,Reports,Success,True
+kirrqcxe,2023-01-02 08:36:37,Access,Documents,Success,True
+szudpipc,2023-01-02 08:44:38,Edit,Financials,Unauthorized,False
+epzmehgs,2023-01-02 08:45:49,Access,Financials,Success,False
+uehlwzyj,2023-01-02 08:46:05,View,Financials,Unauthorized,False
+vfjdwrfu,2023-01-02 08:46:48,Login,Reports,Success,True
+swbiyxnl,2023-01-02 08:52:05,View,Dashboard,Success,True
+xfkgkccg,2023-01-02 08:53:04,Access,Dashboard,Success,True
+puemyixg,2023-01-02 08:53:51,Access,Admin Panel,Unauthorized,False
+gvmmkhii,2023-01-02 08:57:19,View,Documents,Success,True
+rfyjfpuh,2023-01-02 08:57:36,Access,Documents,Success,True
+ywidhpjt,2023-01-02 09:01:00,View,Reports,Success,True
+oqqqyewd,2023-01-02 09:02:05,Login,Financials,Success,False
+rcojszit,2023-01-02 09:04:19,Access,Dashboard,Success,True
+dwyioxzu,2023-01-02 09:04:37,Edit,Admin Panel,Unauthorized,False
+ctrtlrti,2023-01-02 09:06:13,Login,Financials,Success,False
+uuhucsmf,2023-01-02 09:09:03,Login,Financials,Unauthorized,False
+pvmilumf,2023-01-02 09:10:14,Delete,Financials,Success,False
+ylryakbv,2023-01-02 09:11:19,Edit,Financials,Success,False
+rhbdjbkb,2023-01-02 09:12:27,Access,Reports,Success,True
+myfnwqie,2023-01-02 09:13:14,Login,Dashboard,Success,True
+avcmqvtj,2023-01-02 09:13:53,Edit,Admin Panel,Success,False
+ktjcrosh,2023-01-02 09:15:07,Edit,Financials,Unauthorized,False
+enupvmww,2023-01-02 09:15:09,Delete,Admin Panel,Unauthorized,False
+iuonkhln,2023-01-02 09:16:19,Delete,Admin Panel,Unauthorized,False
+trnfgiun,2023-01-02 09:17:57,Access,Reports,Success,True
+jldwllxr,2023-01-02 09:18:58,Login,Reports,Success,True
+wtdbhmvl,2023-01-02 09:19:31,Login,Dashboard,Success,True
+hsqlngdl,2023-01-02 09:19:41,Login,Dashboard,Success,True
+zdjwmhxw,2023-01-02 09:21:26,Access,Reports,Success,True
+nvyejaza,2023-01-02 09:22:03,Access,Documents,Success,True
+ozfrbeyz,2023-01-02 09:22:09,Login,Financials,Unauthorized,False
+snckfvga,2023-01-02 09:24:00,Delete,Financials,Unauthorized,False
+dbkzmzeu,2023-01-02 09:27:11,Access,Documents,Success,True
+tiqfjqtp,2023-01-02 09:27:47,View,Dashboard,Success,True
+bcpriene,2023-01-02 09:28:22,Login,Dashboard,Success,True
+tjrdlisg,2023-01-02 09:28:44,Edit,Admin Panel,Unauthorized,False
+fwdqalum,2023-01-02 09:30:50,View,Admin Panel,Unauthorized,False
+kqkjmyiv,2023-01-02 09:38:27,Edit,Financials,Unauthorized,False
+mguvdxho,2023-01-02 09:39:29,Delete,Financials,Unauthorized,False
+hdfnfmqa,2023-01-02 09:40:35,View,Dashboard,Success,True
+mvcsffve,2023-01-02 09:40:46,View,Reports,Success,True
+rnbxtbuo,2023-01-02 09:41:32,Access,Reports,Success,True
+pxvnrqie,2023-01-02 09:45:29,Edit,Financials,Success,False
+yxibqgaq,2023-01-02 09:45:30,Access,Dashboard,Success,True
+xmpgzcrc,2023-01-02 09:46:20,Delete,Admin Panel,Success,False
+boxkwkqr,2023-01-02 09:47:56,Login,Reports,Success,True
+jvvnclma,2023-01-02 09:48:45,View,Admin Panel,Success,False
+ijiwatza,2023-01-02 09:50:47,Login,Dashboard,Success,True
+nfuclhjg,2023-01-02 09:53:22,Login,Admin Panel,Unauthorized,False
+gmrfpqha,2023-01-02 09:53:30,Login,Reports,Success,True
+xfqisjaq,2023-01-02 09:55:29,Access,Dashboard,Success,True
+madihidx,2023-01-02 09:57:48,View,Reports,Success,True
+uuhqjbri,2023-01-02 09:58:16,Delete,Financials,Unauthorized,False
+hnriciiw,2023-01-02 10:01:40,Edit,Financials,Unauthorized,False
+uuavgiky,2023-01-02 10:03:34,View,Reports,Success,True
+tgclrvzj,2023-01-02 10:04:02,Access,Admin Panel,Unauthorized,False
+imzuhzom,2023-01-02 10:07:58,View,Documents,Success,True
+akekebmx,2023-01-02 10:09:02,Login,Dashboard,Success,True
+svkwauzd,2023-01-02 10:11:04,View,Reports,Success,True
+asihuwhg,2023-01-02 10:11:55,View,Financials,Unauthorized,False
+agvwhckv,2023-01-02 10:12:19,Delete,Admin Panel,Unauthorized,False
+gbyfjfus,2023-01-02 10:12:44,Delete,Financials,Success,False
+zddimpxz,2023-01-02 10:13:28,Edit,Admin Panel,Success,False
+qhnmjlxc,2023-01-02 10:15:43,Access,Dashboard,Success,True
+ebwxtzrw,2023-01-02 10:15:59,Access,Financials,Unauthorized,False
+zxpxqcdq,2023-01-02 10:16:49,View,Dashboard,Success,True
+jxbtvwwk,2023-01-02 10:17:34,Login,Dashboard,Success,True
+upnqfcso,2023-01-02 10:21:30,Edit,Admin Panel,Success,False
+cyxlfsjn,2023-01-02 10:24:10,Access,Reports,Success,True
+wpmrourz,2023-01-02 10:24:28,Login,Documents,Success,True
+mfohkxzy,2023-01-02 10:27:29,Access,Dashboard,Success,True
+wqyvlapd,2023-01-02 10:28:00,Login,Dashboard,Success,True
+zlmhmnse,2023-01-02 10:31:07,Edit,Admin Panel,Unauthorized,False
+fstryrfh,2023-01-02 10:31:22,Login,Documents,Success,True
+uopxilyy,2023-01-02 10:36:16,Access,Documents,Success,True
+dirxjicy,2023-01-02 10:37:57,Login,Dashboard,Success,True
+axhijxzz,2023-01-02 10:38:36,Delete,Financials,Unauthorized,False
+khvlivkt,2023-01-02 10:39:09,Delete,Financials,Unauthorized,False
+ahzllyna,2023-01-02 10:41:10,Access,Documents,Success,True
+tgknuorg,2023-01-02 10:42:06,Access,Dashboard,Success,True
+nppklrht,2023-01-02 10:42:34,Login,Dashboard,Success,True
+dwecleer,2023-01-02 10:44:30,View,Financials,Unauthorized,False
+ozrdturd,2023-01-02 10:45:41,View,Dashboard,Success,True
+equmzlop,2023-01-02 10:47:08,Login,Documents,Success,True
+qqnhgzis,2023-01-02 10:48:51,Login,Documents,Success,True
+wqkpmvpw,2023-01-02 10:49:49,Edit,Admin Panel,Unauthorized,False
+arbknjtr,2023-01-02 10:51:38,Login,Reports,Success,True
+mwchyflm,2023-01-02 10:51:48,Edit,Financials,Unauthorized,False
+sxfgoqqc,2023-01-02 10:52:23,View,Financials,Success,False
+qnaosacr,2023-01-02 10:53:41,Edit,Financials,Success,False
+ddcwbzxc,2023-01-02 10:54:08,Delete,Admin Panel,Unauthorized,False
+kupfrkbr,2023-01-02 10:54:37,Login,Reports,Success,True
+kudnbutg,2023-01-02 10:55:23,Edit,Admin Panel,Unauthorized,False
+lgxkmlby,2023-01-02 10:57:48,Access,Documents,Success,True
+ibjepbzz,2023-01-02 10:58:18,Login,Documents,Success,True
+gespwlbu,2023-01-02 10:59:35,Login,Financials,Success,False
+oabvmafu,2023-01-02 10:59:59,Access,Financials,Unauthorized,False
+cyynltmh,2023-01-02 11:00:03,Login,Reports,Success,True
+unlbsjnk,2023-01-02 11:03:07,Edit,Financials,Unauthorized,False
+wniuijnj,2023-01-02 11:09:48,View,Dashboard,Success,True
+mbuemzyv,2023-01-02 11:10:38,Delete,Financials,Unauthorized,False
+tbfqvdfk,2023-01-02 11:13:04,Login,Dashboard,Success,True
+zodgalhx,2023-01-02 11:16:36,Login,Dashboard,Success,True
+iuwwbkli,2023-01-02 11:19:47,Delete,Admin Panel,Unauthorized,False
+cavdgvce,2023-01-02 11:21:54,Access,Documents,Success,True
+tsbiaddt,2023-01-02 11:22:29,Edit,Financials,Unauthorized,False
+eeteqssy,2023-01-02 11:23:20,Login,Documents,Success,True
+lnsgeknm,2023-01-02 11:23:34,View,Reports,Success,True
+dajbymkc,2023-01-02 11:24:02,Delete,Financials,Unauthorized,False
+xzajxxmg,2023-01-02 11:25:00,Delete,Admin Panel,Unauthorized,False
+crcglffr,2023-01-02 11:25:18,View,Documents,Success,True
+gvotqcfr,2023-01-02 11:25:32,Access,Dashboard,Success,True
+yzfcxquv,2023-01-02 11:29:06,View,Reports,Success,True
+vtlpucvz,2023-01-02 11:30:21,Access,Admin Panel,Unauthorized,False
+tmuylvwt,2023-01-02 11:33:38,Access,Financials,Unauthorized,False
+xazwnszm,2023-01-02 11:35:41,Edit,Financials,Unauthorized,False
+mrpcobsi,2023-01-02 11:37:20,Access,Financials,Unauthorized,False
+pxtgfkgn,2023-01-02 11:37:21,Delete,Financials,Unauthorized,False
+ycsbfwjx,2023-01-02 11:38:36,View,Financials,Unauthorized,False
+qjqehxqo,2023-01-02 11:39:18,View,Documents,Success,True
+xverrzps,2023-01-02 11:40:19,View,Financials,Unauthorized,False
+ddtbhohd,2023-01-02 11:40:45,View,Admin Panel,Unauthorized,False
+thkvjfdz,2023-01-02 11:41:08,View,Documents,Success,True
+tvqglsgl,2023-01-02 11:42:14,View,Dashboard,Success,True
+vupaatra,2023-01-02 11:42:51,Access,Admin Panel,Success,False
+mohfdwus,2023-01-02 11:47:20,Access,Reports,Success,True
+pkrnpceg,2023-01-02 11:47:49,Login,Dashboard,Success,True
+bmxostpt,2023-01-02 11:51:34,Delete,Financials,Unauthorized,False
+raxjfpto,2023-01-02 11:53:16,View,Dashboard,Success,True
+wclmgfud,2023-01-02 11:53:40,Access,Documents,Success,True
+kuzoijip,2023-01-02 11:55:20,Login,Dashboard,Success,True
+yhvpaddy,2023-01-02 11:59:39,Login,Financials,Unauthorized,False
+nmxbicpr,2023-01-02 12:01:23,Edit,Financials,Unauthorized,False
+zuhkjydb,2023-01-02 12:01:28,View,Financials,Unauthorized,False
+mqvirfsa,2023-01-02 12:01:33,Edit,Financials,Unauthorized,False
+uhgxyczq,2023-01-02 12:01:34,Delete,Financials,Success,False
+gdacmurj,2023-01-02 12:03:44,Edit,Financials,Unauthorized,False
+wnqcrand,2023-01-02 12:04:00,Delete,Financials,Unauthorized,False
+igsmnmdw,2023-01-02 12:07:13,Access,Admin Panel,Success,False
+djilzwiu,2023-01-02 12:07:33,Access,Dashboard,Success,True
+kyfprmvn,2023-01-02 12:07:39,View,Reports,Success,True
+czktpyja,2023-01-02 12:07:56,View,Dashboard,Success,True
+guetsznw,2023-01-02 12:08:47,Access,Financials,Unauthorized,False
+vofzdgkp,2023-01-02 12:09:28,Access,Financials,Unauthorized,False
+stajrgob,2023-01-02 12:10:41,View,Dashboard,Success,True
+fwrfdzbr,2023-01-02 12:12:22,Delete,Financials,Unauthorized,False
+qdstnosz,2023-01-02 12:13:15,View,Dashboard,Success,True
+cvjopike,2023-01-02 12:13:47,Access,Documents,Success,True
+kwromfjq,2023-01-02 12:15:00,Login,Financials,Success,False
+izsrzgwa,2023-01-02 12:15:11,Login,Reports,Success,True
+qrwulxzb,2023-01-02 12:17:06,Login,Reports,Success,True
+bboazywu,2023-01-02 12:19:27,View,Dashboard,Success,True
+btdhppxo,2023-01-02 12:20:01,Login,Admin Panel,Unauthorized,False
+asvbutyr,2023-01-02 12:20:13,Access,Financials,Unauthorized,False
+gajsdzrn,2023-01-02 12:23:02,View,Reports,Success,True
+dexwvvyh,2023-01-02 12:29:36,View,Dashboard,Success,True
+tmzyrncz,2023-01-02 12:30:51,Delete,Admin Panel,Unauthorized,False
+temwewgv,2023-01-02 12:31:07,View,Documents,Success,True
+sjccjszk,2023-01-02 12:31:11,Delete,Admin Panel,Unauthorized,False
+ghjynazf,2023-01-02 12:31:12,Access,Dashboard,Success,True
+raznqnqo,2023-01-02 12:31:24,Edit,Financials,Success,False
+qjsvhuvf,2023-01-02 12:31:38,Edit,Financials,Success,False
+mshacnjb,2023-01-02 12:34:18,View,Reports,Success,True
+nhvxuipk,2023-01-02 12:35:10,View,Reports,Success,True
+svjuhkma,2023-01-02 12:37:47,Login,Documents,Success,True
+uttkajcp,2023-01-02 12:38:36,Login,Documents,Success,True
+yrzllrad,2023-01-02 12:48:40,Delete,Financials,Success,False
+jylbwcxy,2023-01-02 12:49:07,Delete,Admin Panel,Unauthorized,False
+kyxjooux,2023-01-02 12:49:39,Edit,Admin Panel,Unauthorized,False
+vagkpauk,2023-01-02 12:53:13,Edit,Financials,Unauthorized,False
+glylhquu,2023-01-02 12:53:56,Login,Reports,Success,True
+mwbfhbyt,2023-01-02 12:57:14,Delete,Financials,Unauthorized,False
+kxdnedxl,2023-01-02 12:58:38,Login,Admin Panel,Success,False
+wwrahjwr,2023-01-02 12:59:15,Access,Documents,Success,True
+vuvgddac,2023-01-02 12:59:48,Login,Reports,Success,True
+ibwrlsfi,2023-01-02 13:02:11,Edit,Financials,Unauthorized,False
+juvawseb,2023-01-02 13:04:12,Access,Dashboard,Success,True
+vizrzdsj,2023-01-02 13:06:26,View,Dashboard,Success,True
+ecnjvdiy,2023-01-02 13:06:53,View,Documents,Success,True
+pvnytmiw,2023-01-02 13:07:11,Access,Documents,Success,True
+zvircwef,2023-01-02 13:11:07,View,Documents,Success,True
+aemkjkzn,2023-01-02 13:11:48,Login,Reports,Success,True
+kkvambsk,2023-01-02 13:14:33,Login,Admin Panel,Unauthorized,False
+ivfvrjur,2023-01-02 13:15:01,View,Dashboard,Success,True
+bogjtemd,2023-01-02 13:16:14,Delete,Admin Panel,Success,False
+twhsehii,2023-01-02 13:19:00,Login,Documents,Success,True
+jlgruhiw,2023-01-02 13:19:21,Login,Dashboard,Success,True
+kxpjkzta,2023-01-02 13:19:59,View,Dashboard,Success,True
+hlqtrntu,2023-01-02 13:20:07,Edit,Financials,Unauthorized,False
+udidswbu,2023-01-02 13:20:21,Login,Documents,Success,True
+bitgglvb,2023-01-02 13:20:46,Edit,Admin Panel,Unauthorized,False
+bajetzdo,2023-01-02 13:20:55,Edit,Financials,Unauthorized,False
+wvidiasz,2023-01-02 13:21:20,Login,Dashboard,Success,True
+dvyskdbm,2023-01-02 13:22:52,View,Dashboard,Success,True
+qqqhajim,2023-01-02 13:24:48,Access,Reports,Success,True
+vqdmsqei,2023-01-02 13:28:04,View,Documents,Success,True
+muygzokt,2023-01-02 13:28:11,Login,Reports,Success,True
+boigmdqc,2023-01-02 13:32:12,Delete,Financials,Success,False
+sjnsqews,2023-01-02 13:32:38,Login,Reports,Success,True
+yyeewrvr,2023-01-02 13:32:46,Login,Admin Panel,Unauthorized,False
+kfmthdei,2023-01-02 13:33:11,Access,Dashboard,Success,True
+sogutqkq,2023-01-02 13:34:26,Access,Dashboard,Success,True
+sfgzefsj,2023-01-02 13:34:30,Edit,Financials,Unauthorized,False
+fublsxnd,2023-01-02 13:34:54,View,Admin Panel,Success,False
+hmddsdmf,2023-01-02 13:36:09,Access,Reports,Success,True
+yoagsrgl,2023-01-02 13:36:40,View,Admin Panel,Unauthorized,False
+ttcnfcxw,2023-01-02 13:38:41,Access,Reports,Success,True
+sjnraunj,2023-01-02 13:39:02,Access,Reports,Success,True
+smaqywol,2023-01-02 13:40:03,View,Reports,Success,True
+sjneqhjn,2023-01-02 13:40:24,Delete,Admin Panel,Success,False
+oziqhjdj,2023-01-02 13:44:34,Login,Dashboard,Success,True
+lgsvthvu,2023-01-02 13:47:32,Delete,Admin Panel,Unauthorized,False
+sieqnwee,2023-01-02 13:48:20,Delete,Admin Panel,Unauthorized,False
+vytcfbfa,2023-01-02 13:50:47,View,Admin Panel,Success,False
+ukuxlvko,2023-01-02 13:52:04,Access,Admin Panel,Unauthorized,False
+hgftnaso,2023-01-02 13:52:12,View,Financials,Unauthorized,False
+gkefeozb,2023-01-02 13:52:25,View,Reports,Success,True
+jtbuhqab,2023-01-02 13:52:28,View,Admin Panel,Unauthorized,False
+kztcwyyl,2023-01-02 13:53:06,Edit,Financials,Unauthorized,False
+njgjkumx,2023-01-02 13:53:22,Delete,Admin Panel,Unauthorized,False
+oqggcwbv,2023-01-02 13:55:22,View,Documents,Success,True
+bhhrwcwn,2023-01-02 13:58:32,Edit,Financials,Unauthorized,False
+psdjneak,2023-01-02 13:59:23,Access,Admin Panel,Success,False
+oqldaegx,2023-01-02 14:00:16,Login,Dashboard,Success,True
+zqcebluq,2023-01-02 14:00:22,Access,Documents,Success,True
+xnqpwygo,2023-01-02 14:00:32,Access,Dashboard,Success,True
+krzphvrf,2023-01-02 14:01:16,Edit,Admin Panel,Unauthorized,False
+tqubwxvj,2023-01-02 14:02:04,Access,Reports,Success,True
+viqpgars,2023-01-02 14:06:07,Edit,Financials,Unauthorized,False
+nktungeo,2023-01-02 14:09:15,Access,Documents,Success,True
+chzayzro,2023-01-02 14:10:48,Access,Financials,Unauthorized,False
+gwrpvunk,2023-01-02 14:10:48,Login,Documents,Success,True
+bpnpriiw,2023-01-02 14:11:35,Access,Reports,Success,True
+wadxgevg,2023-01-02 14:11:52,Login,Dashboard,Success,True
+qddonuse,2023-01-02 14:13:58,Access,Financials,Success,False
+vcqffldu,2023-01-02 14:16:52,View,Documents,Success,True
+nspqsyau,2023-01-02 14:18:19,Login,Financials,Unauthorized,False
+nnkamfis,2023-01-02 14:21:57,Access,Documents,Success,True
+wwesagxi,2023-01-02 14:27:55,View,Financials,Unauthorized,False
+duykeoil,2023-01-02 14:29:10,Delete,Financials,Success,False
+ykqssemq,2023-01-02 14:29:25,Access,Financials,Unauthorized,False
+bkrydujv,2023-01-02 14:31:25,Login,Financials,Unauthorized,False
+tdaslutp,2023-01-02 14:32:59,View,Admin Panel,Success,False
+qhemvrpo,2023-01-02 14:39:09,View,Dashboard,Success,True
+nowcdiwu,2023-01-02 14:39:58,Access,Dashboard,Success,True
+lzxflvee,2023-01-02 14:40:46,Login,Documents,Success,True
+htiddocr,2023-01-02 14:41:11,View,Reports,Success,True
+hpgisrip,2023-01-02 14:43:13,Access,Documents,Success,True
+apjyspxc,2023-01-02 14:43:39,View,Documents,Success,True
+ovxkdekg,2023-01-02 14:43:46,View,Dashboard,Success,True
+jyxxfhvw,2023-01-02 14:45:20,View,Dashboard,Success,True
+usftozpc,2023-01-02 14:47:41,View,Dashboard,Success,True
+eofzyynv,2023-01-02 14:48:45,Login,Documents,Success,True
+gyydhtzl,2023-01-02 14:49:39,Edit,Financials,Unauthorized,False
+pdznsjvh,2023-01-02 14:50:53,Login,Reports,Success,True
+ojuhmmcw,2023-01-02 14:53:05,Edit,Financials,Unauthorized,False
+aoghdjyi,2023-01-02 14:53:25,Access,Dashboard,Success,True
+kckgwkzn,2023-01-02 14:53:41,Delete,Admin Panel,Unauthorized,False
+gpjfjlka,2023-01-02 14:55:38,Login,Reports,Success,True
+zugdqfkb,2023-01-02 15:03:50,Login,Dashboard,Success,True
+dvmosoyo,2023-01-02 15:05:07,View,Financials,Unauthorized,False
+hjinqjks,2023-01-02 15:06:28,View,Admin Panel,Unauthorized,False
+rhgelric,2023-01-02 15:08:41,Access,Reports,Success,True
+zohovpyg,2023-01-02 15:11:49,Access,Admin Panel,Unauthorized,False
+bbfmaocg,2023-01-02 15:13:14,Login,Admin Panel,Unauthorized,False
+kpvqpdof,2023-01-02 15:14:36,Access,Documents,Success,True
+kbvkvfrm,2023-01-02 15:15:56,Login,Reports,Success,True
+bjwjmshh,2023-01-02 15:16:19,Login,Reports,Success,True
+uxeiqydn,2023-01-02 15:16:29,Edit,Financials,Unauthorized,False
+ydnhzjma,2023-01-02 15:19:11,Delete,Financials,Success,False
+qvmzqxqi,2023-01-02 15:19:27,Login,Documents,Success,True
+uheiblzo,2023-01-02 15:20:14,View,Reports,Success,True
+jjqxjtnd,2023-01-02 15:21:17,Login,Dashboard,Success,True
+mhbwmqfo,2023-01-02 15:23:03,Delete,Financials,Unauthorized,False
+zxxjroli,2023-01-02 15:25:14,Login,Reports,Success,True
+ujplebls,2023-01-02 15:26:24,View,Reports,Success,True
+uzsrhbcp,2023-01-02 15:27:49,Access,Documents,Success,True
+zdsygiiw,2023-01-02 15:28:56,Login,Reports,Success,True
+nuotrwro,2023-01-02 15:31:25,View,Dashboard,Success,True
+ouomkmbd,2023-01-02 15:31:42,Login,Documents,Success,True
+prarqcte,2023-01-02 15:33:10,Access,Documents,Success,True
+hzlpxylk,2023-01-02 15:33:11,Access,Dashboard,Success,True
+pfnsrcbg,2023-01-02 15:33:35,Access,Documents,Success,True
+njyqdpby,2023-01-02 15:39:53,View,Financials,Unauthorized,False
+teqvfgzu,2023-01-02 15:41:29,Access,Documents,Success,True
+oxacfbkl,2023-01-02 15:41:57,View,Admin Panel,Unauthorized,False
+woknucoh,2023-01-02 15:41:57,Login,Reports,Success,True
+tpxkqhvx,2023-01-02 15:41:58,Access,Documents,Success,True
+ejorgyym,2023-01-02 15:42:35,Access,Documents,Success,True
+gsvyqakh,2023-01-02 15:42:59,View,Dashboard,Success,True
+uuwqpqak,2023-01-02 15:44:54,View,Documents,Success,True
+raihoini,2023-01-02 15:45:26,Access,Documents,Success,True
+xlpbycjb,2023-01-02 15:45:46,View,Financials,Unauthorized,False
+smhebixe,2023-01-02 15:45:51,View,Documents,Success,True
+purpargm,2023-01-02 15:45:51,Edit,Financials,Unauthorized,False
+ohdkgkbv,2023-01-02 15:45:58,Login,Documents,Success,True
+jumokrms,2023-01-02 15:46:34,Delete,Financials,Unauthorized,False
+sfjwtitq,2023-01-02 15:46:40,Login,Dashboard,Success,True
+cqlqvclx,2023-01-02 15:46:50,Delete,Financials,Success,False
+soxelfli,2023-01-02 15:47:17,Edit,Admin Panel,Unauthorized,False
+kdoqitix,2023-01-02 15:49:08,Edit,Admin Panel,Success,False
+dthkmbjb,2023-01-02 15:49:22,View,Admin Panel,Unauthorized,False
+ivkiyxnd,2023-01-02 15:50:29,Login,Reports,Success,True
+oxzyrqjs,2023-01-02 15:51:45,View,Documents,Success,True
+fxrwoucp,2023-01-02 15:55:23,Login,Documents,Success,True
+dhbkyjaf,2023-01-02 15:57:50,Access,Documents,Success,True
+vhetndzd,2023-01-02 15:59:27,View,Documents,Success,True
+kbivsugq,2023-01-02 16:04:14,Login,Admin Panel,Unauthorized,False
+sdrkjvye,2023-01-02 16:04:52,Delete,Financials,Unauthorized,False
+mcgtuijh,2023-01-02 16:07:46,View,Financials,Unauthorized,False
+mwwjdwld,2023-01-02 16:08:08,View,Financials,Unauthorized,False
+mzvqbnqb,2023-01-02 16:08:27,Edit,Admin Panel,Success,False
+jjxkbwug,2023-01-02 16:08:55,Delete,Financials,Unauthorized,False
+idxgtfpq,2023-01-02 16:14:46,Access,Financials,Success,False
+vgknejer,2023-01-02 16:14:57,View,Financials,Success,False
+qwluchcp,2023-01-02 16:15:10,Login,Dashboard,Success,True
+jyumxtde,2023-01-02 16:19:01,Edit,Admin Panel,Unauthorized,False
+ndbcswwg,2023-01-02 16:22:48,Login,Financials,Success,False
+pxavkfot,2023-01-02 16:23:43,Edit,Financials,Success,False
+pczobgsc,2023-01-02 16:23:45,Login,Admin Panel,Unauthorized,False
+oyqlzmcs,2023-01-02 16:25:43,Delete,Financials,Unauthorized,False
+puyawpha,2023-01-02 16:26:01,Access,Dashboard,Success,True
+qlqhgpmh,2023-01-02 16:28:10,Login,Documents,Success,True
+sgeyvycl,2023-01-02 16:29:11,View,Reports,Success,True
+bfxzyigx,2023-01-02 16:30:06,View,Financials,Unauthorized,False
+kkgblmgf,2023-01-02 16:31:25,Login,Reports,Success,True
+plizkklx,2023-01-02 16:43:02,View,Documents,Success,True
+lsbubfpp,2023-01-02 16:44:21,View,Reports,Success,True
+arbhwxpm,2023-01-02 16:44:45,View,Dashboard,Success,True
+edygrwje,2023-01-02 16:44:49,Delete,Financials,Unauthorized,False
+vzrlzyxc,2023-01-02 16:45:33,Access,Reports,Success,True
+dcxnxhkp,2023-01-02 16:45:49,View,Documents,Success,True
+iofgwzxj,2023-01-02 16:45:57,View,Documents,Success,True
+thrglzom,2023-01-02 16:46:51,Access,Financials,Unauthorized,False
+gwqzfmqe,2023-01-02 16:50:09,View,Financials,Unauthorized,False
+itiyicqn,2023-01-02 16:51:14,Edit,Financials,Unauthorized,False
+poghqdww,2023-01-02 16:51:28,Delete,Admin Panel,Success,False
+lgebqkte,2023-01-02 16:54:08,Access,Reports,Success,True
+bpekyvbx,2023-01-02 16:56:13,Access,Dashboard,Success,True
+wjvmcvsl,2023-01-02 16:58:25,Access,Dashboard,Success,True
+tewhztjd,2023-01-02 17:00:36,Delete,Admin Panel,Unauthorized,False
+lvtbnfvo,2023-01-02 17:03:37,View,Dashboard,Success,True
+dixgscwt,2023-01-02 17:03:59,Access,Documents,Success,True
+gbjqvicr,2023-01-02 17:04:41,Login,Dashboard,Success,True
+xykoacsz,2023-01-02 17:12:33,View,Reports,Success,True
+czdepdzt,2023-01-02 17:13:02,Login,Documents,Success,True
+rwcpexvk,2023-01-02 17:13:07,Delete,Financials,Success,False
+dnuuhydi,2023-01-02 17:14:25,Login,Dashboard,Success,True
+hsebuumq,2023-01-02 17:15:04,Edit,Financials,Unauthorized,False
+pneqmlsy,2023-01-02 17:15:20,Access,Dashboard,Success,True
+hviemvhs,2023-01-02 17:19:23,Delete,Admin Panel,Unauthorized,False
+fmflfnjb,2023-01-02 17:20:31,View,Reports,Success,True
+ngwjcwee,2023-01-02 17:20:48,Login,Documents,Success,True
+dexfykwx,2023-01-02 17:25:10,Login,Dashboard,Success,True
+yccqdxpu,2023-01-02 17:27:13,View,Reports,Success,True
+wdsrwlzi,2023-01-02 17:28:02,Access,Dashboard,Success,True
+ilazrjqf,2023-01-02 17:28:36,Access,Reports,Success,True
+vflgvqcp,2023-01-02 17:30:43,Delete,Admin Panel,Success,False
+octfufjd,2023-01-02 17:31:56,View,Financials,Success,False
+ukluduai,2023-01-02 17:33:01,Delete,Admin Panel,Unauthorized,False
+mflyezfy,2023-01-02 17:35:30,Login,Documents,Success,True
+geupgbsb,2023-01-02 17:36:11,Access,Reports,Success,True
+qmvqswbz,2023-01-02 17:36:53,Delete,Financials,Unauthorized,False
+hhrjrsay,2023-01-02 17:36:58,View,Financials,Unauthorized,False
+rzsjgiqg,2023-01-02 17:37:44,View,Dashboard,Success,True
+flbzohwu,2023-01-02 17:39:41,Access,Admin Panel,Unauthorized,False
+realvqwv,2023-01-02 17:40:59,Access,Dashboard,Success,True
+cagfbyaj,2023-01-02 17:42:36,Login,Documents,Success,True
+xwfpiarh,2023-01-02 17:44:03,Login,Documents,Success,True
+zfkildan,2023-01-02 17:44:17,Delete,Admin Panel,Unauthorized,False
+pwyqbwco,2023-01-02 17:44:27,Login,Dashboard,Success,True
+fnoiicqp,2023-01-02 17:48:53,Edit,Financials,Unauthorized,False
+gcdgdykq,2023-01-02 17:49:32,Access,Dashboard,Success,True
+cxgpwarg,2023-01-02 17:53:12,Access,Documents,Success,True
+katernmg,2023-01-02 17:54:44,Access,Reports,Success,True
+bszeeslw,2023-01-02 17:59:01,Access,Reports,Success,True
+amjvhnov,2023-01-02 17:59:12,Login,Reports,Success,True
+xpyggvga,2023-01-02 18:00:18,View,Financials,Unauthorized,False
+gqrnnxrb,2023-01-02 18:03:05,View,Documents,Success,True
+eaxscpbq,2023-01-02 18:03:14,Delete,Financials,Unauthorized,False
+hmxtfwoc,2023-01-02 18:07:14,View,Dashboard,Success,True
+mhkbvgbk,2023-01-02 18:07:34,Login,Reports,Success,True
+fccqdjuu,2023-01-02 18:08:38,Edit,Admin Panel,Unauthorized,False
+ceraazxv,2023-01-02 18:12:29,Login,Documents,Success,True
+pcdnruph,2023-01-02 18:15:06,Access,Financials,Unauthorized,False
+daaablxr,2023-01-02 18:16:39,Edit,Admin Panel,Unauthorized,False
+kyfnjefb,2023-01-02 18:18:51,Access,Dashboard,Success,True
+xbqluifd,2023-01-02 18:20:09,Access,Reports,Success,True
+klgwmfnm,2023-01-02 18:23:44,Edit,Financials,Unauthorized,False
+aujmpmrp,2023-01-02 18:23:48,View,Documents,Success,True
+vzlgxhdb,2023-01-02 18:24:52,Access,Financials,Unauthorized,False
+tzhnrrso,2023-01-02 18:25:59,Access,Dashboard,Success,True
+rrwjoaud,2023-01-02 18:26:56,Access,Financials,Unauthorized,False
+wawkbzbo,2023-01-02 18:26:57,Login,Dashboard,Success,True
+naejfvic,2023-01-02 18:31:04,Login,Financials,Unauthorized,False
+thxhcvct,2023-01-02 18:33:12,View,Reports,Success,True
+mioypuvs,2023-01-02 18:34:33,Access,Documents,Success,True
+qcmzigeb,2023-01-02 18:34:57,Access,Dashboard,Success,True
+habpsoqr,2023-01-02 18:35:27,Login,Dashboard,Success,True
+pcofpdeh,2023-01-02 18:36:16,Edit,Financials,Unauthorized,False
+bwpcqbac,2023-01-02 18:36:56,Delete,Financials,Unauthorized,False
+kzdgkxil,2023-01-02 18:38:39,Login,Dashboard,Success,True
+vnqgnjyc,2023-01-02 18:38:58,Login,Documents,Success,True
+nlmjsgad,2023-01-02 18:39:07,View,Dashboard,Success,True
+izdzxcnv,2023-01-02 18:39:27,Access,Documents,Success,True
+anuiyejb,2023-01-02 18:39:36,View,Financials,Unauthorized,False
+wcwxtrii,2023-01-02 18:40:19,Edit,Financials,Unauthorized,False
+gjgspvne,2023-01-02 18:41:36,View,Admin Panel,Unauthorized,False
+eickjpfa,2023-01-02 18:42:36,Login,Dashboard,Success,True
+dtpovfeo,2023-01-02 18:42:49,View,Financials,Unauthorized,False
+pdcvewqc,2023-01-02 18:44:08,Access,Reports,Success,True
+ssrgfnqr,2023-01-02 18:52:21,View,Documents,Success,True
+sssaezak,2023-01-02 18:53:31,Login,Reports,Success,True
+iimneaem,2023-01-02 18:56:57,Login,Reports,Success,True
+eupouvop,2023-01-02 18:57:14,View,Documents,Success,True
+gqzowagz,2023-01-02 18:57:51,Access,Financials,Success,False
+sxfbjeaq,2023-01-02 18:58:07,Login,Admin Panel,Unauthorized,False
+ghgrpqqp,2023-01-02 19:03:24,Access,Dashboard,Success,True
+pekmhtth,2023-01-02 19:03:28,View,Documents,Success,True
+zapllziz,2023-01-02 19:03:29,Access,Admin Panel,Unauthorized,False
+qkztbkpc,2023-01-02 19:03:45,Edit,Admin Panel,Unauthorized,False
+qkemgbro,2023-01-02 19:05:52,Access,Financials,Unauthorized,False
+cavokyhh,2023-01-02 19:06:11,Login,Reports,Success,True
+cpuypgdg,2023-01-02 19:06:21,View,Financials,Success,False
+mhsediej,2023-01-02 19:07:13,View,Documents,Success,True
+ixprgmwf,2023-01-02 19:08:47,Login,Reports,Success,True
+pwhqetyw,2023-01-02 19:08:50,View,Dashboard,Success,True
+foycvozh,2023-01-02 19:11:52,Edit,Financials,Unauthorized,False
+ibpzgreb,2023-01-02 19:15:50,Delete,Admin Panel,Success,False
+mamgdmim,2023-01-02 19:16:02,View,Documents,Success,True
+sagtckjc,2023-01-02 19:18:19,Login,Admin Panel,Unauthorized,False
+hebkvibq,2023-01-02 19:18:40,View,Documents,Success,True
+rgesetdr,2023-01-02 19:19:12,Access,Dashboard,Success,True
+sresdkcz,2023-01-02 19:20:54,Login,Documents,Success,True
+clgbkkby,2023-01-02 19:20:57,Access,Financials,Unauthorized,False
+cvndrkxo,2023-01-02 19:22:05,Login,Dashboard,Success,True
+mwthceda,2023-01-02 19:22:33,Delete,Financials,Unauthorized,False
+xipqkcyn,2023-01-02 19:22:33,Access,Documents,Success,True
+kijgdmfo,2023-01-02 19:23:11,View,Dashboard,Success,True
+zptlmbah,2023-01-02 19:24:45,Access,Dashboard,Success,True
+wskbfvss,2023-01-02 19:25:48,Access,Financials,Unauthorized,False
+rwtgkhwy,2023-01-02 19:26:11,Delete,Admin Panel,Unauthorized,False
+qwmesaeg,2023-01-02 19:27:21,Login,Documents,Success,True
+tzxornuv,2023-01-02 19:27:58,View,Dashboard,Success,True
+tzbrxqya,2023-01-02 19:28:07,Access,Reports,Success,True
+vbtfexcj,2023-01-02 19:28:17,Login,Financials,Unauthorized,False
+hgjfcrus,2023-01-02 19:29:14,View,Reports,Success,True
+jfdhivab,2023-01-02 19:29:52,Login,Reports,Success,True
+somhsvqd,2023-01-02 19:30:02,Login,Financials,Unauthorized,False
+zfhvwkwh,2023-01-02 19:30:53,View,Documents,Success,True
+hlnatxre,2023-01-02 19:31:11,Edit,Financials,Unauthorized,False
+iavmucjl,2023-01-02 19:31:27,View,Financials,Success,False
+fpycjyka,2023-01-02 19:31:32,Access,Dashboard,Success,True
+nfpwnyvx,2023-01-02 19:31:33,View,Dashboard,Success,True
+evlefwet,2023-01-02 19:31:36,Access,Documents,Success,True
+tohneupn,2023-01-02 19:31:43,Login,Dashboard,Success,True
+viqcgvfg,2023-01-02 19:31:49,Edit,Financials,Unauthorized,False
+xmzruyof,2023-01-02 19:33:43,Login,Financials,Unauthorized,False
+fbryttmz,2023-01-02 19:34:55,View,Reports,Success,True
+nowwuhxj,2023-01-02 19:35:15,Login,Dashboard,Success,True
+njmcgozr,2023-01-02 19:37:22,Access,Reports,Success,True
+ffcxhbsj,2023-01-02 19:37:42,Login,Reports,Success,True
+moenunyv,2023-01-02 19:42:12,Access,Documents,Success,True
+ncyvpfeo,2023-01-02 19:42:28,View,Reports,Success,True
+xaejfppz,2023-01-02 19:43:03,Edit,Financials,Unauthorized,False
+pgzruulf,2023-01-02 19:44:47,Delete,Financials,Unauthorized,False
+qmwmfjci,2023-01-02 19:45:16,Delete,Admin Panel,Unauthorized,False
+fbiswtkr,2023-01-02 19:47:00,Access,Documents,Success,True
+rvytshsd,2023-01-02 19:47:31,Delete,Financials,Success,False
+ebvrhcmm,2023-01-02 19:48:21,View,Financials,Unauthorized,False
+gnoxhpsn,2023-01-02 19:52:56,View,Dashboard,Success,True
+qgnnskza,2023-01-02 19:56:18,Delete,Admin Panel,Unauthorized,False
+rxibadha,2023-01-02 20:00:37,Access,Documents,Success,True
+buztsvkx,2023-01-02 20:01:54,Edit,Financials,Unauthorized,False
+fsxfbnax,2023-01-02 20:01:56,View,Reports,Success,True
+fbejaesi,2023-01-02 20:04:05,Access,Dashboard,Success,True
+sndabnhf,2023-01-02 20:04:39,Access,Documents,Success,True
+zjfvvvip,2023-01-02 20:07:39,Login,Reports,Success,True
+zdpgctlk,2023-01-02 20:11:24,Login,Documents,Success,True
+ecncysvp,2023-01-02 20:14:49,Delete,Admin Panel,Unauthorized,False
+xxsrtgag,2023-01-02 20:15:16,Access,Dashboard,Success,True
+lotkrmrw,2023-01-02 20:15:22,View,Admin Panel,Unauthorized,False
+dweekcdh,2023-01-02 20:17:00,View,Documents,Success,True
+eimrqqio,2023-01-02 20:21:14,Login,Financials,Unauthorized,False
+ptcrguoi,2023-01-02 20:25:00,Login,Financials,Unauthorized,False
+ghooeqlj,2023-01-02 20:25:05,Access,Documents,Success,True
+acrnlyqj,2023-01-02 20:27:34,Edit,Admin Panel,Unauthorized,False
+zlucthuj,2023-01-02 20:28:08,View,Dashboard,Success,True
+sbomvsko,2023-01-02 20:29:24,Login,Documents,Success,True
+hkkmndfd,2023-01-02 20:31:17,Login,Dashboard,Success,True
+vxcglbhi,2023-01-02 20:33:50,Login,Reports,Success,True
+qcwhclff,2023-01-02 20:36:57,Login,Financials,Unauthorized,False
+utcnslhk,2023-01-02 20:40:35,Edit,Financials,Unauthorized,False
+kddahwwd,2023-01-02 20:43:37,Login,Dashboard,Success,True
+otdpkrwo,2023-01-02 20:47:04,Login,Documents,Success,True
+tdpakqhw,2023-01-02 20:47:52,Access,Dashboard,Success,True
+zutuekiv,2023-01-02 20:50:24,Login,Dashboard,Success,True
+tqtxwfog,2023-01-02 20:51:24,Delete,Admin Panel,Unauthorized,False
+menkprrh,2023-01-02 20:52:20,Login,Documents,Success,True
+vkivyrqa,2023-01-02 20:55:34,Login,Financials,Unauthorized,False
+pxdwkzfu,2023-01-02 20:56:10,Delete,Financials,Unauthorized,False
+tkmhrudr,2023-01-02 20:56:52,Edit,Financials,Unauthorized,False
+yxavowyf,2023-01-02 20:59:04,Access,Dashboard,Success,True
+undgryja,2023-01-02 21:00:25,Edit,Financials,Success,False
+ypqyfkbs,2023-01-02 21:00:32,Edit,Financials,Unauthorized,False
+tbtnqdje,2023-01-02 21:01:27,Access,Documents,Success,True
+pfcudlrg,2023-01-02 21:03:03,Access,Dashboard,Success,True
+muimqgcz,2023-01-02 21:04:56,View,Reports,Success,True
+zoplyxfx,2023-01-02 21:07:48,Access,Documents,Success,True
+mqdndjhk,2023-01-02 21:10:18,Login,Admin Panel,Unauthorized,False
+wrxjqphm,2023-01-02 21:11:44,Access,Dashboard,Success,True
+rdczvvpw,2023-01-02 21:15:36,Login,Reports,Success,True
+yoobxqck,2023-01-02 21:15:48,Edit,Financials,Success,False
+dubngtns,2023-01-02 21:16:36,View,Documents,Success,True
+nfetdtso,2023-01-02 21:18:49,Login,Documents,Success,True
+hrpjsqhu,2023-01-02 21:18:52,View,Dashboard,Success,True
+jbxzbsxq,2023-01-02 21:21:16,Access,Dashboard,Success,True
+uhlmakzv,2023-01-02 21:21:36,View,Documents,Success,True
+iccyiebq,2023-01-02 21:21:56,Login,Documents,Success,True
+czggjjso,2023-01-02 21:23:25,Edit,Admin Panel,Unauthorized,False
+pluxphys,2023-01-02 21:23:50,Login,Dashboard,Success,True
+cgwulzsa,2023-01-02 21:23:57,Login,Financials,Success,False
+nmgpprhd,2023-01-02 21:25:33,View,Financials,Unauthorized,False
+hbumsdut,2023-01-02 21:29:49,Access,Financials,Success,False
+oekaipkb,2023-01-02 21:32:01,Delete,Financials,Unauthorized,False
+hkdfyidr,2023-01-02 21:35:03,Login,Financials,Success,False
+jgstunkx,2023-01-02 21:35:21,View,Dashboard,Success,True
+cliadxam,2023-01-02 21:35:46,View,Reports,Success,True
+qdqwvora,2023-01-02 21:36:25,Login,Documents,Success,True
+hcvwfkkl,2023-01-02 21:41:41,View,Reports,Success,True
+bxbppvfm,2023-01-02 21:42:28,Access,Financials,Unauthorized,False
+szsbejwa,2023-01-02 21:42:39,Delete,Admin Panel,Unauthorized,False
+nituewqi,2023-01-02 21:43:01,Login,Reports,Success,True
+oqzssdzl,2023-01-02 21:46:51,Login,Reports,Success,True
+tgugzynw,2023-01-02 21:49:54,Delete,Financials,Unauthorized,False
+rhsgdsvu,2023-01-02 21:50:00,View,Reports,Success,True
+simhreot,2023-01-02 21:50:20,View,Documents,Success,True
+esiukkek,2023-01-02 21:50:32,Login,Reports,Success,True
+uomqjodd,2023-01-02 21:50:52,Delete,Financials,Unauthorized,False
+ayytumuy,2023-01-02 21:50:53,Access,Reports,Success,True
+wvsbcvri,2023-01-02 21:52:52,View,Reports,Success,True
+pcrzuape,2023-01-02 21:56:07,Delete,Admin Panel,Unauthorized,False
+cmucekor,2023-01-02 21:56:23,Edit,Financials,Success,False
+ltkfuwzi,2023-01-02 21:57:26,Edit,Financials,Unauthorized,False
+mrhvyvkz,2023-01-02 21:58:05,View,Dashboard,Success,True
+qlbybucx,2023-01-02 21:59:02,Access,Documents,Success,True
+yxctedap,2023-01-02 22:01:10,View,Admin Panel,Unauthorized,False
+yumcypzk,2023-01-02 22:02:53,Delete,Admin Panel,Success,False
+zqbxukkk,2023-01-02 22:03:18,Login,Dashboard,Success,True
+fubmbodw,2023-01-02 22:04:42,View,Documents,Success,True
+jyfifogm,2023-01-02 22:05:37,Edit,Admin Panel,Success,False
+iarozslk,2023-01-02 22:07:46,Access,Documents,Success,True
+ynsaektp,2023-01-02 22:07:58,Access,Dashboard,Success,True
+kjtonssz,2023-01-02 22:08:31,View,Financials,Unauthorized,False
+vftilgyd,2023-01-02 22:10:26,Access,Reports,Success,True
+knwkzzxt,2023-01-02 22:12:46,View,Dashboard,Success,True
+oirxmmuh,2023-01-02 22:14:15,Access,Dashboard,Success,True
+xpbpujwo,2023-01-02 22:15:20,Login,Reports,Success,True
+aoesccvl,2023-01-02 22:16:19,Login,Financials,Success,False
+yziduwzo,2023-01-02 22:17:06,Login,Admin Panel,Unauthorized,False
+wulirnvu,2023-01-02 22:18:25,Login,Documents,Success,True
+bprtevfz,2023-01-02 22:19:08,View,Financials,Unauthorized,False
+fsvlrapm,2023-01-02 22:19:28,Delete,Admin Panel,Unauthorized,False
+ttlhnozf,2023-01-02 22:19:44,Edit,Admin Panel,Success,False
+daqhcdsb,2023-01-02 22:22:09,Access,Documents,Success,True
+znfoalky,2023-01-02 22:22:18,Access,Documents,Success,True
+ftrbtzmj,2023-01-02 22:23:25,Edit,Financials,Success,False
+qhfjpqid,2023-01-02 22:23:46,Access,Reports,Success,True
+nikuloyi,2023-01-02 22:24:33,Edit,Admin Panel,Unauthorized,False
+irpeyars,2023-01-02 22:25:52,Edit,Admin Panel,Success,False
+aeqgrapj,2023-01-02 22:26:38,Login,Admin Panel,Unauthorized,False
+dertrbww,2023-01-02 22:29:02,Edit,Financials,Unauthorized,False
+njpvfkel,2023-01-02 22:30:09,View,Dashboard,Success,True
+vtoqqked,2023-01-02 22:30:30,Edit,Financials,Unauthorized,False
+sxwclmpd,2023-01-02 22:32:28,Access,Financials,Unauthorized,False
+xibgrmma,2023-01-02 22:32:33,Access,Documents,Success,True
+cxgkmqzo,2023-01-02 22:34:57,Delete,Financials,Success,False
+ptlsyinn,2023-01-02 22:37:08,Access,Dashboard,Success,True
+xpozrskw,2023-01-02 22:41:09,View,Documents,Success,True
+ztjcheby,2023-01-02 22:42:49,View,Reports,Success,True
+gsxbjcag,2023-01-02 22:42:54,Access,Documents,Success,True
+iwwmovxi,2023-01-02 22:47:41,Access,Documents,Success,True
+qetdgegr,2023-01-02 22:57:11,View,Reports,Success,True
+angvajon,2023-01-02 22:57:33,Delete,Admin Panel,Success,False
+chlmvbfx,2023-01-02 22:59:59,Access,Reports,Success,True
+tspuqkyn,2023-01-02 23:00:03,View,Admin Panel,Unauthorized,False
+iwrpcngb,2023-01-02 23:00:06,Delete,Admin Panel,Unauthorized,False
+qihxhtfx,2023-01-02 23:00:59,Access,Admin Panel,Unauthorized,False
+ezjqwzau,2023-01-02 23:03:14,Login,Reports,Success,True
+dhuajdeo,2023-01-02 23:05:52,Login,Financials,Unauthorized,False
+pnxecrsj,2023-01-02 23:11:25,View,Dashboard,Success,True
+kwevrciv,2023-01-02 23:11:39,Login,Documents,Success,True
+muejvmvh,2023-01-02 23:12:54,Delete,Financials,Success,False
+yhbolglm,2023-01-02 23:17:27,Access,Documents,Success,True
+rzrxgdqs,2023-01-02 23:17:45,Login,Reports,Success,True
+whuineoj,2023-01-02 23:22:49,Login,Financials,Unauthorized,False
+gtexmery,2023-01-02 23:24:02,Access,Reports,Success,True
+xmswdtxm,2023-01-02 23:26:04,Login,Reports,Success,True
+uacywxul,2023-01-02 23:26:05,Access,Reports,Success,True
+mbcfgxii,2023-01-02 23:26:51,Delete,Financials,Unauthorized,False
+qcaoxjgh,2023-01-02 23:26:55,View,Dashboard,Success,True
+csmqalgq,2023-01-02 23:26:55,View,Reports,Success,True
+tbulacqf,2023-01-02 23:28:15,View,Financials,Success,False
+xeprrcxr,2023-01-02 23:29:17,Login,Dashboard,Success,True
+qtbtanvj,2023-01-02 23:29:55,View,Documents,Success,True
+mmctgvqp,2023-01-02 23:30:22,Login,Documents,Success,True
+zjahpoww,2023-01-02 23:30:58,View,Admin Panel,Unauthorized,False
+bxynfalo,2023-01-02 23:31:35,Delete,Admin Panel,Unauthorized,False
+crkarksm,2023-01-02 23:32:13,Access,Dashboard,Success,True
+xoagvidp,2023-01-02 23:33:03,Login,Admin Panel,Success,False
+eccvyakc,2023-01-02 23:34:21,View,Admin Panel,Unauthorized,False
+pjxhcycs,2023-01-02 23:35:32,View,Dashboard,Success,True
+sezeyojs,2023-01-02 23:36:04,Access,Dashboard,Success,True
+dmdqnlmo,2023-01-02 23:38:07,Edit,Admin Panel,Unauthorized,False
+rxixenqv,2023-01-02 23:38:24,Login,Dashboard,Success,True
+sgjyjclt,2023-01-02 23:43:05,View,Documents,Success,True
+rkjsvpbv,2023-01-02 23:47:27,View,Dashboard,Success,True
+bxcxuile,2023-01-02 23:48:29,Access,Dashboard,Success,True
+nrlsuytj,2023-01-02 23:49:19,Login,Financials,Unauthorized,False
+wffskthk,2023-01-02 23:50:05,Delete,Admin Panel,Unauthorized,False
+gjchpqva,2023-01-02 23:50:34,View,Documents,Success,True
+noximjgj,2023-01-02 23:52:05,View,Financials,Unauthorized,False
+udclkdke,2023-01-02 23:52:39,Delete,Financials,Success,False
+ixlxtkdn,2023-01-02 23:55:01,View,Financials,Unauthorized,False
+mrtwzggw,2023-01-02 23:55:53,Access,Financials,Unauthorized,False
+qgarycie,2023-01-02 23:57:14,Access,Dashboard,Success,True
+qhrjecnx,2023-01-02 23:58:21,Login,Documents,Success,True
+yzbrcyll,2023-01-02 23:59:01,Login,Reports,Success,True
+evhtbuqs,2023-01-02 23:59:41,View,Reports,Success,True

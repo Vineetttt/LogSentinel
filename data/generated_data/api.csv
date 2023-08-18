@@ -1,0 +1,2001 @@
+IP Address,Timestamp,User Type,User Agent,Endpoint,Request Type,Status Code,Response Time,Compliant
+53.26.21.193,2023-01-01 00:00:30,developer,Android/84.0,/api/v1/inventory,DELETE,500,297,False
+192.168.1.3,2023-01-01 00:06:21,admin,Chrome/87.0,/api/v1/configuration,PUT,200,800,True
+179.122.213.45,2023-01-01 00:06:39,develOper,Android/84.0,/api/v1/configuration,GET,502,950,False
+192.168.1.2,2023-01-01 00:07:23,analyst,Edge/89.0,/api/v1/products,GET,401,959,True
+107.167.98.152,2023-01-01 00:15:39,analyst,Chrome/87.0,/api/v1/payments,DELETE,200,118,False
+173.178.11.58,2023-01-01 00:22:56,develOper,Android/84.0,/api/v1/configuration,DELETE,404,352,False
+145.125.62.112,2023-01-01 00:23:04,develOper,Edge/89.0,/api/v1/orders,POST,200,575,False
+192.168.1.3,2023-01-01 00:27:18,developer,Edge/89.0,/api/v1/orders,POST,403,474,True
+192.168.1.2,2023-01-01 00:31:39,analyst,Firefox/84.0,/api/v1/products,GET,404,449,True
+192.168.1.3,2023-01-01 00:34:11,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,502,365,True
+192.168.1.2,2023-01-01 00:35:14,developer,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,500,865,True
+192.168.1.2,2023-01-01 00:36:43,analyst,Android/84.0,/api/v1/inventory,GET,200,346,True
+192.168.1.3,2023-01-01 00:42:13,admin,Android/84.0,/api/v1/payments,PUT,500,442,True
+192.168.1.1,2023-01-01 00:42:13,analyst,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,200,179,True
+192.168.1.2,2023-01-01 00:53:54,analyst,Firefox/84.0,/api/v1/orders,GET,403,271,True
+192.168.1.3,2023-01-01 00:54:59,analyst,Firefox/84.0,/api/v1/products,GET,200,406,True
+192.168.1.2,2023-01-01 00:56:58,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,303,181,True
+71.125.7.64,2023-01-01 00:57:13,analyst,Android/84.0,/api/v1/configuration,PUT,404,477,False
+11.237.198.212,2023-01-01 00:58:03,deve1oper,Android/84.0,/api/v1/payments,GET,403,321,False
+130.223.87.136,2023-01-01 01:01:39,aadmin,Edge/89.0,/api/v1/orders,PUT,304,843,False
+192.168.1.2,2023-01-01 01:04:16,analyst,Safari,/api/v1/inventory,GET,401,193,True
+34.174.38.77,2023-01-01 01:06:01,analyst,Android/84.0,/api/v1/payments,POST,500,738,False
+192.168.1.1,2023-01-01 01:12:09,analyst,Chrome/87.0,/api/v1/inventory,GET,500,290,True
+107.194.120.67,2023-01-01 01:12:45,analyzt,Opera/73.0,/api/v1/products,PUT,403,874,False
+192.168.1.3,2023-01-01 01:13:52,developer,Chrome/87.0,/api/v1/products,PUT,303,893,True
+192.168.1.3,2023-01-01 01:17:26,analyst,Opera/73.0,/api/v1/inventory,GET,403,723,True
+192.168.1.2,2023-01-01 01:30:15,admin,Edge/89.0,/api/v1/configuration,DELETE,404,309,True
+192.168.1.2,2023-01-01 01:38:27,developer,Firefox/84.0,/api/v1/products,GET,200,424,True
+217.219.154.94,2023-01-01 01:39:35,develOper,Opera/73.0,/api/v1/products,POST,404,272,False
+192.168.1.3,2023-01-01 01:41:03,analyst,Safari,/api/v1/products,GET,200,418,True
+192.168.1.3,2023-01-01 01:41:19,developer,Firefox/84.0,/api/v1/inventory,PUT,303,345,True
+24.82.67.216,2023-01-01 01:41:54,analyst,Opera/73.0,/api/v1/configuration,GET,303,849,False
+181.42.202.221,2023-01-01 01:43:01,develOper,Android/84.0,/api/v1/orders,GET,500,805,False
+182.238.129.10,2023-01-01 01:45:13,develOper,Chrome/87.0,/api/v1/configuration,DELETE,401,483,False
+192.168.1.2,2023-01-01 01:45:13,analyst,Android/84.0,/api/v1/inventory,GET,500,388,True
+6.166.79.43,2023-01-01 01:53:30,develOper,Android/84.0,/api/v1/configuration,POST,404,283,False
+192.168.1.1,2023-01-01 01:53:46,analyst,Android/84.0,/api/v1/products,GET,401,932,True
+192.168.1.3,2023-01-01 01:57:16,developer,Opera/73.0,/api/v1/products,GET,502,588,True
+31.64.124.95,2023-01-01 01:59:04,developer,Android/84.0,/api/v1/configuration,DELETE,401,798,False
+150.113.129.185,2023-01-01 02:05:25,devloper,Android/84.0,/api/v1/dashboard,DELETE,401,736,False
+192.168.1.3,2023-01-01 02:07:29,admin,Chrome/87.0,/api/v1/configuration,POST,401,507,True
+211.237.15.65,2023-01-01 02:13:54,analyst,Edge/89.0,/api/v1/configuration,PUT,200,742,False
+192.168.1.3,2023-01-01 02:14:41,developer,Opera/73.0,/api/v1/inventory,PUT,500,988,True
+207.210.228.109,2023-01-01 02:16:03,develOper,Opera/73.0,/api/v1/inventory,DELETE,403,661,False
+166.154.189.40,2023-01-01 02:19:43,develOper,Edge/89.0,/api/v1/products,GET,401,909,False
+132.241.254.205,2023-01-01 02:28:47,analyst,Opera/73.0,/api/v1/products,GET,200,290,False
+149.222.164.200,2023-01-01 02:29:00,aadmin,Android/84.0,/api/v1/orders,GET,200,415,False
+192.168.1.3,2023-01-01 02:29:36,analyst,Opera/73.0,/api/v1/inventory,GET,403,643,True
+192.168.1.1,2023-01-01 02:33:33,developer,Edge/89.0,/api/v1/products,GET,304,290,True
+192.168.1.1,2023-01-01 02:36:25,analyst,Opera/73.0,/api/v1/inventory,GET,200,900,True
+192.168.1.1,2023-01-01 02:43:14,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,200,512,True
+209.102.121.96,2023-01-01 02:50:58,analyzt,Edge/89.0,/api/v1/dashboard,GET,303,815,False
+169.140.235.106,2023-01-01 02:56:48,developer,iPhone; CPU OS 12_4_9,/api/v1/dashboard,PUT,502,123,False
+40.212.92.16,2023-01-01 03:00:25,devloper,Opera/73.0,/api/v1/dashboard,DELETE,304,947,False
+192.168.1.1,2023-01-01 03:07:15,analyst,Safari,/api/v1/orders,GET,303,796,True
+170.76.252.211,2023-01-01 03:09:12,devloper,Edge/89.0,/api/v1/products,PUT,403,325,False
+192.168.1.3,2023-01-01 03:11:28,admin,Firefox/84.0,/api/v1/configuration,DELETE,200,448,True
+192.168.1.3,2023-01-01 03:12:53,developer,Opera/73.0,/api/v1/orders,GET,200,350,True
+16.51.129.27,2023-01-01 03:23:27,deve1oper,Firefox/84.0,/api/v1/products,POST,404,354,False
+192.168.1.3,2023-01-01 03:30:42,admin,Firefox/84.0,/api/v1/configuration,GET,303,519,True
+115.130.183.112,2023-01-01 03:31:52,aadmin,Android/84.0,/api/v1/payments,DELETE,200,490,False
+196.67.80.66,2023-01-01 03:34:35,deve1oper,Chrome/87.0,/api/v1/orders,PUT,200,631,False
+96.198.17.68,2023-01-01 03:35:13,analyzt,Firefox/84.0,/api/v1/dashboard,POST,200,134,False
+26.115.230.128,2023-01-01 03:42:10,analyst,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,500,188,False
+49.125.53.203,2023-01-01 03:42:41,developer,Chrome/87.0,/api/v1/dashboard,DELETE,500,679,False
+61.199.151.49,2023-01-01 03:44:52,aadmin,Edge/89.0,/api/v1/dashboard,PUT,303,949,False
+11.128.129.84,2023-01-01 03:46:41,deve1oper,Safari,/api/v1/inventory,GET,502,200,False
+192.168.1.1,2023-01-01 03:49:09,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,500,321,True
+192.168.1.2,2023-01-01 03:49:12,analyst,Edge/89.0,/api/v1/payments,PUT,404,547,False
+192.168.1.2,2023-01-01 03:49:27,analyst,Opera/73.0,/api/v1/products,GET,200,313,True
+192.168.1.3,2023-01-01 03:55:13,developer,Safari,/api/v1/orders,POST,304,799,True
+6.150.239.108,2023-01-01 04:02:41,admiin,Edge/89.0,/api/v1/dashboard,GET,404,12,False
+192.168.1.3,2023-01-01 04:04:22,analyst,Safari,/api/v1/orders,GET,304,664,True
+192.168.1.1,2023-01-01 04:08:15,admin,Android/84.0,/api/v1/dashboard,GET,304,462,True
+192.168.1.1,2023-01-01 04:08:40,admin,Chrome/87.0,/api/v1/payments,GET,502,97,True
+192.168.1.3,2023-01-01 04:13:08,developer,Chrome/87.0,/api/v1/orders,POST,404,169,True
+192.168.1.3,2023-01-01 04:13:38,analyst,Opera/73.0,/api/v1/inventory,GET,404,842,True
+193.38.196.170,2023-01-01 04:18:11,admiin,Chrome/87.0,/api/v1/payments,PUT,404,251,False
+192.168.1.1,2023-01-01 04:20:49,admin,Safari,/api/v1/payments,DELETE,303,837,True
+192.168.1.3,2023-01-01 04:23:23,analyst,Firefox/84.0,/api/v1/orders,GET,403,608,True
+192.168.1.3,2023-01-01 04:25:56,admin,Edge/89.0,/api/v1/payments,PUT,200,908,True
+192.168.1.2,2023-01-01 04:27:07,analyst,Edge/89.0,/api/v1/orders,GET,200,635,True
+59.217.217.217,2023-01-01 04:27:38,analyst,Chrome/87.0,/api/v1/configuration,DELETE,500,46,False
+192.168.1.2,2023-01-01 04:28:50,admin,Safari,/api/v1/dashboard,POST,200,677,True
+192.168.1.2,2023-01-01 04:29:29,devloper,Android/84.0,/api/v1/orders,POST,200,311,False
+192.168.1.1,2023-01-01 04:41:05,analyst,Edge/89.0,/api/v1/products,GET,500,414,True
+192.168.1.2,2023-01-01 04:41:43,admin,Edge/89.0,/api/v1/payments,PUT,401,834,True
+192.168.1.2,2023-01-01 04:42:08,admin,Safari,/api/v1/payments,POST,303,418,True
+47.194.241.210,2023-01-01 04:44:05,admiin,iPhone; CPU OS 12_4_9,/api/v1/configuration,GET,500,96,False
+192.168.1.2,2023-01-01 04:46:56,analyst,Chrome/87.0,/api/v1/orders,GET,403,528,True
+55.76.67.119,2023-01-01 04:49:27,develOper,Edge/89.0,/api/v1/dashboard,POST,200,715,False
+144.81.242.95,2023-01-01 04:55:59,analyst,Android/84.0,/api/v1/dashboard,GET,200,584,False
+124.191.239.237,2023-01-01 05:00:18,analyst,Opera/73.0,/api/v1/inventory,GET,200,914,False
+151.237.106.145,2023-01-01 05:02:19,analyst,Edge/89.0,/api/v1/payments,DELETE,502,209,False
+192.168.1.2,2023-01-01 05:04:22,admin,Safari,/api/v1/dashboard,DELETE,401,65,True
+192.168.1.1,2023-01-01 05:06:42,developer,Opera/73.0,/api/v1/orders,GET,502,158,True
+192.168.1.1,2023-01-01 05:07:25,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,502,907,True
+192.168.1.1,2023-01-01 05:16:43,developer,iPhone; CPU OS 12_4_9,/api/v1/products,GET,303,679,True
+192.168.1.1,2023-01-01 05:26:16,admin,Opera/73.0,/api/v1/configuration,POST,303,564,True
+192.168.1.2,2023-01-01 05:28:30,admin,Safari,/api/v1/configuration,GET,403,43,True
+192.168.1.2,2023-01-01 05:28:46,analyst,Android/84.0,/api/v1/products,GET,303,55,True
+205.90.163.111,2023-01-01 05:29:18,deve1oper,Chrome/87.0,/api/v1/dashboard,DELETE,200,757,False
+207.81.188.76,2023-01-01 05:31:57,aadmin,Opera/73.0,/api/v1/products,GET,200,475,False
+192.168.1.1,2023-01-01 05:32:53,analyst,Opera/73.0,/api/v1/products,GET,200,399,True
+192.168.1.2,2023-01-01 05:34:25,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,GET,200,359,True
+87.254.126.196,2023-01-01 05:34:32,aadmin,Edge/89.0,/api/v1/configuration,POST,200,738,False
+192.168.1.1,2023-01-01 05:37:54,developer,Chrome/87.0,/api/v1/orders,POST,401,396,True
+192.168.1.3,2023-01-01 05:39:59,admin,Chrome/87.0,/api/v1/dashboard,DELETE,200,956,True
+181.158.228.194,2023-01-01 05:41:47,aadmin,Edge/89.0,/api/v1/inventory,DELETE,502,900,False
+165.82.73.165,2023-01-01 05:44:12,admiin,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,401,820,False
+117.247.201.164,2023-01-01 05:46:35,aadmin,Safari,/api/v1/products,DELETE,304,165,False
+21.142.17.76,2023-01-01 05:48:40,analyzt,Firefox/84.0,/api/v1/dashboard,GET,500,747,False
+192.168.1.3,2023-01-01 05:49:57,analyst,Opera/73.0,/api/v1/products,GET,304,904,True
+57.184.10.17,2023-01-01 05:51:08,develOper,Firefox/84.0,/api/v1/configuration,PUT,500,494,False
+86.218.223.84,2023-01-01 05:53:52,developer,Firefox/84.0,/api/v1/configuration,POST,200,136,False
+36.89.152.189,2023-01-01 05:57:40,admiin,Edge/89.0,/api/v1/payments,GET,401,880,False
+192.168.1.3,2023-01-01 06:01:23,admin,Chrome/87.0,/api/v1/dashboard,GET,200,350,True
+162.98.195.23,2023-01-01 06:02:55,aadmin,Opera/73.0,/api/v1/products,POST,500,343,False
+92.122.87.132,2023-01-01 06:04:22,aadmin,Opera/73.0,/api/v1/payments,GET,200,201,False
+163.143.125.51,2023-01-01 06:06:05,analyzt,Firefox/84.0,/api/v1/products,PUT,200,835,False
+22.24.219.223,2023-01-01 06:14:45,aadmin,Chrome/87.0,/api/v1/payments,PUT,200,658,False
+69.205.180.119,2023-01-01 06:17:19,analyzt,Safari,/api/v1/configuration,PUT,304,259,False
+73.99.249.80,2023-01-01 06:24:32,develOper,Android/84.0,/api/v1/payments,POST,401,877,False
+169.243.115.228,2023-01-01 06:29:37,aadmin,Android/84.0,/api/v1/payments,GET,404,385,False
+172.237.61.34,2023-01-01 06:32:51,analyst,Firefox/84.0,/api/v1/dashboard,PUT,200,380,False
+192.168.1.2,2023-01-01 06:34:55,developer,Android/84.0,/api/v1/products,PUT,200,967,True
+16.103.150.173,2023-01-01 06:44:01,deve1oper,Opera/73.0,/api/v1/inventory,POST,403,84,False
+130.131.16.221,2023-01-01 06:44:08,analyst,Safari,/api/v1/products,POST,304,688,False
+96.251.38.147,2023-01-01 06:44:11,analyst,Firefox/84.0,/api/v1/inventory,DELETE,200,81,False
+25.13.188.89,2023-01-01 06:45:59,admiin,Chrome/87.0,/api/v1/configuration,PUT,200,799,False
+192.168.1.3,2023-01-01 06:46:48,admin,Opera/73.0,/api/v1/payments,POST,200,28,True
+192.168.1.3,2023-01-01 06:47:15,analyst,Opera/73.0,/api/v1/products,GET,200,398,True
+192.168.1.1,2023-01-01 06:47:39,admin,Edge/89.0,/api/v1/configuration,POST,502,37,True
+192.168.1.2,2023-01-01 06:49:24,analyst,Android/84.0,/api/v1/inventory,GET,200,105,True
+49.7.126.164,2023-01-01 06:50:16,develOper,Opera/73.0,/api/v1/configuration,PUT,403,59,False
+192.168.1.3,2023-01-01 06:59:02,developer,Opera/73.0,/api/v1/orders,POST,502,692,True
+11.76.190.2,2023-01-01 06:59:34,analyst,Edge/89.0,/api/v1/payments,POST,502,851,False
+208.66.159.137,2023-01-01 07:00:16,develOper,iPhone; CPU OS 12_4_9,/api/v1/configuration,DELETE,200,580,False
+192.168.1.1,2023-01-01 07:00:27,developer,Chrome/87.0,/api/v1/inventory,GET,304,542,True
+192.168.1.2,2023-01-01 07:00:58,analyst,Opera/73.0,/api/v1/inventory,GET,303,705,True
+192.168.1.3,2023-01-01 07:00:59,analyst,Android/84.0,/api/v1/inventory,GET,200,220,True
+85.200.46.144,2023-01-01 07:02:25,develOper,Firefox/84.0,/api/v1/products,PUT,200,192,False
+58.45.18.34,2023-01-01 07:03:22,develOper,Safari,/api/v1/dashboard,POST,404,12,False
+130.174.7.44,2023-01-01 07:03:41,develOper,Android/84.0,/api/v1/dashboard,GET,401,215,False
+192.168.1.3,2023-01-01 07:05:30,admin,Firefox/84.0,/api/v1/dashboard,PUT,303,618,True
+192.168.1.2,2023-01-01 07:05:55,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,401,118,True
+192.168.1.3,2023-01-01 07:10:25,analyst,Edge/89.0,/api/v1/orders,GET,200,93,True
+192.168.1.1,2023-01-01 07:11:25,admin,Firefox/84.0,/api/v1/dashboard,GET,401,372,True
+219.48.188.229,2023-01-01 07:12:57,developer,Opera/73.0,/api/v1/configuration,GET,200,250,False
+206.31.142.185,2023-01-01 07:13:06,developer,Firefox/84.0,/api/v1/inventory,GET,200,686,False
+90.47.58.245,2023-01-01 07:15:15,analyst,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,401,781,False
+192.168.1.1,2023-01-01 07:16:23,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,403,418,True
+9.49.88.246,2023-01-01 07:29:27,develOper,Firefox/84.0,/api/v1/dashboard,PUT,404,804,False
+14.72.243.147,2023-01-01 07:34:48,devloper,iPhone; CPU OS 12_4_9,/api/v1/dashboard,POST,502,60,False
+130.148.53.138,2023-01-01 07:38:20,deve1oper,Safari,/api/v1/payments,POST,200,551,False
+192.168.1.2,2023-01-01 07:38:22,analyst,Android/84.0,/api/v1/inventory,GET,403,713,True
+192.168.1.1,2023-01-01 07:41:30,developer,Safari,/api/v1/orders,GET,500,498,True
+192.168.1.2,2023-01-01 07:46:30,developer,Edge/89.0,/api/v1/inventory,GET,200,304,True
+192.168.1.2,2023-01-01 07:46:45,developer,Android/84.0,/api/v1/products,POST,502,878,True
+192.168.1.2,2023-01-01 07:47:11,admin,Firefox/84.0,/api/v1/dashboard,POST,404,158,True
+192.168.1.1,2023-01-01 07:47:26,developer,Firefox/84.0,/api/v1/orders,PUT,303,460,True
+152.130.236.114,2023-01-01 07:48:53,analyst,Safari,/api/v1/dashboard,POST,500,436,False
+35.118.163.78,2023-01-01 07:56:11,deve1oper,Safari,/api/v1/dashboard,GET,200,123,False
+150.141.76.4,2023-01-01 08:00:36,developer,Safari,/api/v1/configuration,PUT,404,3,False
+41.25.250.16,2023-01-01 08:02:44,aadmin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,PUT,502,603,False
+192.168.1.3,2023-01-01 08:05:11,admin,Android/84.0,/api/v1/dashboard,PUT,304,832,True
+202.231.151.142,2023-01-01 08:06:46,deve1oper,Firefox/84.0,/api/v1/configuration,POST,304,247,False
+212.201.250.187,2023-01-01 08:14:23,aadmin,Edge/89.0,/api/v1/payments,POST,200,874,False
+192.168.1.1,2023-01-01 08:16:52,admin,Safari,/api/v1/configuration,GET,200,645,True
+9.206.248.236,2023-01-01 08:17:54,developer,Safari,/api/v1/payments,DELETE,404,882,False
+192.168.1.1,2023-01-01 08:20:13,analyst,Edge/89.0,/api/v1/products,GET,403,388,True
+192.168.1.2,2023-01-01 08:25:18,developer,Safari,/api/v1/products,POST,304,523,True
+192.168.1.2,2023-01-01 08:31:27,analyst,Edge/89.0,/api/v1/orders,GET,200,746,True
+192.168.1.2,2023-01-01 08:38:36,admin,Edge/89.0,/api/v1/configuration,PUT,404,446,True
+192.168.1.3,2023-01-01 08:38:55,admin,Edge/89.0,/api/v1/dashboard,PUT,200,181,True
+192.168.1.3,2023-01-01 08:41:26,analyst,Safari,/api/v1/orders,GET,304,119,True
+181.147.13.37,2023-01-01 08:42:19,admiin,Android/84.0,/api/v1/inventory,DELETE,200,391,False
+110.33.51.18,2023-01-01 08:45:40,developer,iPhone; CPU OS 12_4_9,/api/v1/products,GET,304,951,False
+192.168.1.1,2023-01-01 08:50:32,developer,Firefox/84.0,/api/v1/products,PUT,403,25,True
+192.168.1.2,2023-01-01 08:51:23,analyst,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,200,470,True
+192.168.1.2,2023-01-01 08:54:51,analyst,Firefox/84.0,/api/v1/products,GET,304,640,True
+192.168.1.3,2023-01-01 08:57:03,developer,Safari,/api/v1/inventory,PUT,200,473,True
+133.59.1.224,2023-01-01 08:57:40,deve1oper,Chrome/87.0,/api/v1/payments,GET,403,547,False
+165.137.188.82,2023-01-01 08:59:15,analyst,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,502,551,False
+192.168.1.2,2023-01-01 09:03:38,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,200,779,True
+192.168.1.1,2023-01-01 09:05:08,admin,Opera/73.0,/api/v1/configuration,PUT,304,619,True
+48.163.154.16,2023-01-01 09:05:22,admiin,Chrome/87.0,/api/v1/dashboard,PUT,200,567,False
+17.17.246.231,2023-01-01 09:06:59,analyst,Edge/89.0,/api/v1/inventory,GET,404,580,False
+122.89.248.237,2023-01-01 09:07:06,admiin,Safari,/api/v1/configuration,POST,303,874,False
+192.168.1.2,2023-01-01 09:07:40,admin,Opera/73.0,/api/v1/payments,POST,200,76,True
+195.152.101.133,2023-01-01 09:10:29,devloper,Safari,/api/v1/orders,POST,304,754,False
+192.168.1.1,2023-01-01 09:16:31,admin,Android/84.0,/api/v1/payments,DELETE,500,464,True
+89.60.175.254,2023-01-01 09:20:30,analyzt,Android/84.0,/api/v1/configuration,GET,200,339,False
+180.193.161.157,2023-01-01 09:20:50,analyst,Edge/89.0,/api/v1/configuration,GET,304,496,False
+192.168.1.2,2023-01-01 09:21:14,admin,Firefox/84.0,/api/v1/configuration,GET,200,1000,True
+223.216.109.215,2023-01-01 09:22:18,admiin,Safari,/api/v1/dashboard,GET,502,775,False
+22.103.53.32,2023-01-01 09:31:57,admiin,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,200,669,False
+192.168.1.3,2023-01-01 09:35:26,analyst,Opera/73.0,/api/v1/products,GET,403,344,True
+192.168.1.2,2023-01-01 09:37:05,developer,Edge/89.0,/api/v1/inventory,POST,200,421,True
+163.250.236.142,2023-01-01 09:37:48,aadmin,Safari,/api/v1/configuration,GET,303,112,False
+24.49.174.8,2023-01-01 09:40:03,devloper,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,303,793,False
+163.244.205.119,2023-01-01 09:40:22,admiin,iPhone; CPU OS 12_4_9,/api/v1/inventory,POST,200,276,False
+2.232.214.222,2023-01-01 09:41:25,devloper,Edge/89.0,/api/v1/dashboard,PUT,200,365,False
+75.6.91.45,2023-01-01 09:43:13,analyst,Android/84.0,/api/v1/dashboard,PUT,200,100,False
+64.180.178.25,2023-01-01 09:44:42,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/payments,DELETE,200,369,False
+192.168.1.1,2023-01-01 09:55:30,developer,Android/84.0,/api/v1/inventory,GET,502,175,True
+192.168.1.3,2023-01-01 09:55:34,analyst,Chrome/87.0,/api/v1/inventory,GET,404,731,True
+192.168.1.1,2023-01-01 09:57:23,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,GET,304,161,True
+192.168.1.3,2023-01-01 09:58:35,admin,Firefox/84.0,/api/v1/payments,DELETE,304,677,True
+192.168.1.1,2023-01-01 10:00:06,developer,Android/84.0,/api/v1/orders,POST,200,367,True
+192.168.1.1,2023-01-01 10:01:05,developer,Android/84.0,/api/v1/inventory,GET,500,930,True
+192.168.1.2,2023-01-01 10:02:16,developer,iPhone; CPU OS 12_4_9,/api/v1/products,GET,200,608,True
+78.250.142.194,2023-01-01 10:11:04,devloper,Android/84.0,/api/v1/dashboard,DELETE,303,711,False
+192.168.1.2,2023-01-01 10:17:20,admin,Opera/73.0,/api/v1/configuration,DELETE,500,957,True
+192.168.1.2,2023-01-01 10:17:49,analyst,Chrome/87.0,/api/v1/orders,GET,403,113,True
+180.44.221.187,2023-01-01 10:20:48,analyzt,Chrome/87.0,/api/v1/dashboard,GET,404,969,False
+210.4.249.136,2023-01-01 10:23:42,analyst,Firefox/84.0,/api/v1/configuration,POST,502,286,False
+192.168.1.2,2023-01-01 10:26:33,analyst,Android/84.0,/api/v1/orders,GET,401,893,True
+192.168.1.2,2023-01-01 10:26:37,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,500,854,True
+167.122.45.101,2023-01-01 10:28:08,aadmin,Edge/89.0,/api/v1/products,DELETE,304,561,False
+96.144.173.135,2023-01-01 10:28:33,aadmin,Chrome/87.0,/api/v1/payments,PUT,304,308,False
+192.168.1.1,2023-01-01 10:30:35,analyst,Firefox/84.0,/api/v1/inventory,GET,404,374,True
+15.179.7.189,2023-01-01 10:31:34,develOper,Chrome/87.0,/api/v1/configuration,POST,303,639,False
+166.16.162.136,2023-01-01 10:35:21,aadmin,Safari,/api/v1/inventory,DELETE,404,152,False
+47.61.31.115,2023-01-01 10:35:25,developer,Opera/73.0,/api/v1/dashboard,PUT,401,786,False
+136.157.221.203,2023-01-01 10:36:44,analyst,Edge/89.0,/api/v1/orders,PUT,200,775,False
+192.168.1.3,2023-01-01 10:39:09,analyst,Edge/89.0,/api/v1/orders,GET,401,40,True
+192.168.1.2,2023-01-01 10:39:45,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,200,311,True
+15.25.185.27,2023-01-01 10:42:34,analyst,Opera/73.0,/api/v1/payments,PUT,200,894,False
+202.165.191.206,2023-01-01 10:43:12,devloper,Firefox/84.0,/api/v1/inventory,GET,500,374,False
+192.168.1.1,2023-01-01 10:44:45,admin,Safari,/api/v1/payments,PUT,401,454,True
+5.133.185.127,2023-01-01 10:45:29,developer,Edge/89.0,/api/v1/payments,PUT,200,162,False
+192.168.1.3,2023-01-01 10:50:27,developer,Edge/89.0,/api/v1/orders,GET,200,232,True
+57.122.26.203,2023-01-01 10:52:18,develOper,Opera/73.0,/api/v1/configuration,GET,200,466,False
+192.168.1.2,2023-01-01 11:12:59,analyst,Edge/89.0,/api/v1/inventory,GET,500,848,True
+220.186.99.226,2023-01-01 11:16:30,devloper,Chrome/87.0,/api/v1/products,POST,200,395,False
+215.249.229.199,2023-01-01 11:21:10,developer,Chrome/87.0,/api/v1/products,POST,403,950,False
+192.168.1.2,2023-01-01 11:25:01,admin,Safari,/api/v1/configuration,DELETE,403,266,True
+192.168.1.3,2023-01-01 11:26:16,developer,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,303,706,True
+192.168.1.1,2023-01-01 11:30:10,developer,Edge/89.0,/api/v1/inventory,PUT,500,307,True
+202.220.227.49,2023-01-01 11:31:26,deve1oper,Safari,/api/v1/dashboard,GET,502,940,False
+205.124.200.195,2023-01-01 11:37:35,developer,iPhone; CPU OS 12_4_9,/api/v1/payments,GET,200,843,False
+214.207.12.209,2023-01-01 11:39:39,admiin,Safari,/api/v1/configuration,POST,200,810,False
+192.168.1.1,2023-01-01 11:40:38,developer,Edge/89.0,/api/v1/orders,POST,502,539,True
+192.168.1.2,2023-01-01 11:41:50,admin,Opera/73.0,/api/v1/payments,GET,502,441,True
+88.172.223.18,2023-01-01 11:50:35,analyzt,Opera/73.0,/api/v1/configuration,PUT,200,965,False
+192.168.1.2,2023-01-01 11:55:52,developer,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,200,568,True
+192.168.1.1,2023-01-01 12:00:01,analyst,Edge/89.0,/api/v1/inventory,GET,403,990,True
+192.168.1.1,2023-01-01 12:05:13,developer,Chrome/87.0,/api/v1/orders,POST,200,966,True
+204.61.236.100,2023-01-01 12:08:48,analyst,Android/84.0,/api/v1/configuration,GET,404,230,False
+86.165.94.114,2023-01-01 12:09:17,analyst,iPhone; CPU OS 12_4_9,/api/v1/configuration,DELETE,200,453,False
+212.61.15.183,2023-01-01 12:10:18,develOper,Firefox/84.0,/api/v1/configuration,POST,500,134,False
+192.168.1.3,2023-01-01 12:11:27,admin,Firefox/84.0,/api/v1/configuration,GET,200,344,True
+192.168.1.2,2023-01-01 12:12:14,developer,Chrome/87.0,/api/v1/orders,PUT,403,13,True
+192.168.1.3,2023-01-01 12:13:45,analyst,Edge/89.0,/api/v1/orders,GET,303,974,True
+192.168.1.2,2023-01-01 12:15:38,developer,Safari,/api/v1/inventory,POST,200,965,True
+192.168.1.1,2023-01-01 12:19:59,admin,Edge/89.0,/api/v1/dashboard,DELETE,404,887,True
+192.168.1.1,2023-01-01 12:21:44,developer,Edge/89.0,/api/v1/products,POST,200,388,True
+192.168.1.1,2023-01-01 12:25:22,developer,Chrome/87.0,/api/v1/inventory,GET,500,119,True
+214.4.213.90,2023-01-01 12:26:05,devloper,Firefox/84.0,/api/v1/dashboard,PUT,200,320,False
+202.45.223.119,2023-01-01 12:31:50,develOper,Safari,/api/v1/configuration,POST,200,767,False
+192.168.1.2,2023-01-01 12:33:31,admin,Opera/73.0,/api/v1/payments,POST,200,46,True
+192.168.1.2,2023-01-01 12:35:45,analyst,Safari,/api/v1/products,GET,200,285,True
+1.134.72.106,2023-01-01 12:38:11,analyst,Firefox/84.0,/api/v1/configuration,PUT,304,108,False
+192.168.1.2,2023-01-01 12:47:36,analyst,Edge/89.0,/api/v1/orders,GET,304,446,True
+192.168.1.1,2023-01-01 12:47:49,admin,Firefox/84.0,/api/v1/payments,POST,500,708,True
+123.161.163.11,2023-01-01 12:49:43,aadmin,Firefox/84.0,/api/v1/dashboard,DELETE,403,115,False
+192.19.138.172,2023-01-01 12:50:39,analyst,Chrome/87.0,/api/v1/payments,GET,200,352,False
+192.168.1.3,2023-01-01 12:51:48,developer,Edge/89.0,/api/v1/orders,POST,500,901,True
+64.222.241.43,2023-01-01 12:51:52,deve1oper,Opera/73.0,/api/v1/payments,PUT,304,341,False
+192.168.1.1,2023-01-01 12:52:04,admin,Safari,/api/v1/configuration,DELETE,500,691,True
+192.168.1.1,2023-01-01 12:55:33,developer,Safari,/api/v1/inventory,GET,500,521,True
+192.168.1.2,2023-01-01 13:03:06,admin,Safari,/api/v1/dashboard,DELETE,404,455,True
+209.81.224.233,2023-01-01 13:17:05,developer,Safari,/api/v1/dashboard,DELETE,500,994,False
+171.237.251.217,2023-01-01 13:17:20,analyzt,Edge/89.0,/api/v1/dashboard,PUT,401,589,False
+192.168.1.1,2023-01-01 13:17:26,analyst,Firefox/84.0,/api/v1/inventory,GET,200,844,True
+191.45.250.245,2023-01-01 13:17:54,admiin,Android/84.0,/api/v1/payments,POST,200,838,False
+192.168.1.2,2023-01-01 13:19:54,analyst,Android/84.0,/api/v1/inventory,GET,200,599,True
+192.168.1.1,2023-01-01 13:23:25,analyst,Edge/89.0,/api/v1/orders,GET,200,690,True
+192.168.1.1,2023-01-01 13:24:45,admin,Opera/73.0,/api/v1/payments,POST,200,168,True
+192.168.1.3,2023-01-01 13:25:13,analyst,Safari,/api/v1/inventory,GET,403,834,True
+17.10.176.73,2023-01-01 13:25:36,deve1oper,Opera/73.0,/api/v1/dashboard,PUT,401,88,False
+174.249.232.129,2023-01-01 13:25:43,devloper,Android/84.0,/api/v1/dashboard,DELETE,200,372,False
+56.31.202.42,2023-01-01 13:29:53,analyzt,Edge/89.0,/api/v1/payments,POST,304,172,False
+38.186.55.216,2023-01-01 13:33:12,devloper,Android/84.0,/api/v1/inventory,PUT,404,972,False
+45.144.183.23,2023-01-01 13:33:51,develOper,Firefox/84.0,/api/v1/orders,POST,200,389,False
+192.168.1.3,2023-01-01 13:35:49,developer,Firefox/84.0,/api/v1/products,POST,404,990,True
+192.168.1.3,2023-01-01 13:36:42,analyst,Opera/73.0,/api/v1/inventory,GET,200,448,True
+39.167.14.193,2023-01-01 13:37:29,analyzt,Firefox/84.0,/api/v1/configuration,DELETE,303,538,False
+175.67.0.91,2023-01-01 13:42:10,analyst,Chrome/87.0,/api/v1/configuration,POST,303,203,False
+105.131.59.106,2023-01-01 13:43:39,analyzt,Opera/73.0,/api/v1/dashboard,GET,401,275,False
+192.168.1.1,2023-01-01 13:45:29,developer,Android/84.0,/api/v1/products,GET,403,678,True
+192.168.1.3,2023-01-01 13:52:11,analyst,Edge/89.0,/api/v1/inventory,GET,403,109,True
+192.168.1.1,2023-01-01 13:54:21,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,303,461,True
+192.168.1.2,2023-01-01 14:04:25,admin,Firefox/84.0,/api/v1/configuration,PUT,403,188,True
+192.168.1.2,2023-01-01 14:13:01,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,502,338,True
+192.168.1.1,2023-01-01 14:14:02,analyst,Chrome/87.0,/api/v1/products,GET,200,535,True
+192.168.1.3,2023-01-01 14:16:27,developer,Chrome/87.0,/api/v1/inventory,POST,404,69,True
+202.26.88.182,2023-01-01 14:16:32,admiin,Safari,/api/v1/payments,POST,200,115,False
+192.168.1.2,2023-01-01 14:18:31,developer,Edge/89.0,/api/v1/inventory,PUT,403,132,True
+177.87.113.174,2023-01-01 14:21:41,develOper,Firefox/84.0,/api/v1/inventory,PUT,403,347,False
+192.168.1.3,2023-01-01 14:21:49,analyst,Safari,/api/v1/orders,GET,304,610,True
+192.168.1.3,2023-01-01 14:25:51,developer,Android/84.0,/api/v1/inventory,PUT,200,693,True
+153.21.100.100,2023-01-01 14:29:00,aadmin,Safari,/api/v1/orders,DELETE,401,864,False
+3.215.138.143,2023-01-01 14:32:00,develOper,Safari,/api/v1/configuration,PUT,303,280,False
+25.63.170.37,2023-01-01 14:33:34,aadmin,Android/84.0,/api/v1/dashboard,GET,200,840,False
+86.11.73.144,2023-01-01 14:35:31,devloper,Firefox/84.0,/api/v1/payments,POST,502,610,False
+192.168.1.1,2023-01-01 14:38:12,developer,Edge/89.0,/api/v1/orders,GET,404,895,True
+192.168.1.2,2023-01-01 14:39:27,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,403,50,True
+192.168.1.3,2023-01-01 14:43:12,developer,Firefox/84.0,/api/v1/products,PUT,500,177,True
+192.168.1.2,2023-01-01 14:44:45,admin,Edge/89.0,/api/v1/configuration,GET,200,818,True
+192.168.1.3,2023-01-01 14:45:46,admin,Opera/73.0,/api/v1/configuration,POST,500,43,True
+192.168.1.3,2023-01-01 14:46:29,admin,Opera/73.0,/api/v1/dashboard,POST,502,575,True
+192.168.1.1,2023-01-01 14:47:39,developer,Edge/89.0,/api/v1/inventory,PUT,404,538,True
+209.129.75.139,2023-01-01 14:49:07,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,DELETE,200,69,False
+192.168.1.2,2023-01-01 14:51:09,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,404,250,True
+192.168.1.2,2023-01-01 14:53:54,developer,Firefox/84.0,/api/v1/inventory,GET,200,220,True
+219.116.204.211,2023-01-01 14:59:20,aadmin,Android/84.0,/api/v1/inventory,PUT,200,563,False
+24.203.240.4,2023-01-01 15:01:11,admiin,Android/84.0,/api/v1/inventory,PUT,200,904,False
+175.32.223.132,2023-01-01 15:05:08,deve1oper,Android/84.0,/api/v1/configuration,PUT,200,889,False
+192.168.1.2,2023-01-01 15:07:15,analyst,Android/84.0,/api/v1/inventory,GET,200,318,True
+89.182.190.12,2023-01-01 15:07:39,devloper,Firefox/84.0,/api/v1/inventory,PUT,200,519,False
+192.168.1.2,2023-01-01 15:10:57,developer,iPhone; CPU OS 12_4_9,/api/v1/products,GET,200,20,True
+192.168.1.3,2023-01-01 15:13:38,analyst,Safari,/api/v1/inventory,GET,304,5,True
+131.84.30.80,2023-01-01 15:14:34,aadmin,Opera/73.0,/api/v1/configuration,GET,200,229,False
+192.168.1.1,2023-01-01 15:15:18,developer,Opera/73.0,/api/v1/inventory,PUT,500,928,True
+192.168.1.3,2023-01-01 15:24:23,analyst,Opera/73.0,/api/v1/inventory,GET,404,940,True
+179.106.125.79,2023-01-01 15:26:36,analyst,Chrome/87.0,/api/v1/configuration,POST,502,427,False
+192.168.1.1,2023-01-01 15:34:27,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,POST,200,433,True
+67.198.156.112,2023-01-01 15:36:03,devloper,Chrome/87.0,/api/v1/products,PUT,304,980,False
+208.96.222.14,2023-01-01 15:36:51,aadmin,Chrome/87.0,/api/v1/configuration,DELETE,200,175,False
+217.132.29.32,2023-01-01 15:38:15,analyst,Chrome/87.0,/api/v1/payments,DELETE,502,708,False
+192.168.1.2,2023-01-01 15:39:52,developer,Android/84.0,/api/v1/orders,GET,304,880,True
+192.168.1.2,2023-01-01 15:45:32,admin,Android/84.0,/api/v1/payments,PUT,304,288,True
+211.70.86.170,2023-01-01 15:46:02,analyst,Edge/89.0,/api/v1/configuration,PUT,404,517,False
+81.99.70.36,2023-01-01 15:51:57,deve1oper,Safari,/api/v1/configuration,POST,303,128,False
+25.238.83.142,2023-01-01 15:52:36,admiin,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,200,537,False
+192.168.1.1,2023-01-01 15:53:43,analyst,Firefox/84.0,/api/v1/products,GET,200,509,True
+192.168.1.2,2023-01-01 15:55:31,admin,Opera/73.0,/api/v1/dashboard,DELETE,200,222,True
+192.168.1.2,2023-01-01 15:58:03,analyst,Chrome/87.0,/api/v1/products,GET,200,133,True
+192.168.1.2,2023-01-01 16:10:04,developer,Firefox/84.0,/api/v1/orders,PUT,500,624,True
+101.51.54.136,2023-01-01 16:21:43,analyst,Chrome/87.0,/api/v1/dashboard,GET,200,852,False
+192.168.1.2,2023-01-01 16:22:54,developer,Opera/73.0,/api/v1/products,GET,403,81,True
+35.175.71.31,2023-01-01 16:24:46,developer,Firefox/84.0,/api/v1/configuration,DELETE,200,525,False
+112.28.30.37,2023-01-01 16:28:02,analyzt,Opera/73.0,/api/v1/inventory,PUT,304,232,False
+133.111.240.204,2023-01-01 16:35:37,developer,iPhone; CPU OS 12_4_9,/api/v1/configuration,GET,304,634,False
+66.110.153.164,2023-01-01 16:36:11,develOper,Android/84.0,/api/v1/inventory,POST,200,726,False
+192.168.1.2,2023-01-01 16:49:04,admin,Safari,/api/v1/configuration,POST,500,295,True
+192.168.1.1,2023-01-01 16:50:52,developer,Chrome/87.0,/api/v1/products,POST,200,660,True
+4.175.152.140,2023-01-01 16:51:53,analyzt,Edge/89.0,/api/v1/dashboard,PUT,502,844,False
+126.87.11.215,2023-01-01 16:55:52,develOper,Opera/73.0,/api/v1/payments,GET,200,166,False
+192.168.1.1,2023-01-01 16:56:08,admin,Opera/73.0,/api/v1/payments,GET,200,44,True
+192.168.1.2,2023-01-01 16:56:59,analyst,Chrome/87.0,/api/v1/products,GET,404,908,True
+192.168.1.3,2023-01-01 16:58:27,analyst,Edge/89.0,/api/v1/orders,GET,303,763,True
+98.192.117.137,2023-01-01 16:59:02,admiin,Android/84.0,/api/v1/products,GET,304,594,False
+23.140.17.54,2023-01-01 17:10:57,analyzt,iPhone; CPU OS 12_4_9,/api/v1/inventory,POST,200,148,False
+192.168.1.2,2023-01-01 17:12:33,admin,Edge/89.0,/api/v1/configuration,GET,200,556,True
+192.168.1.2,2023-01-01 17:16:36,admin,Opera/73.0,/api/v1/dashboard,GET,303,431,True
+192.168.1.1,2023-01-01 17:19:53,developer,Chrome/87.0,/api/v1/orders,GET,200,836,True
+192.168.1.1,2023-01-01 17:20:05,admin,Android/84.0,/api/v1/payments,PUT,200,88,True
+192.168.1.1,2023-01-01 17:20:30,analyst,Android/84.0,/api/v1/products,GET,200,700,True
+192.168.1.2,2023-01-01 17:21:03,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,304,961,True
+192.168.1.1,2023-01-01 17:21:42,admin,Edge/89.0,/api/v1/payments,POST,200,505,True
+211.17.205.171,2023-01-01 17:25:53,devloper,Firefox/84.0,/api/v1/orders,GET,200,784,False
+192.168.1.1,2023-01-01 17:34:11,analyst,Firefox/84.0,/api/v1/inventory,GET,403,519,True
+192.168.1.3,2023-01-01 17:37:08,admin,Opera/73.0,/api/v1/configuration,POST,200,973,True
+113.225.225.224,2023-01-01 17:37:48,analyzt,Edge/89.0,/api/v1/payments,GET,200,641,False
+25.127.141.94,2023-01-01 17:39:42,admiin,Opera/73.0,/api/v1/products,GET,502,408,False
+103.116.99.45,2023-01-01 17:39:51,deve1oper,Android/84.0,/api/v1/products,POST,502,289,False
+192.168.1.2,2023-01-01 17:45:28,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,401,808,True
+72.152.99.87,2023-01-01 17:48:08,analyst,Firefox/84.0,/api/v1/configuration,POST,403,426,False
+150.38.37.4,2023-01-01 17:48:21,deve1oper,Edge/89.0,/api/v1/inventory,PUT,502,358,False
+192.168.1.1,2023-01-01 17:54:11,admin,Opera/73.0,/api/v1/configuration,DELETE,401,553,True
+105.207.92.9,2023-01-01 17:55:27,devloper,Android/84.0,/api/v1/configuration,POST,403,43,False
+192.168.1.2,2023-01-01 18:11:11,admin,Chrome/87.0,/api/v1/dashboard,PUT,403,904,True
+211.111.89.105,2023-01-01 18:14:20,develOper,Opera/73.0,/api/v1/inventory,GET,304,27,False
+115.49.66.104,2023-01-01 18:15:42,analyzt,Android/84.0,/api/v1/products,GET,303,348,False
+192.168.1.1,2023-01-01 18:20:05,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,PUT,403,514,True
+192.168.1.2,2023-01-01 18:21:46,admin,Firefox/84.0,/api/v1/configuration,POST,401,202,True
+192.168.1.2,2023-01-01 18:22:38,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,401,955,True
+81.20.193.101,2023-01-01 18:23:41,analyst,Edge/89.0,/api/v1/payments,GET,200,66,False
+178.238.128.168,2023-01-01 18:24:02,devloper,Chrome/87.0,/api/v1/products,POST,304,599,False
+192.168.1.2,2023-01-01 18:26:52,developer,Android/84.0,/api/v1/inventory,GET,304,713,True
+192.168.1.3,2023-01-01 18:29:11,admin,Opera/73.0,/api/v1/payments,POST,403,143,True
+136.172.194.46,2023-01-01 18:32:21,analyst,Chrome/87.0,/api/v1/payments,PUT,200,560,False
+192.168.1.2,2023-01-01 18:35:56,analyst,Opera/73.0,/api/v1/orders,GET,404,919,True
+192.168.1.2,2023-01-01 18:45:10,analyst,Edge/89.0,/api/v1/orders,GET,502,102,True
+110.220.29.138,2023-01-01 18:49:43,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,303,580,False
+205.115.180.224,2023-01-01 18:51:10,aadmin,Edge/89.0,/api/v1/orders,GET,500,316,False
+193.178.113.119,2023-01-01 18:51:48,develOper,Edge/89.0,/api/v1/payments,GET,200,411,False
+192.168.1.3,2023-01-01 18:52:40,developer,Android/84.0,/api/v1/orders,GET,200,10,True
+192.168.1.3,2023-01-01 18:55:45,analyst,Safari,/api/v1/products,GET,304,913,True
+126.194.86.58,2023-01-01 18:56:11,develOper,Edge/89.0,/api/v1/orders,POST,200,286,False
+120.155.110.102,2023-01-01 19:01:33,analyst,Android/84.0,/api/v1/configuration,DELETE,304,555,False
+192.168.1.2,2023-01-01 19:08:15,admin,Edge/89.0,/api/v1/dashboard,POST,502,769,True
+192.168.1.2,2023-01-01 19:10:20,developer,Edge/89.0,/api/v1/inventory,GET,500,397,True
+192.168.1.1,2023-01-01 19:12:18,analyst,Chrome/87.0,/api/v1/products,GET,403,793,True
+209.114.118.190,2023-01-01 19:15:46,devloper,Edge/89.0,/api/v1/configuration,PUT,200,739,False
+192.168.1.2,2023-01-01 19:17:01,developer,Safari,/api/v1/products,PUT,200,510,True
+192.168.1.2,2023-01-01 19:20:43,analyst,Opera/73.0,/api/v1/inventory,GET,200,497,True
+88.45.130.79,2023-01-01 19:25:44,devloper,Opera/73.0,/api/v1/products,DELETE,500,737,False
+192.168.1.2,2023-01-01 19:26:54,developer,Edge/89.0,/api/v1/inventory,GET,303,880,True
+192.168.1.3,2023-01-01 19:33:59,developer,Opera/73.0,/api/v1/products,POST,502,410,True
+192.168.1.2,2023-01-01 19:36:05,analyst,Firefox/84.0,/api/v1/orders,GET,303,263,True
+160.166.37.252,2023-01-01 19:37:40,analyzt,Safari,/api/v1/payments,GET,200,853,False
+119.148.245.240,2023-01-01 19:38:23,deve1oper,Android/84.0,/api/v1/dashboard,POST,500,93,False
+192.168.1.3,2023-01-01 19:39:09,developer,iPhone; CPU OS 12_4_9,/api/v1/products,GET,303,959,True
+192.168.1.1,2023-01-01 19:40:50,developer,Edge/89.0,/api/v1/products,POST,200,940,True
+192.168.1.2,2023-01-01 19:45:00,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,500,852,True
+192.168.1.2,2023-01-01 19:45:32,developer,Opera/73.0,/api/v1/inventory,POST,403,539,True
+192.168.1.1,2023-01-01 19:48:02,admin,Safari,/api/v1/payments,DELETE,304,590,True
+192.168.1.3,2023-01-01 19:48:28,admin,Firefox/84.0,/api/v1/dashboard,POST,200,602,True
+192.168.1.3,2023-01-01 19:49:53,developer,Safari,/api/v1/orders,PUT,401,632,True
+142.144.11.27,2023-01-01 19:51:42,devloper,Opera/73.0,/api/v1/payments,POST,200,477,False
+17.100.230.120,2023-01-01 19:52:42,analyst,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,502,865,False
+70.18.133.229,2023-01-01 20:00:33,admiin,Opera/73.0,/api/v1/dashboard,PUT,404,807,False
+192.168.1.2,2023-01-01 20:00:55,analyst,Edge/89.0,/api/v1/products,GET,502,208,True
+21.245.191.116,2023-01-01 20:04:41,analyst,Opera/73.0,/api/v1/products,DELETE,303,588,False
+66.182.166.17,2023-01-01 20:07:14,aadmin,Chrome/87.0,/api/v1/products,POST,403,912,False
+196.69.88.218,2023-01-01 20:08:22,analyst,Opera/73.0,/api/v1/dashboard,DELETE,401,464,False
+192.168.1.1,2023-01-01 20:11:27,admin,Chrome/87.0,/api/v1/dashboard,POST,200,14,True
+114.177.29.49,2023-01-01 20:16:38,analyst,Android/84.0,/api/v1/configuration,GET,502,234,False
+192.168.1.1,2023-01-01 20:19:45,analyst,Firefox/84.0,/api/v1/orders,GET,403,382,True
+119.108.217.236,2023-01-01 20:28:05,analyst,Opera/73.0,/api/v1/payments,PUT,403,928,False
+8.49.229.168,2023-01-01 20:33:05,admiin,Opera/73.0,/api/v1/inventory,GET,304,129,False
+2.184.80.159,2023-01-01 20:38:59,analyst,iPhone; CPU OS 12_4_9,/api/v1/dashboard,GET,403,328,False
+192.168.1.3,2023-01-01 20:42:33,developer,Opera/73.0,/api/v1/inventory,PUT,401,553,True
+192.168.1.2,2023-01-01 20:47:05,analyst,Chrome/87.0,/api/v1/inventory,GET,200,188,True
+192.168.1.1,2023-01-01 20:50:38,developer,Safari,/api/v1/products,POST,200,928,True
+192.168.1.1,2023-01-01 20:54:55,admin,Firefox/84.0,/api/v1/payments,POST,401,616,True
+192.168.1.1,2023-01-01 21:04:13,analyst,Chrome/87.0,/api/v1/orders,GET,304,98,True
+192.168.1.1,2023-01-01 21:06:35,developer,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,401,782,True
+217.47.2.184,2023-01-01 21:07:11,analyst,Firefox/84.0,/api/v1/inventory,PUT,500,757,False
+64.69.217.67,2023-01-01 21:11:13,deve1oper,Firefox/84.0,/api/v1/dashboard,PUT,401,830,False
+192.168.1.1,2023-01-01 21:16:15,analyst,Safari,/api/v1/inventory,GET,200,582,True
+124.16.78.213,2023-01-01 21:16:28,develOper,Chrome/87.0,/api/v1/payments,GET,500,603,False
+192.168.1.1,2023-01-01 21:21:17,analyst,Chrome/87.0,/api/v1/orders,GET,200,775,True
+192.168.1.3,2023-01-01 21:26:23,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,502,298,True
+192.168.1.2,2023-01-01 21:36:08,developer,Edge/89.0,/api/v1/products,PUT,200,24,True
+144.125.22.147,2023-01-01 21:51:52,aadmin,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,200,607,False
+171.99.249.37,2023-01-01 21:52:53,aadmin,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,401,686,False
+192.168.1.3,2023-01-01 21:53:25,developer,Edge/89.0,/api/v1/orders,POST,403,382,True
+171.180.150.56,2023-01-01 21:54:22,analyst,Android/84.0,/api/v1/inventory,POST,200,552,False
+15.80.160.241,2023-01-01 21:56:11,admiin,Safari,/api/v1/orders,POST,403,733,False
+141.107.150.29,2023-01-01 21:58:33,analyst,Safari,/api/v1/payments,PUT,303,220,False
+192.168.1.1,2023-01-01 21:59:49,developer,Edge/89.0,/api/v1/orders,PUT,303,12,True
+166.157.118.177,2023-01-01 21:59:57,develOper,Safari,/api/v1/dashboard,PUT,502,176,False
+192.168.1.3,2023-01-01 22:04:59,developer,Android/84.0,/api/v1/products,POST,304,365,True
+192.168.1.1,2023-01-01 22:06:24,analyst,Chrome/87.0,/api/v1/products,GET,200,960,True
+49.167.125.70,2023-01-01 22:13:45,develOper,iPhone; CPU OS 12_4_9,/api/v1/dashboard,POST,200,651,False
+192.168.1.1,2023-01-01 22:14:10,admin,Opera/73.0,/api/v1/dashboard,DELETE,200,455,True
+64.33.222.20,2023-01-01 22:21:48,admiin,Firefox/84.0,/api/v1/configuration,GET,403,249,False
+192.168.1.2,2023-01-01 22:25:58,analyst,Opera/73.0,/api/v1/products,GET,500,164,True
+192.168.1.3,2023-01-01 22:28:54,developer,Safari,/api/v1/orders,POST,200,5,True
+192.168.1.3,2023-01-01 22:31:45,admin,Firefox/84.0,/api/v1/payments,PUT,304,108,True
+192.168.1.1,2023-01-01 22:33:14,admin,Opera/73.0,/api/v1/dashboard,GET,303,14,True
+192.168.1.1,2023-01-01 22:39:54,admin,Edge/89.0,/api/v1/configuration,POST,401,792,True
+192.168.1.1,2023-01-01 22:40:49,admin,Chrome/87.0,/api/v1/dashboard,POST,200,601,True
+192.168.1.1,2023-01-01 22:50:26,analyst,Android/84.0,/api/v1/products,GET,502,110,True
+95.128.203.66,2023-01-01 22:50:43,analyzt,Opera/73.0,/api/v1/orders,GET,500,339,False
+192.168.1.1,2023-01-01 22:53:23,analyst,Chrome/87.0,/api/v1/inventory,GET,200,432,True
+192.168.1.1,2023-01-01 22:53:24,developer,Chrome/87.0,/api/v1/orders,POST,303,686,True
+93.105.25.155,2023-01-01 22:56:12,analyst,Opera/73.0,/api/v1/dashboard,DELETE,200,264,False
+192.168.1.2,2023-01-01 22:57:14,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,200,43,True
+192.168.1.3,2023-01-01 22:58:36,admin,Firefox/84.0,/api/v1/configuration,DELETE,502,128,True
+192.168.1.1,2023-01-01 23:11:41,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,404,309,True
+192.168.1.3,2023-01-01 23:12:13,analyst,Edge/89.0,/api/v1/inventory,GET,304,207,True
+205.108.112.204,2023-01-01 23:12:45,aadmin,Opera/73.0,/api/v1/inventory,GET,304,346,False
+192.168.1.2,2023-01-01 23:13:24,admin,Chrome/87.0,/api/v1/dashboard,PUT,502,29,True
+155.240.188.168,2023-01-01 23:15:42,analyst,Firefox/84.0,/api/v1/configuration,GET,303,842,False
+192.168.1.3,2023-01-01 23:16:00,admin,Safari,/api/v1/configuration,PUT,404,512,True
+15.201.132.228,2023-01-01 23:17:24,analyst,Chrome/87.0,/api/v1/configuration,DELETE,404,15,False
+192.168.1.1,2023-01-01 23:19:12,analyst,Opera/73.0,/api/v1/products,GET,404,843,True
+192.168.1.2,2023-01-01 23:21:04,analyst,Safari,/api/v1/products,GET,404,335,True
+192.168.1.1,2023-01-01 23:24:52,developer,Android/84.0,/api/v1/orders,POST,200,396,True
+192.168.1.3,2023-01-01 23:25:27,admin,Firefox/84.0,/api/v1/payments,DELETE,401,526,True
+18.31.152.141,2023-01-01 23:25:29,deve1oper,Firefox/84.0,/api/v1/payments,GET,403,849,False
+26.227.74.216,2023-01-01 23:26:32,analyst,Android/84.0,/api/v1/configuration,POST,200,107,False
+192.168.1.3,2023-01-01 23:29:28,admin,Edge/89.0,/api/v1/payments,DELETE,200,596,True
+192.168.1.1,2023-01-01 23:33:40,analyst,Edge/89.0,/api/v1/inventory,GET,303,632,True
+217.36.141.129,2023-01-01 23:35:25,develOper,Android/84.0,/api/v1/payments,PUT,303,258,False
+135.159.67.90,2023-01-01 23:36:05,devloper,Firefox/84.0,/api/v1/configuration,GET,502,813,False
+192.168.1.3,2023-01-01 23:41:32,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,403,38,True
+192.168.1.1,2023-01-01 23:41:49,developer,Opera/73.0,/api/v1/inventory,POST,200,129,True
+212.207.153.110,2023-01-01 23:42:03,developer,Edge/89.0,/api/v1/dashboard,GET,303,629,False
+192.168.1.3,2023-01-01 23:42:42,analyst,Firefox/84.0,/api/v1/orders,GET,200,687,True
+192.168.1.2,2023-01-01 23:45:13,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,200,97,True
+136.136.198.213,2023-01-01 23:48:47,analyst,Android/84.0,/api/v1/configuration,DELETE,200,60,False
+4.96.96.176,2023-01-01 23:49:07,developer,Android/84.0,/api/v1/dashboard,DELETE,200,493,False
+147.236.210.87,2023-01-01 23:50:18,analyzt,Edge/89.0,/api/v1/products,GET,502,480,False
+192.168.1.3,2023-01-01 23:52:39,developer,Android/84.0,/api/v1/inventory,GET,404,324,True
+192.168.1.1,2023-01-01 23:55:24,developer,Firefox/84.0,/api/v1/inventory,PUT,502,469,True
+93.154.204.96,2023-01-01 23:57:48,admiin,iPhone; CPU OS 12_4_9,/api/v1/orders,DELETE,303,78,False
+192.168.1.3,2023-01-01 23:59:40,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,200,264,True
+192.168.1.3,2023-01-02 00:01:17,analyst,Safari,/api/v1/products,GET,303,375,True
+192.168.1.3,2023-01-02 00:03:30,admin,Firefox/84.0,/api/v1/configuration,POST,500,519,True
+192.168.1.1,2023-01-02 00:04:06,developer,Android/84.0,/api/v1/orders,POST,303,656,True
+115.128.85.197,2023-01-02 00:04:53,analyst,Android/84.0,/api/v1/dashboard,DELETE,403,762,False
+34.42.141.126,2023-01-02 00:11:39,analyst,Edge/89.0,/api/v1/inventory,POST,401,346,False
+192.168.1.3,2023-01-02 00:12:40,developer,Android/84.0,/api/v1/orders,GET,500,316,True
+192.168.1.1,2023-01-02 00:13:57,developer,Android/84.0,/api/v1/inventory,POST,403,339,True
+46.60.169.55,2023-01-02 00:14:44,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,502,444,False
+206.111.64.1,2023-01-02 00:21:26,devloper,iPhone; CPU OS 12_4_9,/api/v1/configuration,GET,303,409,False
+96.181.99.165,2023-01-02 00:22:36,analyst,Safari,/api/v1/orders,PUT,403,904,False
+192.168.1.2,2023-01-02 00:24:47,developer,Android/84.0,/api/v1/inventory,PUT,401,711,True
+192.168.1.1,2023-01-02 00:25:00,admin,Android/84.0,/api/v1/configuration,GET,200,641,True
+22.148.84.139,2023-01-02 00:26:33,aadmin,Edge/89.0,/api/v1/dashboard,POST,200,705,False
+192.168.1.3,2023-01-02 00:27:25,admin,Chrome/87.0,/api/v1/payments,GET,502,409,True
+192.168.1.2,2023-01-02 00:30:16,analyst,Safari,/api/v1/products,GET,200,423,True
+51.120.26.228,2023-01-02 00:30:25,analyzt,Opera/73.0,/api/v1/configuration,POST,200,2,False
+192.168.1.3,2023-01-02 00:34:10,analyst,Android/84.0,/api/v1/inventory,GET,200,933,True
+50.165.59.199,2023-01-02 00:34:19,admiin,Chrome/87.0,/api/v1/payments,PUT,200,915,False
+192.168.1.1,2023-01-02 00:35:27,developer,Android/84.0,/api/v1/orders,POST,401,469,True
+192.168.1.3,2023-01-02 00:38:14,developer,Safari,/api/v1/orders,GET,500,531,True
+192.168.1.3,2023-01-02 00:38:47,analyst,Opera/73.0,/api/v1/orders,GET,303,68,True
+192.168.1.3,2023-01-02 00:40:55,analyst,Edge/89.0,/api/v1/orders,GET,200,207,True
+207.168.9.25,2023-01-02 00:44:38,develOper,Firefox/84.0,/api/v1/payments,PUT,401,613,False
+181.214.40.141,2023-01-02 00:47:44,analyst,Firefox/84.0,/api/v1/dashboard,POST,200,565,False
+123.245.76.69,2023-01-02 00:49:00,analyzt,Firefox/84.0,/api/v1/products,PUT,200,146,False
+144.60.53.23,2023-01-02 00:50:00,analyst,Firefox/84.0,/api/v1/dashboard,DELETE,502,528,False
+192.168.1.1,2023-01-02 00:52:04,admin,Safari,/api/v1/dashboard,POST,200,106,True
+192.168.1.1,2023-01-02 00:56:49,admin,Chrome/87.0,/api/v1/configuration,POST,500,588,True
+11.7.125.222,2023-01-02 01:10:57,aadmin,Opera/73.0,/api/v1/inventory,PUT,403,76,False
+82.198.123.231,2023-01-02 01:11:24,aadmin,Safari,/api/v1/configuration,GET,304,249,False
+192.168.1.2,2023-01-02 01:11:45,admin,Safari,/api/v1/dashboard,GET,404,997,True
+202.203.181.214,2023-01-02 01:12:46,devloper,iPhone; CPU OS 12_4_9,/api/v1/products,GET,200,716,False
+45.196.249.249,2023-01-02 01:15:36,analyzt,Opera/73.0,/api/v1/inventory,PUT,200,521,False
+192.168.1.1,2023-01-02 01:29:30,developer,Opera/73.0,/api/v1/orders,PUT,200,8,True
+197.11.193.252,2023-01-02 01:32:58,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/orders,DELETE,403,185,False
+12.187.94.48,2023-01-02 01:38:29,analyzt,Opera/73.0,/api/v1/payments,GET,403,541,False
+153.195.164.85,2023-01-02 01:41:09,devloper,Safari,/api/v1/inventory,GET,401,992,False
+192.168.1.1,2023-01-02 01:52:02,developer,Edge/89.0,/api/v1/orders,PUT,200,777,True
+192.168.1.1,2023-01-02 01:53:22,analyst,Firefox/84.0,/api/v1/configuration,PUT,200,99,False
+192.168.1.1,2023-01-02 01:54:32,admin,Firefox/84.0,/api/v1/dashboard,PUT,200,521,True
+186.62.79.187,2023-01-02 01:58:37,analyst,Android/84.0,/api/v1/configuration,DELETE,401,142,False
+192.168.1.3,2023-01-02 02:03:26,analyst,Edge/89.0,/api/v1/inventory,GET,200,824,True
+56.252.227.65,2023-01-02 02:03:38,admiin,Edge/89.0,/api/v1/inventory,POST,200,336,False
+192.168.1.2,2023-01-02 02:03:42,admin,Opera/73.0,/api/v1/dashboard,DELETE,200,564,True
+192.168.1.2,2023-01-02 02:05:07,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,500,275,True
+55.152.137.82,2023-01-02 02:08:20,devloper,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,404,470,False
+192.168.1.3,2023-01-02 02:08:23,analyst,Firefox/84.0,/api/v1/inventory,GET,404,845,True
+192.168.1.3,2023-01-02 02:08:36,analyst,Firefox/84.0,/api/v1/products,GET,500,441,True
+192.168.1.1,2023-01-02 02:09:54,admin,Chrome/87.0,/api/v1/payments,DELETE,404,968,True
+192.168.1.2,2023-01-02 02:12:42,developer,Android/84.0,/api/v1/orders,GET,401,760,True
+99.226.111.245,2023-01-02 02:13:11,admiin,Edge/89.0,/api/v1/payments,POST,303,5,False
+103.10.10.189,2023-01-02 02:15:39,deve1oper,Safari,/api/v1/payments,PUT,200,732,False
+39.175.57.36,2023-01-02 02:18:09,analyst,Android/84.0,/api/v1/payments,PUT,500,599,False
+61.9.104.236,2023-01-02 02:18:14,analyzt,Firefox/84.0,/api/v1/dashboard,PUT,200,219,False
+109.43.192.15,2023-01-02 02:22:28,deve1oper,Android/84.0,/api/v1/orders,POST,200,140,False
+192.168.1.1,2023-01-02 02:23:18,admin,Safari,/api/v1/configuration,PUT,303,497,True
+99.164.117.99,2023-01-02 02:26:19,admiin,Edge/89.0,/api/v1/payments,POST,502,959,False
+59.81.129.226,2023-01-02 02:29:00,analyzt,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,500,93,False
+61.119.107.225,2023-01-02 02:29:46,analyzt,Chrome/87.0,/api/v1/dashboard,DELETE,404,508,False
+192.168.1.2,2023-01-02 02:30:30,analyst,Android/84.0,/api/v1/inventory,GET,200,264,True
+192.168.1.3,2023-01-02 02:35:36,admin,Android/84.0,/api/v1/dashboard,GET,404,263,True
+159.52.234.171,2023-01-02 02:36:08,develOper,Opera/73.0,/api/v1/configuration,GET,403,323,False
+192.168.1.2,2023-01-02 02:36:55,admin,Firefox/84.0,/api/v1/configuration,POST,404,311,True
+192.168.1.2,2023-01-02 02:37:07,admin,Opera/73.0,/api/v1/dashboard,PUT,401,954,True
+192.168.1.2,2023-01-02 02:37:27,developer,Opera/73.0,/api/v1/inventory,POST,500,671,True
+192.168.1.3,2023-01-02 02:38:16,admin,Edge/89.0,/api/v1/configuration,PUT,303,305,True
+19.187.221.168,2023-01-02 02:41:39,analyst,Firefox/84.0,/api/v1/configuration,GET,403,780,False
+192.168.1.3,2023-01-02 02:45:19,admin,Chrome/87.0,/api/v1/payments,PUT,200,43,True
+192.168.1.3,2023-01-02 02:51:37,analyst,Firefox/84.0,/api/v1/products,GET,404,380,True
+29.39.162.27,2023-01-02 03:00:46,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/configuration,GET,200,606,False
+124.128.228.27,2023-01-02 03:13:39,devloper,Chrome/87.0,/api/v1/products,POST,401,693,False
+192.168.1.1,2023-01-02 03:17:09,admin,Opera/73.0,/api/v1/payments,GET,304,850,True
+192.168.1.2,2023-01-02 03:17:53,admin,Safari,/api/v1/configuration,GET,200,558,True
+192.168.1.2,2023-01-02 03:20:22,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,PUT,304,556,True
+192.168.1.2,2023-01-02 03:21:49,analyst,Edge/89.0,/api/v1/products,GET,304,841,True
+137.151.206.98,2023-01-02 03:23:00,develOper,Edge/89.0,/api/v1/dashboard,PUT,200,572,False
+192.168.1.2,2023-01-02 03:29:32,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,200,158,True
+192.168.1.2,2023-01-02 03:29:45,devloper,Safari,/api/v1/configuration,PUT,303,897,False
+192.168.1.1,2023-01-02 03:29:53,developer,Opera/73.0,/api/v1/products,GET,401,562,True
+192.168.1.2,2023-01-02 03:31:53,developer,Android/84.0,/api/v1/inventory,POST,304,22,True
+192.168.1.1,2023-01-02 03:32:34,admin,Firefox/84.0,/api/v1/dashboard,GET,403,83,True
+192.168.1.3,2023-01-02 03:33:52,admin,Firefox/84.0,/api/v1/dashboard,PUT,304,252,True
+192.168.1.2,2023-01-02 03:38:55,developer,Firefox/84.0,/api/v1/inventory,POST,502,780,True
+134.11.187.40,2023-01-02 03:44:46,analyzt,Safari,/api/v1/orders,GET,200,911,False
+192.168.1.2,2023-01-02 03:51:55,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,401,628,True
+200.124.202.59,2023-01-02 03:55:30,developer,Safari,/api/v1/payments,POST,303,462,False
+34.182.158.78,2023-01-02 03:56:50,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,DELETE,404,32,False
+65.237.251.235,2023-01-02 03:59:03,analyzt,Edge/89.0,/api/v1/inventory,GET,500,739,False
+192.168.1.1,2023-01-02 04:01:23,developer,Firefox/84.0,/api/v1/products,PUT,200,661,True
+192.168.1.2,2023-01-02 04:03:13,analyst,Safari,/api/v1/products,GET,200,686,True
+153.74.241.29,2023-01-02 04:03:15,devloper,Firefox/84.0,/api/v1/configuration,POST,200,189,False
+192.168.1.3,2023-01-02 04:03:24,analyst,Edge/89.0,/api/v1/orders,GET,502,631,True
+78.24.16.167,2023-01-02 04:04:09,analyzt,Opera/73.0,/api/v1/products,PUT,303,824,False
+152.226.26.60,2023-01-02 04:06:05,develOper,Android/84.0,/api/v1/configuration,POST,200,287,False
+90.76.139.74,2023-01-02 04:09:33,analyzt,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,404,956,False
+192.168.1.2,2023-01-02 04:12:24,admin,Edge/89.0,/api/v1/configuration,POST,500,90,True
+192.168.1.3,2023-01-02 04:13:12,analyst,Opera/73.0,/api/v1/inventory,GET,200,981,True
+192.168.1.2,2023-01-02 04:20:47,analyst,Firefox/84.0,/api/v1/inventory,GET,200,15,True
+192.168.1.3,2023-01-02 04:21:34,admin,Edge/89.0,/api/v1/payments,GET,200,906,True
+192.168.1.2,2023-01-02 04:23:16,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,404,965,True
+7.85.214.120,2023-01-02 04:25:36,analyst,Firefox/84.0,/api/v1/configuration,GET,200,534,False
+121.49.134.119,2023-01-02 04:27:03,developer,Firefox/84.0,/api/v1/dashboard,GET,200,435,False
+192.168.1.3,2023-01-02 04:28:55,analyst,Edge/89.0,/api/v1/inventory,GET,200,783,True
+191.19.15.154,2023-01-02 04:30:51,admiin,Chrome/87.0,/api/v1/payments,PUT,403,766,False
+192.168.1.2,2023-01-02 04:31:42,developer,Opera/73.0,/api/v1/orders,POST,200,421,True
+210.92.30.154,2023-01-02 04:34:54,analyst,Android/84.0,/api/v1/products,GET,403,646,False
+97.204.21.109,2023-01-02 04:35:11,develOper,Android/84.0,/api/v1/inventory,POST,200,280,False
+118.67.182.187,2023-01-02 04:38:30,developer,Firefox/84.0,/api/v1/payments,DELETE,200,370,False
+9.48.118.127,2023-01-02 04:40:24,deve1oper,Safari,/api/v1/configuration,GET,403,874,False
+62.161.56.181,2023-01-02 04:43:28,analyzt,Opera/73.0,/api/v1/payments,POST,303,515,False
+32.111.212.186,2023-01-02 04:45:19,analyst,Safari,/api/v1/orders,POST,500,133,False
+46.158.129.255,2023-01-02 04:45:37,develOper,Safari,/api/v1/payments,POST,502,194,False
+192.168.1.3,2023-01-02 04:45:43,admin,Android/84.0,/api/v1/payments,PUT,403,314,True
+192.168.1.3,2023-01-02 04:50:01,developer,Edge/89.0,/api/v1/orders,PUT,502,261,True
+192.168.1.1,2023-01-02 04:52:02,developer,Safari,/api/v1/orders,PUT,200,788,True
+192.168.1.1,2023-01-02 04:54:07,analyst,Android/84.0,/api/v1/orders,GET,500,296,True
+192.168.1.3,2023-01-02 04:55:25,developer,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,200,610,True
+192.168.1.3,2023-01-02 04:55:50,analyst,Edge/89.0,/api/v1/orders,GET,200,928,True
+192.168.1.3,2023-01-02 04:56:03,analyst,Safari,/api/v1/orders,GET,403,36,True
+11.231.188.127,2023-01-02 04:56:04,analyst,Safari,/api/v1/dashboard,POST,200,399,False
+57.192.34.59,2023-01-02 04:56:54,aadmin,Android/84.0,/api/v1/orders,PUT,404,39,False
+192.168.1.2,2023-01-02 04:57:20,develOper,Edge/89.0,/api/v1/dashboard,GET,200,466,False
+168.139.140.119,2023-01-02 04:59:56,aadmin,Opera/73.0,/api/v1/products,PUT,304,868,False
+121.37.84.148,2023-01-02 05:03:15,devloper,Chrome/87.0,/api/v1/dashboard,GET,404,326,False
+192.168.1.2,2023-01-02 05:03:54,developer,Chrome/87.0,/api/v1/products,POST,200,485,True
+192.168.1.1,2023-01-02 05:04:21,developer,Safari,/api/v1/products,POST,401,37,True
+192.168.1.1,2023-01-02 05:08:46,developer,Edge/89.0,/api/v1/orders,POST,404,310,True
+192.168.1.2,2023-01-02 05:09:50,developer,Firefox/84.0,/api/v1/orders,PUT,303,53,True
+192.168.1.2,2023-01-02 05:12:05,developer,Chrome/87.0,/api/v1/products,PUT,401,464,True
+65.179.77.232,2023-01-02 05:17:21,aadmin,Edge/89.0,/api/v1/configuration,GET,200,477,False
+192.168.1.2,2023-01-02 05:19:42,admin,Firefox/84.0,/api/v1/payments,POST,200,771,True
+192.168.1.2,2023-01-02 05:22:07,developer,Safari,/api/v1/products,GET,404,892,True
+192.168.1.3,2023-01-02 05:25:12,analyst,Android/84.0,/api/v1/inventory,GET,200,963,True
+186.46.134.241,2023-01-02 05:30:45,analyst,Opera/73.0,/api/v1/orders,GET,303,337,False
+192.168.1.3,2023-01-02 05:34:57,admin,Chrome/87.0,/api/v1/configuration,GET,200,906,True
+192.168.1.3,2023-01-02 05:36:19,developer,Edge/89.0,/api/v1/products,GET,502,662,True
+177.37.195.189,2023-01-02 05:37:11,develOper,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,303,530,False
+192.168.1.1,2023-01-02 05:40:42,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,200,870,True
+49.19.141.28,2023-01-02 05:40:53,analyzt,Edge/89.0,/api/v1/configuration,DELETE,200,337,False
+20.201.118.253,2023-01-02 05:45:19,analyzt,Edge/89.0,/api/v1/dashboard,POST,304,541,False
+192.168.1.1,2023-01-02 05:45:50,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,404,167,True
+192.168.1.2,2023-01-02 05:48:01,developer,Firefox/84.0,/api/v1/products,GET,200,252,True
+167.5.169.228,2023-01-02 05:50:45,analyst,Android/84.0,/api/v1/configuration,PUT,200,233,False
+192.168.1.3,2023-01-02 05:51:43,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,403,793,True
+192.168.1.3,2023-01-02 05:54:23,developer,iPhone; CPU OS 12_4_9,/api/v1/products,POST,500,184,True
+111.17.18.116,2023-01-02 06:02:57,aadmin,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,200,883,False
+192.168.1.1,2023-01-02 06:05:35,admin,Firefox/84.0,/api/v1/dashboard,DELETE,404,649,True
+210.125.136.16,2023-01-02 06:11:11,develOper,Android/84.0,/api/v1/orders,GET,200,464,False
+192.168.1.2,2023-01-02 06:11:53,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,200,886,True
+79.25.141.151,2023-01-02 06:14:41,admiin,Firefox/84.0,/api/v1/payments,GET,200,891,False
+79.138.40.129,2023-01-02 06:16:57,analyzt,Firefox/84.0,/api/v1/payments,DELETE,200,604,False
+103.33.50.40,2023-01-02 06:19:00,analyst,Chrome/87.0,/api/v1/payments,GET,403,37,False
+192.168.1.1,2023-01-02 06:19:11,analyst,Chrome/87.0,/api/v1/orders,GET,500,36,True
+192.168.1.1,2023-01-02 06:26:46,admin,Android/84.0,/api/v1/dashboard,PUT,200,642,True
+192.168.1.3,2023-01-02 06:28:15,admin,Android/84.0,/api/v1/dashboard,POST,401,386,True
+192.168.1.1,2023-01-02 06:29:32,developer,Edge/89.0,/api/v1/inventory,PUT,304,1,True
+192.168.1.3,2023-01-02 06:32:13,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,200,331,True
+192.168.1.3,2023-01-02 06:32:50,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,403,92,True
+31.53.45.108,2023-01-02 06:36:06,admiin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,200,634,False
+192.168.1.3,2023-01-02 06:43:53,analyst,Safari,/api/v1/inventory,GET,200,821,True
+118.36.226.4,2023-01-02 06:47:57,admiin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,POST,200,482,False
+170.0.144.77,2023-01-02 06:48:10,analyst,Opera/73.0,/api/v1/products,GET,401,530,False
+99.41.66.4,2023-01-02 06:55:58,admiin,Edge/89.0,/api/v1/configuration,GET,200,578,False
+192.168.1.3,2023-01-02 06:58:38,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,401,288,True
+192.168.1.1,2023-01-02 07:03:54,developer,Opera/73.0,/api/v1/orders,POST,500,537,True
+192.168.1.1,2023-01-02 07:05:41,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,200,510,True
+192.168.1.3,2023-01-02 07:06:31,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,304,887,True
+67.36.26.23,2023-01-02 07:07:21,developer,Safari,/api/v1/payments,PUT,200,984,False
+209.85.32.226,2023-01-02 07:08:58,develOper,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,200,788,False
+147.139.248.77,2023-01-02 07:12:05,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,200,333,False
+192.168.1.2,2023-01-02 07:12:40,analyst,Android/84.0,/api/v1/inventory,GET,304,620,True
+28.151.123.213,2023-01-02 07:13:05,aadmin,Opera/73.0,/api/v1/orders,DELETE,403,770,False
+100.148.103.190,2023-01-02 07:17:36,analyst,Firefox/84.0,/api/v1/products,GET,200,793,False
+192.168.1.2,2023-01-02 07:17:39,admin,Chrome/87.0,/api/v1/payments,POST,401,879,True
+195.72.100.232,2023-01-02 07:19:12,devloper,iPhone; CPU OS 12_4_9,/api/v1/configuration,GET,200,213,False
+192.168.1.1,2023-01-02 07:19:39,analyst,Opera/73.0,/api/v1/products,GET,500,749,True
+192.168.1.1,2023-01-02 07:21:44,developer,Firefox/84.0,/api/v1/inventory,GET,500,198,True
+192.168.1.2,2023-01-02 07:25:19,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,200,859,True
+192.168.1.3,2023-01-02 07:25:55,developer,Firefox/84.0,/api/v1/orders,POST,403,773,True
+156.214.103.69,2023-01-02 07:27:12,develOper,Firefox/84.0,/api/v1/inventory,GET,404,595,False
+192.168.1.1,2023-01-02 07:27:30,analyst,Edge/89.0,/api/v1/inventory,GET,200,926,True
+192.168.1.2,2023-01-02 07:28:30,admin,Opera/73.0,/api/v1/payments,GET,403,450,True
+142.131.72.153,2023-01-02 07:41:28,deve1oper,Firefox/84.0,/api/v1/products,DELETE,404,67,False
+192.168.1.2,2023-01-02 07:47:23,analyst,Edge/89.0,/api/v1/inventory,GET,200,131,True
+223.104.134.166,2023-01-02 07:48:07,analyst,Firefox/84.0,/api/v1/payments,GET,502,400,False
+192.168.1.1,2023-01-02 07:49:49,developer,Safari,/api/v1/products,POST,200,39,True
+192.168.1.2,2023-01-02 07:51:34,analyst,Edge/89.0,/api/v1/inventory,GET,500,449,True
+192.168.1.2,2023-01-02 07:54:33,admin,Edge/89.0,/api/v1/payments,GET,303,838,True
+86.146.45.177,2023-01-02 07:55:31,analyst,Opera/73.0,/api/v1/dashboard,PUT,403,748,False
+192.168.1.3,2023-01-02 07:56:55,analyst,Android/84.0,/api/v1/orders,GET,500,303,True
+110.255.168.63,2023-01-02 07:58:00,developer,Chrome/87.0,/api/v1/dashboard,DELETE,200,739,False
+141.247.201.47,2023-01-02 07:58:37,analyzt,Safari,/api/v1/configuration,PUT,401,906,False
+192.168.1.3,2023-01-02 08:10:05,developer,Firefox/84.0,/api/v1/products,PUT,304,871,True
+122.160.65.203,2023-01-02 08:10:36,deve1oper,Firefox/84.0,/api/v1/inventory,DELETE,303,424,False
+41.241.52.19,2023-01-02 08:13:38,admiin,Edge/89.0,/api/v1/products,DELETE,502,30,False
+192.168.1.3,2023-01-02 08:14:35,analyst,Opera/73.0,/api/v1/orders,GET,303,627,True
+194.93.33.63,2023-01-02 08:16:59,admiin,Android/84.0,/api/v1/payments,POST,200,443,False
+115.238.7.8,2023-01-02 08:18:40,analyst,Android/84.0,/api/v1/orders,GET,200,455,False
+192.168.1.1,2023-01-02 08:20:31,developer,Opera/73.0,/api/v1/products,GET,200,350,True
+171.140.95.150,2023-01-02 08:20:52,analyst,Safari,/api/v1/configuration,GET,200,684,False
+186.236.252.242,2023-01-02 08:24:04,deve1oper,Opera/73.0,/api/v1/inventory,PUT,502,237,False
+131.203.180.226,2023-01-02 08:27:14,deve1oper,Safari,/api/v1/payments,PUT,502,50,False
+192.168.1.1,2023-01-02 08:30:20,developer,Safari,/api/v1/orders,POST,303,168,True
+110.97.14.54,2023-01-02 08:31:44,developer,Edge/89.0,/api/v1/configuration,POST,200,700,False
+26.217.59.169,2023-01-02 08:34:57,admiin,Edge/89.0,/api/v1/dashboard,POST,304,963,False
+192.168.1.1,2023-01-02 08:46:01,developer,Safari,/api/v1/products,POST,200,179,True
+128.247.1.238,2023-01-02 08:57:05,develOper,Android/84.0,/api/v1/orders,GET,403,776,False
+63.71.38.4,2023-01-02 08:59:14,devloper,Firefox/84.0,/api/v1/orders,PUT,404,396,False
+192.168.1.2,2023-01-02 09:01:05,developer,Edge/89.0,/api/v1/inventory,PUT,200,462,True
+192.168.1.3,2023-01-02 09:03:09,developer,Safari,/api/v1/products,POST,502,339,True
+192.168.1.1,2023-01-02 09:05:39,analyst,Opera/73.0,/api/v1/products,GET,200,882,True
+192.168.1.2,2023-01-02 09:08:07,developer,Opera/73.0,/api/v1/inventory,GET,304,96,True
+192.168.1.2,2023-01-02 09:09:41,admin,Chrome/87.0,/api/v1/payments,GET,200,360,True
+192.168.1.2,2023-01-02 09:18:47,developer,Chrome/87.0,/api/v1/orders,POST,502,875,True
+192.168.1.1,2023-01-02 09:20:21,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,DELETE,403,532,True
+192.61.74.10,2023-01-02 09:22:30,develOper,Edge/89.0,/api/v1/inventory,DELETE,200,560,False
+164.76.115.40,2023-01-02 09:23:30,aadmin,Edge/89.0,/api/v1/configuration,DELETE,303,797,False
+32.213.174.73,2023-01-02 09:31:42,analyst,Chrome/87.0,/api/v1/configuration,GET,401,96,False
+192.168.1.1,2023-01-02 09:33:03,analyst,Chrome/87.0,/api/v1/inventory,GET,403,540,True
+192.168.1.1,2023-01-02 09:34:01,admin,Edge/89.0,/api/v1/dashboard,DELETE,401,581,True
+192.168.1.2,2023-01-02 09:39:32,developer,Firefox/84.0,/api/v1/orders,POST,200,771,True
+192.168.1.2,2023-01-02 09:39:44,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,200,473,True
+192.168.1.1,2023-01-02 09:40:05,admin,Firefox/84.0,/api/v1/dashboard,GET,403,678,True
+192.168.1.1,2023-01-02 09:45:22,analyst,Opera/73.0,/api/v1/orders,GET,303,234,True
+192.168.1.3,2023-01-02 09:45:26,admin,Opera/73.0,/api/v1/payments,PUT,200,82,True
+67.139.114.201,2023-01-02 09:47:44,deve1oper,Safari,/api/v1/configuration,PUT,404,871,False
+162.190.99.148,2023-01-02 09:49:10,admiin,Firefox/84.0,/api/v1/inventory,DELETE,404,60,False
+192.168.1.1,2023-01-02 09:51:18,developer,Android/84.0,/api/v1/orders,POST,500,149,True
+13.20.199.253,2023-01-02 10:06:33,analyst,Firefox/84.0,/api/v1/configuration,PUT,500,380,False
+192.168.1.1,2023-01-02 10:18:28,deve1oper,Android/84.0,/api/v1/dashboard,PUT,502,701,False
+192.168.1.1,2023-01-02 10:20:44,developer,Safari,/api/v1/orders,GET,200,281,True
+192.168.1.1,2023-01-02 10:28:21,analyst,Safari,/api/v1/products,GET,200,546,True
+192.168.1.1,2023-01-02 10:29:25,developer,Edge/89.0,/api/v1/orders,PUT,200,271,True
+11.68.104.210,2023-01-02 10:30:04,analyst,Edge/89.0,/api/v1/orders,DELETE,401,518,False
+77.31.161.237,2023-01-02 10:35:11,analyst,Chrome/87.0,/api/v1/products,GET,200,786,False
+192.168.1.3,2023-01-02 10:38:32,admin,Android/84.0,/api/v1/payments,DELETE,200,773,True
+13.184.17.88,2023-01-02 10:44:07,analyst,Safari,/api/v1/products,PUT,304,922,False
+43.226.63.44,2023-01-02 10:53:15,aadmin,Android/84.0,/api/v1/orders,PUT,500,345,False
+148.162.156.217,2023-01-02 11:08:09,developer,iPhone; CPU OS 12_4_9,/api/v1/products,DELETE,304,166,False
+192.168.1.1,2023-01-02 11:08:51,analyst,Safari,/api/v1/orders,GET,303,865,True
+192.168.1.3,2023-01-02 11:11:40,analyst,Opera/73.0,/api/v1/products,DELETE,303,273,False
+165.7.211.33,2023-01-02 11:12:01,analyst,Safari,/api/v1/orders,PUT,200,802,False
+192.168.1.2,2023-01-02 11:12:20,analyst,Chrome/87.0,/api/v1/products,GET,403,684,True
+192.168.1.2,2023-01-02 11:12:37,developer,Opera/73.0,/api/v1/inventory,POST,303,159,True
+192.168.1.1,2023-01-02 11:23:41,developer,Firefox/84.0,/api/v1/orders,POST,401,948,True
+192.168.1.2,2023-01-02 11:23:45,developer,Opera/73.0,/api/v1/products,PUT,303,826,True
+192.168.1.3,2023-01-02 11:26:52,developer,iPhone; CPU OS 12_4_9,/api/v1/products,GET,401,157,True
+162.38.134.118,2023-01-02 11:28:04,devloper,Opera/73.0,/api/v1/payments,GET,403,213,False
+173.22.133.72,2023-01-02 11:34:07,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,404,407,False
+192.168.1.2,2023-01-02 11:41:37,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,500,952,True
+192.168.1.3,2023-01-02 11:41:40,analyst,Opera/73.0,/api/v1/orders,GET,502,571,True
+192.168.1.3,2023-01-02 11:42:01,analyst,Opera/73.0,/api/v1/orders,GET,401,240,True
+83.50.192.172,2023-01-02 11:42:48,analyst,Edge/89.0,/api/v1/dashboard,GET,502,324,False
+192.168.1.1,2023-01-02 11:43:59,analyst,Chrome/87.0,/api/v1/inventory,GET,404,883,True
+192.168.1.3,2023-01-02 11:48:45,developer,Edge/89.0,/api/v1/orders,GET,200,398,True
+192.168.1.1,2023-01-02 11:51:32,admin,Safari,/api/v1/payments,GET,200,661,True
+192.168.1.2,2023-01-02 11:53:12,developer,Firefox/84.0,/api/v1/products,PUT,401,557,True
+192.168.1.2,2023-01-02 11:58:31,admin,Opera/73.0,/api/v1/payments,PUT,200,554,True
+168.148.221.16,2023-01-02 11:59:49,developer,Opera/73.0,/api/v1/dashboard,DELETE,404,594,False
+210.133.215.151,2023-01-02 11:59:54,aadmin,Android/84.0,/api/v1/orders,GET,500,595,False
+192.168.1.3,2023-01-02 12:03:48,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,PUT,200,906,True
+192.168.1.3,2023-01-02 12:08:39,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,200,682,True
+103.63.242.225,2023-01-02 12:11:10,develOper,Android/84.0,/api/v1/orders,DELETE,304,749,False
+192.168.1.3,2023-01-02 12:16:43,admin,Firefox/84.0,/api/v1/configuration,DELETE,200,618,True
+206.177.140.35,2023-01-02 12:17:37,deve1oper,Edge/89.0,/api/v1/inventory,GET,403,331,False
+192.168.1.1,2023-01-02 12:17:44,developer,Opera/73.0,/api/v1/products,GET,502,944,True
+192.168.1.1,2023-01-02 12:18:27,admin,Chrome/87.0,/api/v1/payments,DELETE,502,807,True
+64.139.114.2,2023-01-02 12:20:05,aadmin,Android/84.0,/api/v1/configuration,POST,502,421,False
+192.168.1.3,2023-01-02 12:20:20,admin,Edge/89.0,/api/v1/configuration,GET,502,348,True
+192.168.1.1,2023-01-02 12:28:01,analyst,Opera/73.0,/api/v1/inventory,GET,404,584,True
+192.168.1.2,2023-01-02 12:28:25,admin,Android/84.0,/api/v1/dashboard,PUT,304,315,True
+192.168.1.1,2023-01-02 12:36:25,analyst,Safari,/api/v1/orders,GET,304,211,True
+192.207.179.10,2023-01-02 12:38:02,deve1oper,Firefox/84.0,/api/v1/dashboard,POST,200,171,False
+192.168.1.2,2023-01-02 12:40:33,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,200,546,True
+105.232.96.138,2023-01-02 12:42:40,analyst,Firefox/84.0,/api/v1/payments,DELETE,200,717,False
+102.175.32.18,2023-01-02 12:49:24,analyst,Safari,/api/v1/configuration,GET,404,797,False
+192.168.1.1,2023-01-02 13:06:02,analyst,Opera/73.0,/api/v1/inventory,GET,404,353,True
+192.168.1.3,2023-01-02 13:09:28,developer,Android/84.0,/api/v1/inventory,GET,500,707,True
+151.61.192.97,2023-01-02 13:16:47,analyzt,Android/84.0,/api/v1/products,GET,404,684,False
+24.48.24.198,2023-01-02 13:17:39,deve1oper,Chrome/87.0,/api/v1/payments,POST,401,244,False
+15.233.81.134,2023-01-02 13:18:03,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/products,DELETE,502,398,False
+14.189.124.117,2023-01-02 13:18:26,admiin,Chrome/87.0,/api/v1/payments,POST,502,578,False
+192.168.1.3,2023-01-02 13:25:33,developer,Edge/89.0,/api/v1/products,PUT,304,870,True
+192.168.1.3,2023-01-02 13:27:03,developer,Firefox/84.0,/api/v1/inventory,PUT,200,926,True
+190.224.80.129,2023-01-02 13:27:08,analyst,Firefox/84.0,/api/v1/payments,DELETE,200,460,False
+192.168.1.3,2023-01-02 13:27:35,admin,Edge/89.0,/api/v1/payments,PUT,304,249,True
+41.51.4.200,2023-01-02 13:31:07,develOper,Edge/89.0,/api/v1/orders,DELETE,200,170,False
+192.168.1.2,2023-01-02 13:35:31,admin,Firefox/84.0,/api/v1/dashboard,GET,403,423,True
+192.168.1.2,2023-01-02 13:37:17,admin,Edge/89.0,/api/v1/payments,PUT,502,985,True
+192.168.1.1,2023-01-02 13:40:10,analyst,Android/84.0,/api/v1/inventory,GET,200,296,True
+192.168.1.3,2023-01-02 13:41:48,admin,Android/84.0,/api/v1/dashboard,GET,200,807,True
+125.166.213.76,2023-01-02 13:43:50,analyst,Chrome/87.0,/api/v1/payments,PUT,200,315,False
+50.138.215.52,2023-01-02 13:44:44,analyzt,Safari,/api/v1/dashboard,PUT,200,617,False
+192.168.1.2,2023-01-02 13:46:38,analyst,Edge/89.0,/api/v1/orders,GET,200,943,True
+192.168.1.1,2023-01-02 13:46:54,developer,Safari,/api/v1/products,PUT,200,36,True
+192.168.1.1,2023-01-02 13:48:36,developer,Edge/89.0,/api/v1/products,POST,502,177,True
+192.168.1.3,2023-01-02 13:49:53,admin,Chrome/87.0,/api/v1/dashboard,POST,404,819,True
+118.159.11.203,2023-01-02 14:01:21,admiin,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,404,125,False
+192.168.1.1,2023-01-02 14:02:51,analyst,Opera/73.0,/api/v1/inventory,GET,200,662,True
+192.168.1.2,2023-01-02 14:02:52,developer,Chrome/87.0,/api/v1/orders,GET,303,146,True
+192.168.1.2,2023-01-02 14:04:02,developer,Android/84.0,/api/v1/inventory,PUT,500,319,True
+37.17.53.239,2023-01-02 14:04:39,aadmin,Firefox/84.0,/api/v1/products,GET,200,938,False
+192.168.1.3,2023-01-02 14:04:54,developer,Chrome/87.0,/api/v1/inventory,POST,200,792,True
+192.168.1.1,2023-01-02 14:06:53,developer,Opera/73.0,/api/v1/orders,GET,401,208,True
+192.168.1.1,2023-01-02 14:07:07,analyst,Android/84.0,/api/v1/inventory,GET,303,369,True
+137.127.9.167,2023-01-02 14:07:38,develOper,Android/84.0,/api/v1/payments,POST,403,257,False
+192.168.1.3,2023-01-02 14:14:31,developer,Safari,/api/v1/orders,POST,304,582,True
+1.95.251.1,2023-01-02 14:14:59,analyzt,iPhone; CPU OS 12_4_9,/api/v1/products,GET,403,795,False
+192.168.1.3,2023-01-02 14:15:52,developer,iPhone; CPU OS 12_4_9,/api/v1/products,POST,200,549,True
+192.168.1.2,2023-01-02 14:17:24,admin,Firefox/84.0,/api/v1/dashboard,PUT,502,651,True
+192.168.1.3,2023-01-02 14:18:37,developer,Chrome/87.0,/api/v1/inventory,POST,304,709,True
+110.229.80.208,2023-01-02 14:22:04,admiin,Edge/89.0,/api/v1/products,DELETE,303,924,False
+192.168.1.3,2023-01-02 14:30:41,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,200,424,True
+207.236.178.171,2023-01-02 14:31:27,devloper,Android/84.0,/api/v1/dashboard,PUT,200,535,False
+160.174.152.134,2023-01-02 14:35:49,deve1oper,Chrome/87.0,/api/v1/payments,PUT,304,593,False
+192.168.1.2,2023-01-02 14:42:45,developer,Chrome/87.0,/api/v1/inventory,PUT,200,161,True
+143.231.186.9,2023-01-02 14:43:13,devloper,Safari,/api/v1/configuration,GET,502,261,False
+192.168.1.1,2023-01-02 14:46:43,admin,Firefox/84.0,/api/v1/configuration,GET,200,859,True
+192.168.1.1,2023-01-02 14:46:54,developer,Firefox/84.0,/api/v1/products,POST,200,211,True
+57.208.96.247,2023-01-02 14:56:40,analyst,Chrome/87.0,/api/v1/payments,POST,403,354,False
+23.214.158.214,2023-01-02 14:57:15,analyzt,Safari,/api/v1/inventory,DELETE,200,815,False
+192.168.1.3,2023-01-02 15:02:15,admin,Android/84.0,/api/v1/payments,GET,303,875,True
+192.168.1.2,2023-01-02 15:04:50,analyst,Opera/73.0,/api/v1/orders,GET,403,373,True
+36.174.58.139,2023-01-02 15:11:29,developer,Edge/89.0,/api/v1/configuration,POST,500,418,False
+124.112.238.108,2023-01-02 15:20:03,developer,Edge/89.0,/api/v1/payments,PUT,403,540,False
+183.104.12.85,2023-01-02 15:24:43,aadmin,Chrome/87.0,/api/v1/configuration,POST,200,292,False
+192.168.1.1,2023-01-02 15:27:19,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,502,837,True
+192.168.1.1,2023-01-02 15:29:40,developer,Android/84.0,/api/v1/products,GET,200,194,True
+192.168.1.3,2023-01-02 15:32:10,admin,Safari,/api/v1/configuration,PUT,401,249,True
+192.168.1.3,2023-01-02 15:32:35,developer,Firefox/84.0,/api/v1/products,GET,304,676,True
+192.168.1.1,2023-01-02 15:33:10,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,GET,404,788,True
+192.168.1.3,2023-01-02 15:33:41,analyst,Edge/89.0,/api/v1/orders,GET,404,394,True
+69.120.117.220,2023-01-02 15:37:47,developer,Opera/73.0,/api/v1/inventory,GET,403,803,False
+192.168.1.2,2023-01-02 15:38:52,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,POST,401,577,True
+214.10.44.187,2023-01-02 15:39:21,deve1oper,Opera/73.0,/api/v1/inventory,POST,200,344,False
+88.201.110.95,2023-01-02 15:41:22,developer,Opera/73.0,/api/v1/payments,POST,200,355,False
+52.23.34.221,2023-01-02 15:42:13,analyst,Edge/89.0,/api/v1/orders,GET,303,431,False
+107.225.74.72,2023-01-02 15:50:14,deve1oper,Safari,/api/v1/orders,PUT,200,643,False
+194.255.57.254,2023-01-02 15:51:02,devloper,iPhone; CPU OS 12_4_9,/api/v1/configuration,PUT,401,903,False
+105.110.167.5,2023-01-02 15:52:43,developer,Chrome/87.0,/api/v1/products,PUT,200,217,False
+100.148.124.65,2023-01-02 15:53:51,aadmin,iPhone; CPU OS 12_4_9,/api/v1/configuration,DELETE,404,713,False
+192.168.1.2,2023-01-02 15:58:41,developer,Android/84.0,/api/v1/orders,GET,403,472,True
+192.168.1.3,2023-01-02 16:06:53,analyst,Opera/73.0,/api/v1/orders,GET,404,30,True
+223.172.150.92,2023-01-02 16:09:51,analyzt,Safari,/api/v1/orders,GET,401,535,False
+192.168.1.2,2023-01-02 16:10:23,analyst,Android/84.0,/api/v1/products,GET,304,588,True
+23.127.79.34,2023-01-02 16:10:37,deve1oper,Chrome/87.0,/api/v1/orders,POST,401,832,False
+192.168.1.1,2023-01-02 16:14:24,developer,Opera/73.0,/api/v1/inventory,GET,303,425,True
+192.168.1.2,2023-01-02 16:15:44,developer,Chrome/87.0,/api/v1/orders,GET,200,278,True
+192.168.1.2,2023-01-02 16:22:30,developer,Chrome/87.0,/api/v1/orders,GET,200,939,True
+49.238.118.252,2023-01-02 16:23:41,devloper,Safari,/api/v1/configuration,PUT,502,507,False
+192.168.1.1,2023-01-02 16:23:51,analyst,Android/84.0,/api/v1/orders,GET,401,381,True
+37.91.138.123,2023-01-02 16:24:01,deve1oper,Safari,/api/v1/dashboard,GET,404,945,False
+192.168.1.3,2023-01-02 16:25:20,admin,Opera/73.0,/api/v1/payments,DELETE,200,455,True
+47.16.163.212,2023-01-02 16:25:52,analyst,Opera/73.0,/api/v1/configuration,POST,200,738,False
+129.99.44.39,2023-01-02 16:28:11,develOper,Opera/73.0,/api/v1/payments,POST,200,911,False
+192.168.1.2,2023-01-02 16:30:16,analyzt,Edge/89.0,/api/v1/products,DELETE,404,6,False
+149.152.252.254,2023-01-02 16:30:52,developer,Edge/89.0,/api/v1/configuration,GET,403,250,False
+121.246.189.98,2023-01-02 16:32:39,develOper,Opera/73.0,/api/v1/configuration,GET,404,478,False
+192.168.1.2,2023-01-02 16:34:08,developer,Safari,/api/v1/orders,PUT,502,293,True
+45.86.111.89,2023-01-02 16:37:25,developer,Firefox/84.0,/api/v1/dashboard,GET,403,39,False
+192.168.1.2,2023-01-02 16:37:54,admin,Safari,/api/v1/configuration,DELETE,304,124,True
+192.168.1.1,2023-01-02 16:44:33,developer,Chrome/87.0,/api/v1/products,GET,502,520,True
+192.168.1.1,2023-01-02 16:45:50,analyst,Firefox/84.0,/api/v1/orders,GET,200,582,True
+5.186.178.118,2023-01-02 16:46:00,analyst,Firefox/84.0,/api/v1/configuration,PUT,500,293,False
+38.150.120.160,2023-01-02 16:46:04,aadmin,Chrome/87.0,/api/v1/payments,POST,403,116,False
+192.168.1.3,2023-01-02 16:48:27,analyst,Firefox/84.0,/api/v1/products,GET,304,55,True
+192.168.1.2,2023-01-02 16:48:37,developer,Android/84.0,/api/v1/inventory,PUT,500,919,True
+192.168.1.3,2023-01-02 16:49:12,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,200,836,True
+18.207.202.120,2023-01-02 16:50:04,deve1oper,Opera/73.0,/api/v1/orders,GET,502,492,False
+170.120.89.68,2023-01-02 16:52:44,aadmin,Opera/73.0,/api/v1/payments,GET,303,592,False
+152.19.110.217,2023-01-02 17:01:34,analyst,Edge/89.0,/api/v1/configuration,POST,200,346,False
+192.168.1.3,2023-01-02 17:05:38,developer,Safari,/api/v1/products,POST,200,62,True
+85.54.39.176,2023-01-02 17:06:15,devloper,Chrome/87.0,/api/v1/inventory,PUT,502,273,False
+192.168.1.2,2023-01-02 17:07:54,admin,Android/84.0,/api/v1/payments,DELETE,401,161,True
+189.204.95.171,2023-01-02 17:17:32,aadmin,Opera/73.0,/api/v1/configuration,PUT,404,25,False
+212.56.137.143,2023-01-02 17:17:52,develOper,Safari,/api/v1/inventory,GET,200,927,False
+192.168.1.1,2023-01-02 17:31:13,developer,iPhone; CPU OS 12_4_9,/api/v1/products,GET,401,750,True
+40.201.22.156,2023-01-02 17:32:42,aadmin,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,401,116,False
+15.95.88.41,2023-01-02 17:34:37,devloper,Safari,/api/v1/dashboard,GET,200,347,False
+154.156.76.111,2023-01-02 17:36:46,aadmin,Edge/89.0,/api/v1/configuration,POST,200,429,False
+192.168.1.3,2023-01-02 17:37:16,admin,Opera/73.0,/api/v1/payments,POST,200,764,True
+192.168.1.1,2023-01-02 17:38:19,admin,Android/84.0,/api/v1/dashboard,GET,500,570,True
+102.35.154.170,2023-01-02 17:39:00,develOper,Firefox/84.0,/api/v1/dashboard,GET,200,955,False
+209.117.77.32,2023-01-02 17:40:50,analyst,Chrome/87.0,/api/v1/dashboard,DELETE,200,763,False
+192.168.1.2,2023-01-02 17:47:35,analyst,Edge/89.0,/api/v1/inventory,GET,404,776,True
+192.168.1.2,2023-01-02 17:49:48,admin,Opera/73.0,/api/v1/configuration,PUT,303,11,True
+173.205.226.160,2023-01-02 17:54:00,analyst,Chrome/87.0,/api/v1/configuration,GET,401,486,False
+192.168.1.3,2023-01-02 17:54:47,analyst,Android/84.0,/api/v1/inventory,GET,200,537,True
+192.168.1.1,2023-01-02 17:55:50,developer,Android/84.0,/api/v1/inventory,POST,200,642,True
+192.168.1.2,2023-01-02 17:59:55,admin,Opera/73.0,/api/v1/payments,PUT,404,763,True
+20.35.200.208,2023-01-02 18:10:59,analyzt,Opera/73.0,/api/v1/configuration,POST,502,982,False
+163.72.77.222,2023-01-02 18:20:32,develOper,Firefox/84.0,/api/v1/payments,GET,401,913,False
+195.201.230.199,2023-01-02 18:21:18,develOper,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,200,280,False
+192.168.1.1,2023-01-02 18:22:27,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,401,753,True
+33.134.126.2,2023-01-02 18:27:15,analyzt,Firefox/84.0,/api/v1/configuration,DELETE,200,578,False
+192.168.1.3,2023-01-02 18:31:15,admin,Edge/89.0,/api/v1/dashboard,GET,303,294,True
+145.221.118.121,2023-01-02 18:31:31,developer,Safari,/api/v1/configuration,POST,200,793,False
+192.168.1.1,2023-01-02 18:31:35,developer,Opera/73.0,/api/v1/products,POST,200,67,True
+88.72.121.158,2023-01-02 18:31:52,aadmin,Firefox/84.0,/api/v1/dashboard,GET,200,534,False
+192.168.1.3,2023-01-02 18:31:58,developer,Chrome/87.0,/api/v1/inventory,GET,404,375,True
+154.31.174.76,2023-01-02 18:32:11,aadmin,Chrome/87.0,/api/v1/payments,PUT,303,166,False
+192.168.1.2,2023-01-02 18:36:30,admin,Chrome/87.0,/api/v1/payments,PUT,200,754,True
+192.168.1.1,2023-01-02 18:37:23,developer,Chrome/87.0,/api/v1/products,GET,401,218,True
+192.168.1.1,2023-01-02 18:38:45,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,303,339,True
+191.116.149.168,2023-01-02 18:39:05,developer,Opera/73.0,/api/v1/inventory,POST,500,705,False
+192.168.1.3,2023-01-02 18:41:36,developer,Safari,/api/v1/products,GET,303,205,True
+192.168.1.3,2023-01-02 18:42:21,analyst,Firefox/84.0,/api/v1/inventory,GET,200,773,True
+192.168.1.2,2023-01-02 18:44:00,developer,Firefox/84.0,/api/v1/orders,GET,304,592,True
+69.21.140.41,2023-01-02 18:44:28,deve1oper,Chrome/87.0,/api/v1/orders,DELETE,303,469,False
+215.16.154.241,2023-01-02 18:44:35,admiin,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,200,383,False
+192.168.1.3,2023-01-02 18:50:12,developer,Chrome/87.0,/api/v1/products,PUT,200,561,True
+192.168.1.3,2023-01-02 18:56:38,analyst,Safari,/api/v1/inventory,GET,200,54,True
+169.93.251.222,2023-01-02 19:11:08,devloper,Opera/73.0,/api/v1/products,DELETE,401,553,False
+192.168.1.1,2023-01-02 19:11:15,developer,Safari,/api/v1/orders,GET,303,45,True
+52.65.162.184,2023-01-02 19:11:17,develOper,Opera/73.0,/api/v1/payments,PUT,303,644,False
+192.168.1.3,2023-01-02 19:14:55,developer,Android/84.0,/api/v1/inventory,POST,502,62,True
+192.168.1.2,2023-01-02 19:20:48,admin,Android/84.0,/api/v1/configuration,POST,404,794,True
+192.168.1.2,2023-01-02 19:22:57,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,303,334,True
+192.168.1.2,2023-01-02 19:23:22,developer,Opera/73.0,/api/v1/inventory,POST,200,343,True
+40.136.118.68,2023-01-02 19:26:17,develOper,Firefox/84.0,/api/v1/configuration,DELETE,200,762,False
+23.247.57.7,2023-01-02 19:26:55,analyst,Android/84.0,/api/v1/configuration,DELETE,200,743,False
+192.168.1.2,2023-01-02 19:28:34,analyst,Edge/89.0,/api/v1/products,GET,304,880,True
+210.80.98.199,2023-01-02 19:28:48,analyst,Chrome/87.0,/api/v1/dashboard,GET,200,659,False
+192.168.1.2,2023-01-02 19:36:27,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,403,458,True
+192.168.1.1,2023-01-02 19:37:37,developer,Chrome/87.0,/api/v1/orders,GET,200,39,True
+95.192.100.179,2023-01-02 19:43:49,develOper,Opera/73.0,/api/v1/inventory,POST,403,378,False
+41.211.107.236,2023-01-02 19:49:28,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,401,410,False
+46.101.251.240,2023-01-02 19:55:22,analyst,Firefox/84.0,/api/v1/orders,POST,502,385,False
+197.178.6.4,2023-01-02 19:55:44,analyst,Firefox/84.0,/api/v1/configuration,PUT,200,337,False
+192.168.1.2,2023-01-02 19:57:49,admin,Android/84.0,/api/v1/dashboard,DELETE,304,541,True
+192.168.1.2,2023-01-02 20:05:07,admin,Android/84.0,/api/v1/payments,PUT,401,405,True
+192.168.1.1,2023-01-02 20:06:41,admin,Opera/73.0,/api/v1/dashboard,DELETE,500,586,True
+192.168.1.1,2023-01-02 20:11:01,admin,Firefox/84.0,/api/v1/payments,DELETE,200,914,True
+112.254.197.105,2023-01-02 20:14:10,admiin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,GET,200,53,False
+100.147.112.82,2023-01-02 20:15:36,admiin,Firefox/84.0,/api/v1/orders,GET,200,722,False
+180.165.244.205,2023-01-02 20:18:51,analyst,Android/84.0,/api/v1/payments,DELETE,200,458,False
+192.168.1.1,2023-01-02 20:27:09,developer,Edge/89.0,/api/v1/products,PUT,200,957,True
+2.95.58.185,2023-01-02 20:29:16,devloper,Opera/73.0,/api/v1/payments,PUT,304,301,False
+192.168.1.1,2023-01-02 20:31:47,admin,Chrome/87.0,/api/v1/configuration,DELETE,500,668,True
+100.207.146.150,2023-01-02 20:36:12,devloper,Safari,/api/v1/configuration,POST,502,217,False
+192.168.1.2,2023-01-02 20:41:13,admin,Edge/89.0,/api/v1/configuration,GET,200,142,True
+192.168.1.3,2023-01-02 20:42:37,analyst,Opera/73.0,/api/v1/inventory,GET,200,536,True
+192.168.1.1,2023-01-02 20:55:49,admin,Android/84.0,/api/v1/payments,GET,200,326,True
+192.168.1.2,2023-01-02 20:59:54,developer,Android/84.0,/api/v1/inventory,GET,401,325,True
+192.168.1.3,2023-01-02 21:03:31,admin,Firefox/84.0,/api/v1/dashboard,DELETE,304,489,True
+130.102.3.17,2023-01-02 21:03:38,admiin,Edge/89.0,/api/v1/dashboard,GET,304,1000,False
+192.168.1.2,2023-01-02 21:04:33,admin,Edge/89.0,/api/v1/configuration,GET,200,336,True
+201.94.236.61,2023-01-02 21:06:23,aadmin,Chrome/87.0,/api/v1/orders,POST,200,732,False
+192.168.1.2,2023-01-02 21:07:45,analyst,Chrome/87.0,/api/v1/products,GET,200,573,True
+192.168.1.2,2023-01-02 21:09:46,developer,Android/84.0,/api/v1/orders,GET,500,115,True
+4.131.19.237,2023-01-02 21:10:10,analyst,Edge/89.0,/api/v1/orders,GET,200,822,False
+192.168.1.3,2023-01-02 21:11:31,analyst,Android/84.0,/api/v1/products,GET,200,184,True
+84.150.13.255,2023-01-02 21:15:57,devloper,Chrome/87.0,/api/v1/payments,GET,502,204,False
+192.168.1.2,2023-01-02 21:16:05,admin,Safari,/api/v1/payments,POST,401,806,True
+192.168.1.1,2023-01-02 21:17:17,analyst,Firefox/84.0,/api/v1/orders,GET,502,287,True
+55.59.226.254,2023-01-02 21:18:12,developer,Opera/73.0,/api/v1/products,GET,502,216,False
+214.216.174.42,2023-01-02 21:19:37,analyzt,Opera/73.0,/api/v1/orders,GET,401,419,False
+63.131.47.235,2023-01-02 21:23:21,develOper,Firefox/84.0,/api/v1/inventory,POST,401,322,False
+129.57.183.135,2023-01-02 21:24:25,deve1oper,Android/84.0,/api/v1/configuration,PUT,200,429,False
+192.168.1.1,2023-01-02 21:27:33,developer,Chrome/87.0,/api/v1/products,GET,303,600,True
+192.168.1.2,2023-01-02 21:29:55,admin,Chrome/87.0,/api/v1/configuration,POST,304,878,True
+192.168.1.2,2023-01-02 21:33:34,analyst,Opera/73.0,/api/v1/products,GET,200,532,True
+170.142.15.226,2023-01-02 21:39:01,developer,Opera/73.0,/api/v1/products,PUT,502,492,False
+193.82.139.174,2023-01-02 21:39:41,develOper,Safari,/api/v1/payments,PUT,303,78,False
+192.168.1.2,2023-01-02 21:42:05,admin,Safari,/api/v1/payments,GET,304,254,True
+28.252.247.81,2023-01-02 21:44:14,admiin,Android/84.0,/api/v1/dashboard,PUT,303,554,False
+189.39.209.15,2023-01-02 21:49:15,develOper,Opera/73.0,/api/v1/payments,GET,502,960,False
+3.114.1.13,2023-01-02 21:49:44,admiin,Safari,/api/v1/dashboard,DELETE,403,341,False
+14.128.16.42,2023-01-02 21:50:31,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,200,627,False
+203.50.219.228,2023-01-02 21:54:18,develOper,Firefox/84.0,/api/v1/orders,POST,200,357,False
+192.168.1.1,2023-01-02 21:54:41,developer,Firefox/84.0,/api/v1/orders,GET,303,963,True
+192.168.1.1,2023-01-02 21:56:21,developer,Edge/89.0,/api/v1/products,POST,303,662,True
+90.30.183.134,2023-01-02 21:59:57,analyzt,Safari,/api/v1/inventory,GET,304,619,False
+192.168.1.2,2023-01-02 22:01:23,developer,Safari,/api/v1/products,PUT,502,395,True
+192.168.1.1,2023-01-02 22:02:41,analyst,Safari,/api/v1/products,GET,404,319,True
+78.100.204.246,2023-01-02 22:02:50,developer,Edge/89.0,/api/v1/payments,PUT,200,431,False
+36.126.86.64,2023-01-02 22:03:29,developer,Edge/89.0,/api/v1/configuration,GET,303,747,False
+192.168.1.3,2023-01-02 22:04:20,analyst,Firefox/84.0,/api/v1/inventory,GET,401,425,True
+192.168.1.1,2023-01-02 22:05:07,admin,Chrome/87.0,/api/v1/dashboard,DELETE,200,805,True
+44.196.246.184,2023-01-02 22:09:40,analyst,Chrome/87.0,/api/v1/payments,PUT,200,614,False
+192.168.1.2,2023-01-02 22:11:52,analyst,Firefox/84.0,/api/v1/orders,GET,200,371,True
+174.186.6.179,2023-01-02 22:12:14,analyzt,Opera/73.0,/api/v1/orders,POST,502,18,False
+192.168.1.1,2023-01-02 22:13:08,analyst,Edge/89.0,/api/v1/orders,GET,401,2,True
+192.168.1.1,2023-01-02 22:16:49,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,DELETE,200,415,True
+192.168.1.2,2023-01-02 22:17:42,developer,Firefox/84.0,/api/v1/orders,POST,303,452,True
+192.168.1.1,2023-01-02 22:22:34,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,GET,500,982,True
+123.209.22.115,2023-01-02 22:23:06,analyst,Android/84.0,/api/v1/dashboard,POST,200,425,False
+192.168.1.2,2023-01-02 22:25:56,admin,Opera/73.0,/api/v1/dashboard,POST,401,302,True
+192.168.1.1,2023-01-02 22:28:26,analyst,Firefox/84.0,/api/v1/orders,GET,200,601,True
+119.204.204.83,2023-01-02 22:28:38,deve1oper,Edge/89.0,/api/v1/dashboard,GET,401,988,False
+192.168.1.3,2023-01-02 22:28:41,developer,Chrome/87.0,/api/v1/inventory,POST,502,847,True
+135.113.249.79,2023-01-02 22:29:06,develOper,Android/84.0,/api/v1/configuration,GET,403,1000,False
+9.94.15.128,2023-01-02 22:34:56,aadmin,Opera/73.0,/api/v1/dashboard,POST,500,164,False
+57.202.199.50,2023-01-02 22:35:38,analyst,Edge/89.0,/api/v1/inventory,PUT,404,256,False
+192.168.1.2,2023-01-02 22:38:04,admin,Opera/73.0,/api/v1/dashboard,PUT,500,843,True
+192.168.1.2,2023-01-02 22:38:36,analyst,Firefox/84.0,/api/v1/inventory,GET,200,653,True
+189.116.144.62,2023-01-02 22:42:13,deve1oper,Firefox/84.0,/api/v1/orders,GET,200,370,False
+192.168.1.2,2023-01-02 22:42:33,analyst,Edge/89.0,/api/v1/orders,GET,401,90,True
+192.168.1.1,2023-01-02 22:44:37,admin,Safari,/api/v1/configuration,POST,500,486,True
+192.168.1.2,2023-01-02 22:49:07,developer,Safari,/api/v1/orders,PUT,401,554,True
+192.168.1.2,2023-01-02 22:50:24,analyst,Edge/89.0,/api/v1/orders,GET,200,879,True
+192.168.1.3,2023-01-02 22:55:00,analyst,Chrome/87.0,/api/v1/inventory,GET,200,555,True
+8.92.49.154,2023-01-02 22:55:10,developer,Opera/73.0,/api/v1/dashboard,POST,303,864,False
+192.168.1.1,2023-01-02 22:57:40,developer,Chrome/87.0,/api/v1/inventory,GET,401,438,True
+192.168.1.3,2023-01-02 23:06:41,admin,Edge/89.0,/api/v1/configuration,DELETE,200,694,True
+19.218.196.179,2023-01-02 23:07:00,analyst,Android/84.0,/api/v1/orders,PUT,304,234,False
+99.69.61.84,2023-01-02 23:11:36,aadmin,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,500,795,False
+192.168.1.1,2023-01-02 23:12:23,admin,Edge/89.0,/api/v1/payments,DELETE,200,710,True
+192.168.1.2,2023-01-02 23:12:28,developer,Opera/73.0,/api/v1/inventory,GET,200,83,True
+139.255.165.181,2023-01-02 23:15:31,developer,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,200,180,False
+22.203.84.211,2023-01-02 23:17:09,admiin,Firefox/84.0,/api/v1/configuration,POST,500,140,False
+192.168.1.3,2023-01-02 23:20:09,admin,Safari,/api/v1/payments,DELETE,401,593,True
+192.168.1.1,2023-01-02 23:31:26,admin,Safari,/api/v1/dashboard,PUT,500,470,True
+58.184.245.252,2023-01-02 23:33:38,developer,Edge/89.0,/api/v1/configuration,PUT,500,27,False
+38.181.6.166,2023-01-02 23:35:34,devloper,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,304,936,False
+192.168.1.2,2023-01-02 23:36:19,analyst,Safari,/api/v1/products,GET,200,248,True
+192.168.1.1,2023-01-02 23:39:34,admin,Android/84.0,/api/v1/configuration,GET,200,706,True
+192.168.1.3,2023-01-02 23:39:50,analyst,Edge/89.0,/api/v1/inventory,GET,200,392,True
+192.168.1.1,2023-01-02 23:44:36,developer,Edge/89.0,/api/v1/products,POST,304,742,True
+192.168.1.3,2023-01-02 23:45:00,analyst,Edge/89.0,/api/v1/products,GET,500,707,True
+60.117.164.250,2023-01-02 23:48:34,devloper,Firefox/84.0,/api/v1/orders,POST,303,415,False
+192.168.1.3,2023-01-02 23:49:09,admin,Firefox/84.0,/api/v1/payments,PUT,304,350,True
+49.181.174.1,2023-01-02 23:49:24,developer,Safari,/api/v1/configuration,DELETE,404,201,False
+135.78.101.215,2023-01-02 23:54:09,develOper,Android/84.0,/api/v1/payments,POST,403,844,False
+32.103.5.118,2023-01-02 23:54:17,analyst,Android/84.0,/api/v1/products,POST,500,469,False
+192.168.1.3,2023-01-02 23:54:23,analyst,Chrome/87.0,/api/v1/products,GET,303,873,True
+130.163.245.224,2023-01-03 00:00:34,developer,Safari,/api/v1/products,PUT,502,34,False
+49.187.143.25,2023-01-03 00:04:39,aadmin,Chrome/87.0,/api/v1/orders,PUT,303,84,False
+222.172.178.160,2023-01-03 00:13:44,analyzt,Safari,/api/v1/configuration,DELETE,500,112,False
+192.168.1.1,2023-01-03 00:29:09,admin,Opera/73.0,/api/v1/dashboard,PUT,200,503,True
+61.235.119.164,2023-01-03 00:32:02,analyzt,Chrome/87.0,/api/v1/payments,POST,303,208,False
+192.168.1.2,2023-01-03 00:36:04,admin,Opera/73.0,/api/v1/dashboard,PUT,200,892,True
+192.168.1.1,2023-01-03 00:39:05,developer,Safari,/api/v1/inventory,POST,401,536,True
+192.168.1.1,2023-01-03 00:45:08,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,403,296,True
+192.168.1.2,2023-01-03 00:47:48,developer,Chrome/87.0,/api/v1/inventory,GET,200,262,True
+192.168.1.3,2023-01-03 00:48:17,analyst,Android/84.0,/api/v1/inventory,GET,303,760,True
+192.168.1.2,2023-01-03 00:51:41,admin,Safari,/api/v1/configuration,POST,200,210,True
+192.168.1.2,2023-01-03 00:55:19,admin,Opera/73.0,/api/v1/payments,POST,500,972,True
+192.168.1.3,2023-01-03 00:57:04,admin,Opera/73.0,/api/v1/payments,PUT,200,992,True
+209.225.210.56,2023-01-03 01:02:21,analyst,iPhone; CPU OS 12_4_9,/api/v1/dashboard,GET,200,389,False
+62.41.67.196,2023-01-03 01:03:09,aadmin,Android/84.0,/api/v1/dashboard,GET,403,714,False
+192.168.1.1,2023-01-03 01:09:02,analyst,Opera/73.0,/api/v1/products,GET,404,933,True
+151.14.68.164,2023-01-03 01:09:08,analyst,Android/84.0,/api/v1/dashboard,PUT,200,383,False
+37.33.126.183,2023-01-03 01:15:35,develOper,Chrome/87.0,/api/v1/dashboard,POST,200,325,False
+192.168.1.1,2023-01-03 01:16:03,developer,Edge/89.0,/api/v1/products,POST,303,411,True
+18.238.35.180,2023-01-03 01:21:12,deve1oper,Firefox/84.0,/api/v1/payments,DELETE,200,247,False
+45.201.6.155,2023-01-03 01:22:08,analyzt,Safari,/api/v1/dashboard,POST,200,777,False
+192.168.1.3,2023-01-03 01:26:59,developer,Chrome/87.0,/api/v1/products,GET,200,592,True
+189.103.120.74,2023-01-03 01:28:47,deve1oper,Edge/89.0,/api/v1/dashboard,POST,200,956,False
+197.48.79.122,2023-01-03 01:37:52,deve1oper,Safari,/api/v1/configuration,PUT,200,789,False
+192.168.1.1,2023-01-03 01:39:52,analyst,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,502,876,True
+192.168.1.2,2023-01-03 01:40:06,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,200,300,True
+192.168.1.3,2023-01-03 01:48:09,analyst,Edge/89.0,/api/v1/orders,GET,304,85,True
+192.168.1.1,2023-01-03 01:51:18,developer,Edge/89.0,/api/v1/products,GET,404,772,True
+110.84.254.219,2023-01-03 01:53:16,analyzt,iPhone; CPU OS 12_4_9,/api/v1/payments,DELETE,304,876,False
+192.168.1.2,2023-01-03 01:59:29,developer,Edge/89.0,/api/v1/inventory,PUT,303,105,True
+143.176.248.44,2023-01-03 02:00:16,developer,iPhone; CPU OS 12_4_9,/api/v1/payments,GET,200,753,False
+192.168.1.3,2023-01-03 02:01:16,admin,Edge/89.0,/api/v1/configuration,GET,303,174,True
+37.183.58.141,2023-01-03 02:02:15,devloper,Android/84.0,/api/v1/dashboard,GET,500,4,False
+192.168.1.2,2023-01-03 02:03:48,admin,Opera/73.0,/api/v1/payments,DELETE,403,724,True
+147.67.222.134,2023-01-03 02:05:00,admiin,Edge/89.0,/api/v1/payments,GET,200,418,False
+192.168.1.1,2023-01-03 02:09:10,developer,iPhone; CPU OS 12_4_9,/api/v1/products,GET,403,409,True
+192.168.1.1,2023-01-03 02:10:43,analyst,Edge/89.0,/api/v1/orders,GET,500,741,True
+157.65.98.196,2023-01-03 02:11:14,analyst,Android/84.0,/api/v1/dashboard,PUT,200,944,False
+192.168.1.1,2023-01-03 02:11:35,analyst,Safari,/api/v1/orders,GET,502,824,True
+110.229.43.103,2023-01-03 02:15:03,admiin,Android/84.0,/api/v1/dashboard,GET,200,855,False
+142.107.111.173,2023-01-03 02:24:36,analyst,Android/84.0,/api/v1/inventory,GET,404,56,False
+155.137.168.236,2023-01-03 02:28:40,admiin,Opera/73.0,/api/v1/inventory,POST,500,659,False
+192.168.1.1,2023-01-03 02:28:49,admin,Opera/73.0,/api/v1/dashboard,DELETE,200,198,True
+192.168.1.2,2023-01-03 02:39:58,analyst,Firefox/84.0,/api/v1/products,GET,304,470,True
+192.168.1.1,2023-01-03 02:40:30,analyst,Edge/89.0,/api/v1/inventory,GET,403,371,True
+192.168.1.3,2023-01-03 02:41:02,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,GET,304,552,True
+192.168.1.1,2023-01-03 02:42:59,developer,Edge/89.0,/api/v1/inventory,POST,200,159,True
+192.168.1.3,2023-01-03 02:46:26,developer,Opera/73.0,/api/v1/products,GET,200,338,True
+192.168.1.2,2023-01-03 02:49:49,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,200,96,True
+217.232.103.172,2023-01-03 02:54:52,analyst,Firefox/84.0,/api/v1/dashboard,PUT,200,628,False
+192.168.1.2,2023-01-03 03:00:45,analyst,Firefox/84.0,/api/v1/products,GET,200,62,True
+192.168.1.2,2023-01-03 03:01:47,developer,iPhone; CPU OS 12_4_9,/api/v1/products,POST,200,32,True
+192.168.1.2,2023-01-03 03:05:06,developer,Android/84.0,/api/v1/orders,PUT,304,57,True
+48.209.145.145,2023-01-03 03:11:22,devloper,Chrome/87.0,/api/v1/payments,POST,404,394,False
+192.168.1.2,2023-01-03 03:12:31,developer,Safari,/api/v1/products,PUT,401,956,True
+192.168.1.1,2023-01-03 03:13:34,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,502,28,True
+192.168.1.2,2023-01-03 03:13:35,analyst,Safari,/api/v1/orders,GET,401,501,True
+192.168.1.2,2023-01-03 03:14:02,admin,Opera/73.0,/api/v1/configuration,DELETE,304,264,True
+192.168.1.1,2023-01-03 03:17:52,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,401,119,True
+61.100.133.36,2023-01-03 03:19:39,analyst,Firefox/84.0,/api/v1/configuration,GET,304,181,False
+202.225.127.137,2023-01-03 03:26:02,devloper,Firefox/84.0,/api/v1/dashboard,PUT,200,894,False
+90.248.232.193,2023-01-03 03:32:29,aadmin,Chrome/87.0,/api/v1/dashboard,PUT,303,943,False
+192.168.1.3,2023-01-03 03:36:18,developer,Edge/89.0,/api/v1/products,PUT,200,576,True
+192.168.1.1,2023-01-03 03:36:48,analyst,Chrome/87.0,/api/v1/orders,GET,200,450,True
+50.70.122.230,2023-01-03 03:39:06,devloper,Firefox/84.0,/api/v1/payments,PUT,304,975,False
+175.172.113.70,2023-01-03 03:40:44,admiin,Android/84.0,/api/v1/dashboard,GET,502,551,False
+62.161.240.207,2023-01-03 03:41:37,developer,Firefox/84.0,/api/v1/inventory,DELETE,404,348,False
+126.45.73.83,2023-01-03 03:43:03,deve1oper,Firefox/84.0,/api/v1/orders,GET,304,238,False
+192.168.1.3,2023-01-03 03:43:47,developer,Android/84.0,/api/v1/inventory,POST,404,981,True
+112.166.71.219,2023-01-03 03:45:41,aadmin,Chrome/87.0,/api/v1/configuration,GET,200,687,False
+57.97.200.240,2023-01-03 03:46:08,aadmin,Safari,/api/v1/dashboard,PUT,502,714,False
+104.112.150.156,2023-01-03 03:46:32,analyst,Android/84.0,/api/v1/configuration,POST,500,148,False
+146.35.238.162,2023-01-03 03:48:17,admiin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,PUT,401,869,False
+192.168.1.1,2023-01-03 03:50:08,developer,Safari,/api/v1/orders,GET,404,492,True
+192.168.1.1,2023-01-03 03:51:49,admin,Safari,/api/v1/configuration,DELETE,200,497,True
+20.28.8.156,2023-01-03 03:56:10,aadmin,Firefox/84.0,/api/v1/products,PUT,500,659,False
+82.13.32.89,2023-01-03 03:58:38,deve1oper,Edge/89.0,/api/v1/products,GET,401,251,False
+192.168.1.3,2023-01-03 03:59:43,analyst,Chrome/87.0,/api/v1/inventory,GET,403,432,True
+192.168.1.2,2023-01-03 04:00:51,analyst,Opera/73.0,/api/v1/orders,GET,200,7,True
+192.168.1.1,2023-01-03 04:02:37,admin,Android/84.0,/api/v1/dashboard,PUT,200,644,True
+192.168.1.3,2023-01-03 04:12:10,analyst,Firefox/84.0,/api/v1/inventory,GET,500,68,True
+192.168.1.2,2023-01-03 04:20:58,analyst,Edge/89.0,/api/v1/orders,GET,200,235,True
+192.168.1.2,2023-01-03 04:29:42,admin,Safari,/api/v1/dashboard,POST,404,429,True
+110.60.26.47,2023-01-03 04:44:05,analyzt,Opera/73.0,/api/v1/products,PUT,200,828,False
+192.168.1.3,2023-01-03 04:44:09,developer,Edge/89.0,/api/v1/inventory,POST,404,40,True
+192.168.1.3,2023-01-03 04:46:54,analyst,Edge/89.0,/api/v1/inventory,GET,200,701,True
+158.241.90.122,2023-01-03 04:48:28,analyst,Firefox/84.0,/api/v1/configuration,POST,200,255,False
+192.168.1.1,2023-01-03 04:49:34,analyst,Edge/89.0,/api/v1/inventory,GET,200,297,True
+192.168.1.3,2023-01-03 04:50:54,admin,Edge/89.0,/api/v1/configuration,POST,200,828,True
+23.111.42.49,2023-01-03 04:51:26,develOper,Android/84.0,/api/v1/configuration,DELETE,303,300,False
+192.168.1.3,2023-01-03 04:51:59,developer,Safari,/api/v1/products,PUT,200,882,True
+192.168.1.1,2023-01-03 04:52:44,analyst,Edge/89.0,/api/v1/products,GET,304,680,True
+172.166.233.21,2023-01-03 04:52:56,analyst,Chrome/87.0,/api/v1/products,GET,404,994,False
+192.168.1.2,2023-01-03 04:53:16,analyst,Firefox/84.0,/api/v1/inventory,GET,502,132,True
+123.142.209.59,2023-01-03 04:54:55,analyst,Firefox/84.0,/api/v1/payments,POST,304,377,False
+192.168.1.2,2023-01-03 05:02:58,analyst,Opera/73.0,/api/v1/products,GET,200,830,True
+173.98.24.181,2023-01-03 05:04:35,analyzt,Chrome/87.0,/api/v1/dashboard,GET,200,345,False
+192.168.1.3,2023-01-03 05:12:37,admin,Opera/73.0,/api/v1/payments,PUT,303,994,True
+50.76.219.190,2023-01-03 05:16:14,analyst,Safari,/api/v1/payments,POST,200,63,False
+192.168.1.3,2023-01-03 05:16:53,analyst,Opera/73.0,/api/v1/orders,GET,200,487,True
+145.41.244.102,2023-01-03 05:24:02,developer,Firefox/84.0,/api/v1/configuration,GET,200,252,False
+192.168.1.3,2023-01-03 05:24:24,admin,Safari,/api/v1/dashboard,GET,200,864,True
+192.168.1.2,2023-01-03 05:25:06,analyst,Edge/89.0,/api/v1/products,GET,403,616,True
+77.126.91.48,2023-01-03 05:28:15,aadmin,Android/84.0,/api/v1/dashboard,POST,401,729,False
+38.125.226.5,2023-01-03 05:34:57,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,200,74,False
+193.9.79.145,2023-01-03 05:35:21,analyzt,Firefox/84.0,/api/v1/configuration,GET,404,879,False
+77.22.198.133,2023-01-03 05:37:10,analyzt,Chrome/87.0,/api/v1/orders,GET,200,728,False
+192.168.1.2,2023-01-03 05:38:14,developer,Android/84.0,/api/v1/inventory,GET,403,152,True
+192.168.1.3,2023-01-03 05:39:19,analyst,Firefox/84.0,/api/v1/orders,GET,401,599,True
+192.168.1.3,2023-01-03 05:40:12,admin,Opera/73.0,/api/v1/dashboard,DELETE,403,167,True
+192.168.1.2,2023-01-03 05:41:11,analyst,Firefox/84.0,/api/v1/orders,GET,403,786,True
+192.168.1.1,2023-01-03 05:45:14,analyst,Firefox/84.0,/api/v1/products,GET,200,787,True
+192.168.1.1,2023-01-03 05:46:14,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,POST,200,806,True
+30.6.109.3,2023-01-03 05:48:03,devloper,Edge/89.0,/api/v1/inventory,PUT,200,346,False
+192.168.1.1,2023-01-03 05:48:27,admin,Android/84.0,/api/v1/payments,PUT,304,50,True
+59.178.11.71,2023-01-03 05:49:15,deve1oper,Android/84.0,/api/v1/dashboard,POST,200,227,False
+192.168.1.1,2023-01-03 05:49:36,analyst,Firefox/84.0,/api/v1/inventory,GET,200,605,True
+192.168.1.2,2023-01-03 06:00:33,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,PUT,303,500,True
+71.200.193.141,2023-01-03 06:01:32,aadmin,Opera/73.0,/api/v1/configuration,POST,304,242,False
+222.85.74.190,2023-01-03 06:02:55,aadmin,Safari,/api/v1/configuration,GET,401,789,False
+192.168.1.3,2023-01-03 06:03:22,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,401,996,True
+192.168.1.3,2023-01-03 06:08:22,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,200,237,True
+192.168.1.2,2023-01-03 06:12:59,analyst,Safari,/api/v1/products,GET,200,769,True
+192.168.1.1,2023-01-03 06:12:59,developer,Android/84.0,/api/v1/inventory,PUT,200,677,True
+134.101.183.33,2023-01-03 06:13:17,analyst,Opera/73.0,/api/v1/configuration,GET,404,410,False
+112.193.218.11,2023-01-03 06:14:39,analyzt,Safari,/api/v1/products,PUT,403,575,False
+192.168.1.3,2023-01-03 06:17:34,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,GET,404,210,True
+153.199.195.76,2023-01-03 06:29:28,analyzt,Opera/73.0,/api/v1/products,GET,403,464,False
+13.88.238.125,2023-01-03 06:41:31,analyst,Chrome/87.0,/api/v1/configuration,POST,200,630,False
+192.168.1.1,2023-01-03 06:42:58,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,200,665,True
+192.168.1.3,2023-01-03 06:46:03,analyst,Safari,/api/v1/inventory,GET,404,155,True
+192.168.1.1,2023-01-03 06:47:07,admin,Edge/89.0,/api/v1/payments,POST,404,507,True
+192.168.1.2,2023-01-03 06:55:46,developer,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,502,210,True
+192.168.1.2,2023-01-03 06:56:40,admin,Safari,/api/v1/configuration,GET,403,625,True
+192.168.1.1,2023-01-03 07:02:23,admin,Opera/73.0,/api/v1/dashboard,POST,401,175,True
+192.168.1.2,2023-01-03 07:08:17,developer,Safari,/api/v1/orders,GET,502,625,True
+192.168.1.2,2023-01-03 07:08:17,admin,Safari,/api/v1/dashboard,DELETE,404,195,True
+213.13.134.80,2023-01-03 07:09:31,deve1oper,Edge/89.0,/api/v1/configuration,POST,200,340,False
+192.168.1.3,2023-01-03 07:15:57,analyst,Firefox/84.0,/api/v1/inventory,GET,200,823,True
+192.168.1.3,2023-01-03 07:15:59,developer,Safari,/api/v1/products,GET,200,16,True
+163.130.54.47,2023-01-03 07:16:03,develOper,Safari,/api/v1/payments,GET,200,416,False
+192.168.1.3,2023-01-03 07:21:24,admin,Opera/73.0,/api/v1/dashboard,GET,404,103,True
+192.168.1.2,2023-01-03 07:23:24,analyst,Android/84.0,/api/v1/orders,GET,200,644,True
+192.168.1.1,2023-01-03 07:26:18,analyst,Firefox/84.0,/api/v1/products,GET,303,625,True
+166.163.249.121,2023-01-03 07:26:24,admiin,Chrome/87.0,/api/v1/products,GET,403,440,False
+192.168.1.2,2023-01-03 07:26:27,developer,Android/84.0,/api/v1/inventory,GET,303,216,True
+192.168.1.3,2023-01-03 07:27:41,developer,Android/84.0,/api/v1/inventory,GET,500,610,True
+222.168.82.128,2023-01-03 07:28:51,deve1oper,Safari,/api/v1/payments,PUT,401,666,False
+3.51.176.150,2023-01-03 07:37:59,devloper,Opera/73.0,/api/v1/payments,GET,200,578,False
+197.187.166.134,2023-01-03 07:41:09,develOper,Opera/73.0,/api/v1/configuration,PUT,403,555,False
+192.168.1.1,2023-01-03 07:41:47,analyst,Chrome/87.0,/api/v1/inventory,GET,403,100,True
+192.168.1.3,2023-01-03 07:42:24,admin,Android/84.0,/api/v1/configuration,GET,200,407,True
+192.168.1.1,2023-01-03 07:44:00,admin,Safari,/api/v1/payments,GET,500,450,True
+132.253.56.144,2023-01-03 07:44:01,devloper,iPhone; CPU OS 12_4_9,/api/v1/inventory,DELETE,502,294,False
+192.168.1.3,2023-01-03 07:51:10,developer,Safari,/api/v1/products,PUT,200,889,True
+192.168.1.3,2023-01-03 07:51:44,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,502,92,True
+192.168.1.3,2023-01-03 07:55:44,admin,Opera/73.0,/api/v1/payments,GET,401,86,True
+192.168.1.1,2023-01-03 07:57:32,developer,Chrome/87.0,/api/v1/products,PUT,404,614,True
+179.54.211.133,2023-01-03 08:01:22,developer,Edge/89.0,/api/v1/payments,POST,401,879,False
+30.35.46.206,2023-01-03 08:08:25,analyzt,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,200,74,False
+192.168.1.1,2023-01-03 08:09:31,developer,Android/84.0,/api/v1/products,PUT,403,445,True
+192.168.1.2,2023-01-03 08:16:25,analyst,Chrome/87.0,/api/v1/orders,GET,500,817,True
+192.168.1.3,2023-01-03 08:17:29,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,200,955,True
+60.41.166.112,2023-01-03 08:25:33,develOper,Firefox/84.0,/api/v1/orders,POST,401,695,False
+100.185.35.52,2023-01-03 08:26:39,deve1oper,Safari,/api/v1/inventory,PUT,502,270,False
+46.43.92.207,2023-01-03 08:31:28,analyst,Opera/73.0,/api/v1/inventory,GET,404,587,False
+82.43.229.182,2023-01-03 08:32:04,develOper,Opera/73.0,/api/v1/inventory,POST,401,991,False
+222.123.21.6,2023-01-03 08:33:35,admiin,Firefox/84.0,/api/v1/configuration,POST,502,542,False
+93.127.94.168,2023-01-03 08:33:48,aadmin,Firefox/84.0,/api/v1/payments,PUT,500,233,False
+160.33.217.1,2023-01-03 08:34:50,deve1oper,Chrome/87.0,/api/v1/products,DELETE,200,970,False
+78.49.179.193,2023-01-03 08:38:04,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/products,GET,403,383,False
+152.38.23.109,2023-01-03 08:39:51,deve1oper,Opera/73.0,/api/v1/dashboard,DELETE,401,417,False
+158.18.128.17,2023-01-03 08:42:45,analyst,Edge/89.0,/api/v1/inventory,POST,200,70,False
+71.161.150.84,2023-01-03 08:47:39,analyst,Chrome/87.0,/api/v1/configuration,DELETE,303,696,False
+120.9.126.229,2023-01-03 08:53:01,develOper,Opera/73.0,/api/v1/products,POST,401,326,False
+192.168.1.3,2023-01-03 08:55:16,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,PUT,200,75,True
+199.50.48.93,2023-01-03 08:57:35,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,304,49,False
+192.168.1.2,2023-01-03 09:00:11,admin,Edge/89.0,/api/v1/configuration,GET,303,3,True
+217.242.10.159,2023-01-03 09:00:33,develOper,Firefox/84.0,/api/v1/orders,GET,200,304,False
+198.192.147.152,2023-01-03 09:06:23,developer,Safari,/api/v1/payments,POST,401,233,False
+192.168.1.2,2023-01-03 09:07:34,admin,Opera/73.0,/api/v1/payments,POST,200,788,True
+192.168.1.1,2023-01-03 09:07:59,developer,Firefox/84.0,/api/v1/products,POST,401,816,True
+192.168.1.2,2023-01-03 09:10:47,analyst,Opera/73.0,/api/v1/inventory,GET,500,288,True
+135.10.127.180,2023-01-03 09:16:19,aadmin,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,401,968,False
+43.225.42.96,2023-01-03 09:16:31,deve1oper,Chrome/87.0,/api/v1/inventory,GET,200,451,False
+192.168.1.3,2023-01-03 09:16:38,analyst,Edge/89.0,/api/v1/orders,GET,403,524,True
+192.168.1.1,2023-01-03 09:17:09,admin,Firefox/84.0,/api/v1/dashboard,POST,200,516,True
+192.168.1.1,2023-01-03 09:17:19,developer,Opera/73.0,/api/v1/products,POST,200,922,True
+192.168.1.3,2023-01-03 09:17:41,developer,Opera/73.0,/api/v1/inventory,GET,502,219,True
+192.168.1.3,2023-01-03 09:20:38,analyst,Opera/73.0,/api/v1/products,GET,303,291,True
+174.90.211.185,2023-01-03 09:35:29,deve1oper,Android/84.0,/api/v1/configuration,POST,401,511,False
+10.47.137.237,2023-01-03 09:36:39,admiin,iPhone; CPU OS 12_4_9,/api/v1/payments,DELETE,303,434,False
+192.168.1.2,2023-01-03 09:38:15,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,POST,200,415,True
+79.172.102.88,2023-01-03 09:41:43,develOper,iPhone; CPU OS 12_4_9,/api/v1/products,GET,403,867,False
+192.168.1.3,2023-01-03 09:42:28,analyst,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,401,503,True
+192.168.1.2,2023-01-03 09:42:59,analyst,Edge/89.0,/api/v1/inventory,GET,200,617,True
+192.168.1.3,2023-01-03 09:47:19,admin,Chrome/87.0,/api/v1/dashboard,DELETE,401,491,True
+192.168.1.2,2023-01-03 10:02:38,analyst,Android/84.0,/api/v1/orders,GET,303,586,True
+192.168.1.3,2023-01-03 10:05:43,developer,Android/84.0,/api/v1/inventory,PUT,200,584,True
+209.83.139.65,2023-01-03 10:10:04,devloper,Opera/73.0,/api/v1/dashboard,PUT,304,104,False
+192.168.1.3,2023-01-03 10:10:09,developer,Safari,/api/v1/orders,PUT,403,92,True
+192.168.1.1,2023-01-03 10:11:06,developer,Edge/89.0,/api/v1/orders,POST,200,680,True
+202.91.83.145,2023-01-03 10:14:33,developer,Chrome/87.0,/api/v1/inventory,GET,200,171,False
+192.168.1.1,2023-01-03 10:17:00,analyst,Firefox/84.0,/api/v1/products,GET,304,592,True
+192.168.1.2,2023-01-03 10:18:54,analyst,Safari,/api/v1/inventory,GET,500,729,True
+178.180.16.201,2023-01-03 10:19:36,analyst,Android/84.0,/api/v1/products,PUT,200,645,False
+192.168.1.1,2023-01-03 10:23:53,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,200,898,True
+192.168.1.3,2023-01-03 10:27:40,admin,Opera/73.0,/api/v1/payments,GET,200,127,True
+192.168.1.3,2023-01-03 10:29:28,developer,Opera/73.0,/api/v1/orders,POST,200,534,True
+192.168.1.3,2023-01-03 10:31:07,admin,Android/84.0,/api/v1/payments,DELETE,500,696,True
+192.168.1.1,2023-01-03 10:31:13,analyst,Edge/89.0,/api/v1/orders,GET,200,121,True
+192.168.1.2,2023-01-03 10:32:37,admin,Android/84.0,/api/v1/dashboard,DELETE,403,794,True
+97.211.183.3,2023-01-03 10:34:39,aadmin,Opera/73.0,/api/v1/products,DELETE,200,592,False
+213.152.99.188,2023-01-03 10:36:44,develOper,Android/84.0,/api/v1/configuration,PUT,401,830,False
+192.168.1.3,2023-01-03 10:37:23,developer,Chrome/87.0,/api/v1/orders,POST,502,768,True
+28.90.111.178,2023-01-03 10:38:11,devloper,Safari,/api/v1/configuration,POST,200,308,False
+9.126.143.195,2023-01-03 10:50:44,admiin,Safari,/api/v1/configuration,POST,502,74,False
+47.63.43.184,2023-01-03 10:51:17,analyzt,Opera/73.0,/api/v1/payments,GET,303,466,False
+61.123.159.88,2023-01-03 10:57:55,develOper,Chrome/87.0,/api/v1/inventory,GET,200,254,False
+176.4.10.242,2023-01-03 11:03:05,analyst,Opera/73.0,/api/v1/inventory,PUT,401,648,False
+192.168.1.3,2023-01-03 11:10:14,analyst,Edge/89.0,/api/v1/inventory,GET,200,549,True
+192.168.1.1,2023-01-03 11:12:43,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,403,280,True
+192.168.1.1,2023-01-03 11:12:47,admin,Android/84.0,/api/v1/payments,DELETE,200,21,True
+192.168.1.1,2023-01-03 11:14:40,developer,Firefox/84.0,/api/v1/orders,POST,403,605,True
+58.189.135.112,2023-01-03 11:18:47,deve1oper,Android/84.0,/api/v1/products,GET,401,147,False
+96.48.130.252,2023-01-03 11:20:24,analyst,Safari,/api/v1/dashboard,POST,403,364,False
+192.168.1.3,2023-01-03 11:21:37,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,DELETE,404,315,True
+192.168.1.2,2023-01-03 11:23:49,admin,Firefox/84.0,/api/v1/configuration,PUT,404,230,True
+137.229.68.249,2023-01-03 11:26:29,analyst,Firefox/84.0,/api/v1/dashboard,GET,502,185,False
+52.248.231.43,2023-01-03 11:27:42,analyzt,Edge/89.0,/api/v1/products,DELETE,404,973,False
+192.168.1.3,2023-01-03 11:28:08,developer,Firefox/84.0,/api/v1/inventory,POST,403,34,True
+192.168.1.2,2023-01-03 11:32:21,analyst,Firefox/84.0,/api/v1/orders,GET,200,503,True
+143.35.206.83,2023-01-03 11:34:23,develOper,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,401,283,False
+165.252.168.150,2023-01-03 11:34:31,devloper,Edge/89.0,/api/v1/orders,PUT,200,801,False
+192.168.1.3,2023-01-03 11:35:11,developer,Edge/89.0,/api/v1/inventory,GET,502,57,True
+206.44.216.43,2023-01-03 11:36:15,devloper,Firefox/84.0,/api/v1/configuration,GET,401,298,False
+179.164.112.250,2023-01-03 11:36:46,developer,Chrome/87.0,/api/v1/configuration,GET,401,414,False
+192.168.1.2,2023-01-03 11:40:18,developer,Firefox/84.0,/api/v1/inventory,POST,304,349,True
+192.168.1.3,2023-01-03 11:45:49,admin,Chrome/87.0,/api/v1/dashboard,GET,404,584,True
+192.168.1.1,2023-01-03 11:46:16,developer,Android/84.0,/api/v1/inventory,GET,200,544,True
+21.42.159.67,2023-01-03 11:50:31,analyst,Chrome/87.0,/api/v1/configuration,GET,502,53,False
+58.173.30.70,2023-01-03 11:52:08,analyst,Android/84.0,/api/v1/inventory,POST,401,360,False
+192.168.1.1,2023-01-03 11:53:53,analyst,Chrome/87.0,/api/v1/inventory,GET,200,329,True
+192.168.1.1,2023-01-03 11:56:26,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,DELETE,401,524,True
+203.106.107.243,2023-01-03 11:59:43,analyzt,Chrome/87.0,/api/v1/inventory,POST,303,929,False
+192.168.1.2,2023-01-03 12:01:46,analyst,Safari,/api/v1/products,GET,200,864,True
+192.168.1.1,2023-01-03 12:11:15,analyst,Android/84.0,/api/v1/products,GET,200,472,True
+192.168.1.1,2023-01-03 12:13:21,developer,Android/84.0,/api/v1/inventory,PUT,200,508,True
+192.168.1.1,2023-01-03 12:13:25,analyst,Chrome/87.0,/api/v1/orders,GET,200,181,True
+192.168.1.3,2023-01-03 12:13:25,admin,Android/84.0,/api/v1/configuration,DELETE,403,126,True
+210.240.97.228,2023-01-03 12:15:51,analyzt,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,200,615,False
+210.100.51.1,2023-01-03 12:16:49,deve1oper,Chrome/87.0,/api/v1/configuration,PUT,200,347,False
+186.118.22.36,2023-01-03 12:22:10,devloper,Opera/73.0,/api/v1/configuration,POST,502,246,False
+192.168.1.1,2023-01-03 12:23:50,admin,Firefox/84.0,/api/v1/payments,GET,200,712,True
+109.47.8.133,2023-01-03 12:24:21,developer,Edge/89.0,/api/v1/orders,GET,200,759,False
+192.168.1.3,2023-01-03 12:27:03,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,403,96,True
+192.168.1.1,2023-01-03 12:36:07,admin,Opera/73.0,/api/v1/payments,PUT,200,764,True
+192.168.1.1,2023-01-03 12:37:21,analyst,Android/84.0,/api/v1/orders,GET,304,452,True
+45.31.209.181,2023-01-03 12:38:58,analyzt,Android/84.0,/api/v1/dashboard,POST,403,954,False
+192.168.1.2,2023-01-03 12:39:00,developer,Edge/89.0,/api/v1/products,GET,200,340,True
+208.241.141.169,2023-01-03 12:39:03,deve1oper,Firefox/84.0,/api/v1/dashboard,POST,401,56,False
+192.168.1.1,2023-01-03 12:41:07,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,401,212,True
+192.168.1.2,2023-01-03 12:42:34,admin,Edge/89.0,/api/v1/dashboard,POST,502,285,True
+192.168.1.3,2023-01-03 12:45:01,developer,Android/84.0,/api/v1/orders,PUT,200,391,True
+192.168.1.2,2023-01-03 12:46:15,developer,Firefox/84.0,/api/v1/orders,GET,502,193,True
+84.103.48.198,2023-01-03 12:46:43,analyzt,Firefox/84.0,/api/v1/dashboard,PUT,200,635,False
+16.229.244.216,2023-01-03 12:47:25,analyst,Chrome/87.0,/api/v1/orders,GET,303,178,False
+192.168.1.2,2023-01-03 12:50:24,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,200,991,True
+50.226.28.236,2023-01-03 12:57:30,analyst,Android/84.0,/api/v1/products,PUT,403,121,False
+121.146.195.144,2023-01-03 12:59:43,analyzt,Opera/73.0,/api/v1/inventory,DELETE,304,836,False
+192.168.1.1,2023-01-03 13:00:14,analyst,Edge/89.0,/api/v1/products,GET,404,370,True
+164.134.9.102,2023-01-03 13:02:05,deve1oper,Opera/73.0,/api/v1/payments,POST,304,1,False
+192.168.1.1,2023-01-03 13:07:36,developer,Edge/89.0,/api/v1/products,PUT,404,935,True
+192.168.1.1,2023-01-03 13:07:58,admin,Firefox/84.0,/api/v1/payments,GET,502,311,True
+6.206.86.196,2023-01-03 13:12:11,analyzt,Chrome/87.0,/api/v1/orders,GET,200,184,False
+192.168.1.3,2023-01-03 13:16:05,analyst,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,401,868,True
+192.168.1.2,2023-01-03 13:29:56,admin,Android/84.0,/api/v1/dashboard,GET,401,230,True
+192.168.1.1,2023-01-03 13:32:00,developer,Edge/89.0,/api/v1/products,GET,500,950,True
+202.50.154.96,2023-01-03 13:36:48,deve1oper,Chrome/87.0,/api/v1/products,PUT,200,852,False
+23.187.57.197,2023-01-03 13:41:50,devloper,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,200,799,False
+192.168.1.3,2023-01-03 13:42:03,analyst,Firefox/84.0,/api/v1/inventory,GET,304,514,True
+192.168.1.1,2023-01-03 13:45:43,developer,Firefox/84.0,/api/v1/inventory,GET,500,604,True
+133.210.224.252,2023-01-03 13:46:23,developer,Safari,/api/v1/orders,GET,404,695,False
+192.168.1.3,2023-01-03 13:51:49,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,GET,200,930,True
+192.168.1.2,2023-01-03 13:54:46,admin,Firefox/84.0,/api/v1/dashboard,GET,401,622,True
+59.116.28.89,2023-01-03 13:57:13,analyzt,Safari,/api/v1/orders,POST,403,207,False
+220.12.90.28,2023-01-03 14:02:24,developer,iPhone; CPU OS 12_4_9,/api/v1/dashboard,POST,404,704,False
+223.192.247.49,2023-01-03 14:09:29,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/configuration,PUT,200,104,False
+97.133.132.182,2023-01-03 14:09:43,admiin,Opera/73.0,/api/v1/payments,POST,200,53,False
+192.168.1.1,2023-01-03 14:11:35,analyst,Chrome/87.0,/api/v1/orders,GET,500,9,True
+192.168.1.3,2023-01-03 14:12:58,developer,Chrome/87.0,/api/v1/orders,PUT,403,690,True
+174.79.153.225,2023-01-03 14:13:53,analyst,Opera/73.0,/api/v1/orders,PUT,401,353,False
+5.116.144.57,2023-01-03 14:17:25,analyzt,Opera/73.0,/api/v1/payments,PUT,500,66,False
+175.172.82.182,2023-01-03 14:20:07,analyzt,Edge/89.0,/api/v1/products,GET,303,29,False
+42.95.172.213,2023-01-03 14:20:47,develOper,Firefox/84.0,/api/v1/dashboard,POST,401,818,False
+192.168.1.3,2023-01-03 14:21:21,admin,Edge/89.0,/api/v1/payments,PUT,200,798,True
+192.168.1.1,2023-01-03 14:21:55,analyst,Chrome/87.0,/api/v1/products,GET,200,784,True
+192.168.1.1,2023-01-03 14:22:05,analyst,Safari,/api/v1/orders,GET,401,931,True
+192.168.1.1,2023-01-03 14:22:19,developer,Firefox/84.0,/api/v1/orders,GET,303,829,True
+192.168.1.3,2023-01-03 14:25:51,admin,Firefox/84.0,/api/v1/payments,DELETE,200,717,True
+26.20.103.128,2023-01-03 14:28:49,analyst,Android/84.0,/api/v1/dashboard,GET,500,913,False
+95.80.210.207,2023-01-03 14:29:19,analyzt,Android/84.0,/api/v1/configuration,GET,200,290,False
+192.168.1.2,2023-01-03 14:30:22,admin,Firefox/84.0,/api/v1/configuration,PUT,200,847,True
+192.168.1.3,2023-01-03 14:31:31,analyst,Safari,/api/v1/orders,GET,401,143,True
+192.168.1.2,2023-01-03 14:43:45,developer,Safari,/api/v1/orders,GET,404,380,True
+192.168.1.3,2023-01-03 14:44:26,analyst,Firefox/84.0,/api/v1/inventory,GET,200,753,True
+192.168.1.1,2023-01-03 14:45:59,admin,Chrome/87.0,/api/v1/payments,DELETE,200,23,True
+192.168.1.2,2023-01-03 14:47:27,analyst,Firefox/84.0,/api/v1/inventory,GET,500,627,True
+192.168.1.3,2023-01-03 14:55:39,analyst,Firefox/84.0,/api/v1/inventory,GET,404,83,True
+192.168.1.1,2023-01-03 14:56:47,admin,Chrome/87.0,/api/v1/payments,PUT,500,856,True
+8.187.197.194,2023-01-03 15:00:47,analyzt,Firefox/84.0,/api/v1/configuration,POST,200,857,False
+192.168.1.2,2023-01-03 15:07:55,developer,Safari,/api/v1/products,POST,303,321,True
+192.232.0.226,2023-01-03 15:13:25,develOper,Opera/73.0,/api/v1/products,DELETE,304,963,False
+192.168.1.2,2023-01-03 15:25:40,admin,Safari,/api/v1/payments,POST,200,169,True
+192.168.1.1,2023-01-03 15:31:25,developer,Chrome/87.0,/api/v1/orders,GET,502,185,True
+192.168.1.2,2023-01-03 15:32:07,developer,Safari,/api/v1/inventory,POST,303,197,True
+192.168.1.3,2023-01-03 15:35:57,analyst,Firefox/84.0,/api/v1/inventory,GET,500,547,True
+192.168.1.3,2023-01-03 15:38:46,admin,Chrome/87.0,/api/v1/configuration,GET,303,307,True
+205.186.100.154,2023-01-03 15:39:08,develOper,Chrome/87.0,/api/v1/dashboard,DELETE,200,591,False
+29.146.169.74,2023-01-03 15:49:16,admiin,Opera/73.0,/api/v1/payments,GET,502,683,False
+99.183.71.162,2023-01-03 15:49:29,admiin,Chrome/87.0,/api/v1/inventory,PUT,304,996,False
+160.88.113.214,2023-01-03 15:49:56,deve1oper,Edge/89.0,/api/v1/payments,GET,200,815,False
+75.108.179.207,2023-01-03 15:52:07,analyzt,Android/84.0,/api/v1/inventory,DELETE,200,669,False
+192.168.1.1,2023-01-03 15:56:57,developer,Edge/89.0,/api/v1/products,PUT,303,424,True
+62.19.124.30,2023-01-03 15:57:50,analyst,Android/84.0,/api/v1/dashboard,POST,502,331,False
+192.168.1.1,2023-01-03 15:58:31,admin,Opera/73.0,/api/v1/payments,GET,200,392,True
+192.168.1.1,2023-01-03 16:00:24,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,401,152,True
+192.168.1.1,2023-01-03 16:02:21,admin,Safari,/api/v1/configuration,GET,500,607,True
+192.168.1.2,2023-01-03 16:04:41,developer,Firefox/84.0,/api/v1/orders,PUT,200,118,True
+208.9.110.254,2023-01-03 16:04:53,analyzt,Chrome/87.0,/api/v1/products,DELETE,500,761,False
+112.222.12.18,2023-01-03 16:06:14,analyzt,Chrome/87.0,/api/v1/payments,GET,304,74,False
+192.168.1.2,2023-01-03 16:06:50,analyst,Firefox/84.0,/api/v1/products,GET,403,482,True
+192.168.1.1,2023-01-03 16:17:15,admin,Firefox/84.0,/api/v1/dashboard,PUT,200,614,True
+192.168.1.3,2023-01-03 16:24:31,admin,Firefox/84.0,/api/v1/dashboard,POST,200,13,True
+192.168.1.2,2023-01-03 16:25:00,developer,Safari,/api/v1/orders,PUT,200,945,True
+192.168.1.3,2023-01-03 16:37:22,admin,Android/84.0,/api/v1/dashboard,DELETE,404,537,True
+192.168.1.1,2023-01-03 16:39:46,developer,iPhone; CPU OS 12_4_9,/api/v1/products,GET,403,343,True
+46.190.90.163,2023-01-03 16:41:49,aadmin,Firefox/84.0,/api/v1/dashboard,GET,303,262,False
+107.194.114.90,2023-01-03 16:42:32,develOper,Android/84.0,/api/v1/inventory,GET,304,89,False
+155.17.121.174,2023-01-03 16:43:18,aadmin,Android/84.0,/api/v1/payments,GET,200,418,False
+35.201.239.37,2023-01-03 16:44:21,analyst,Firefox/84.0,/api/v1/payments,GET,200,759,False
+192.168.1.2,2023-01-03 16:53:33,developer,Android/84.0,/api/v1/inventory,PUT,500,529,True
+109.176.27.199,2023-01-03 16:54:45,analyzt,Opera/73.0,/api/v1/orders,GET,403,409,False
+98.139.255.140,2023-01-03 16:56:47,analyst,Android/84.0,/api/v1/dashboard,PUT,401,632,False
+192.168.1.2,2023-01-03 16:57:17,admin,Chrome/87.0,/api/v1/configuration,DELETE,401,538,True
+192.168.1.1,2023-01-03 16:58:28,developer,Android/84.0,/api/v1/orders,PUT,304,923,True
+175.74.40.169,2023-01-03 17:03:12,analyst,Safari,/api/v1/products,GET,200,347,False
+192.168.1.1,2023-01-03 17:05:47,developer,Safari,/api/v1/products,GET,404,996,True
+128.96.46.31,2023-01-03 17:10:06,deve1oper,Chrome/87.0,/api/v1/configuration,POST,200,998,False
+192.168.1.3,2023-01-03 17:14:00,analyst,Android/84.0,/api/v1/orders,GET,200,389,True
+203.130.185.214,2023-01-03 17:16:10,devloper,Safari,/api/v1/configuration,DELETE,200,364,False
+81.170.189.63,2023-01-03 17:16:20,aadmin,Opera/73.0,/api/v1/configuration,GET,200,246,False
+192.168.1.1,2023-01-03 17:19:45,developer,Firefox/84.0,/api/v1/inventory,PUT,200,684,True
+192.168.1.2,2023-01-03 17:22:04,analyst,Chrome/87.0,/api/v1/products,GET,303,128,True
+192.168.1.2,2023-01-03 17:23:36,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,502,146,True
+165.144.153.180,2023-01-03 17:25:10,aadmin,iPhone; CPU OS 12_4_9,/api/v1/configuration,PUT,304,454,False
+85.157.39.2,2023-01-03 17:30:08,developer,Safari,/api/v1/orders,GET,401,582,False
+192.168.1.2,2023-01-03 17:31:51,analyst,Opera/73.0,/api/v1/products,GET,404,518,True
+192.168.1.2,2023-01-03 17:34:14,analyst,Android/84.0,/api/v1/inventory,GET,200,152,True
+189.114.40.207,2023-01-03 17:43:03,analyzt,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,200,621,False
+192.168.1.1,2023-01-03 17:43:06,developer,Safari,/api/v1/inventory,PUT,404,883,True
+166.29.52.32,2023-01-03 17:47:50,analyzt,Android/84.0,/api/v1/payments,GET,200,933,False
+192.168.1.1,2023-01-03 17:47:54,admin,Edge/89.0,/api/v1/payments,DELETE,200,319,True
+192.168.1.2,2023-01-03 17:56:01,analyst,Edge/89.0,/api/v1/orders,GET,404,401,True
+76.207.142.145,2023-01-03 17:59:43,admiin,Android/84.0,/api/v1/products,POST,401,237,False
+79.213.0.194,2023-01-03 18:04:45,develOper,Chrome/87.0,/api/v1/configuration,PUT,200,621,False
+192.168.1.1,2023-01-03 18:04:55,admin,Safari,/api/v1/configuration,DELETE,303,547,True
+192.168.1.1,2023-01-03 18:05:34,analyst,Android/84.0,/api/v1/products,GET,200,89,True
+66.39.229.4,2023-01-03 18:05:59,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,403,52,False
+53.0.160.87,2023-01-03 18:07:35,analyst,Firefox/84.0,/api/v1/payments,PUT,303,889,False
+192.168.1.1,2023-01-03 18:09:21,admin,Firefox/84.0,/api/v1/payments,PUT,200,769,True
+192.168.1.2,2023-01-03 18:10:12,analyst,Android/84.0,/api/v1/products,GET,200,904,True
+99.254.70.233,2023-01-03 18:11:39,develOper,iPhone; CPU OS 12_4_9,/api/v1/dashboard,POST,200,671,False
+201.230.64.85,2023-01-03 18:13:18,develOper,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,200,300,False
+132.215.15.89,2023-01-03 18:16:59,analyzt,Chrome/87.0,/api/v1/products,POST,401,759,False
+192.168.1.1,2023-01-03 18:29:48,admin,Edge/89.0,/api/v1/dashboard,PUT,500,570,True
+68.112.64.108,2023-01-03 18:29:56,admiin,Firefox/84.0,/api/v1/configuration,PUT,304,272,False
+192.168.1.1,2023-01-03 18:31:07,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,403,459,True
+136.251.177.155,2023-01-03 18:32:14,analyst,Android/84.0,/api/v1/payments,PUT,404,764,False
+192.168.1.2,2023-01-03 18:33:11,developer,Edge/89.0,/api/v1/products,POST,200,122,True
+136.18.255.169,2023-01-03 18:39:44,analyzt,iPhone; CPU OS 12_4_9,/api/v1/payments,GET,200,335,False
+192.168.1.1,2023-01-03 18:44:38,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,GET,502,979,True
+192.168.1.1,2023-01-03 18:45:38,analyst,Firefox/84.0,/api/v1/products,GET,304,30,True
+52.255.69.38,2023-01-03 18:46:24,developer,Edge/89.0,/api/v1/configuration,POST,404,33,False
+44.160.235.102,2023-01-03 18:47:49,analyst,Android/84.0,/api/v1/dashboard,GET,401,752,False
+12.170.225.202,2023-01-03 18:49:03,analyst,Android/84.0,/api/v1/dashboard,GET,200,546,False
+192.168.1.1,2023-01-03 18:49:18,admin,Chrome/87.0,/api/v1/payments,GET,200,867,True
+167.207.216.65,2023-01-03 18:50:27,develOper,Safari,/api/v1/payments,PUT,403,344,False
+150.64.33.115,2023-01-03 18:52:32,analyst,Android/84.0,/api/v1/orders,POST,404,12,False
+192.168.1.2,2023-01-03 18:55:05,developer,Chrome/87.0,/api/v1/products,POST,200,339,True
+192.168.1.3,2023-01-03 18:58:06,developer,Android/84.0,/api/v1/products,POST,303,476,True
+207.228.149.90,2023-01-03 19:03:22,aadmin,Chrome/87.0,/api/v1/configuration,DELETE,304,78,False
+192.168.1.2,2023-01-03 19:03:58,developer,Opera/73.0,/api/v1/orders,PUT,403,307,True
+192.168.1.3,2023-01-03 19:05:32,developer,Safari,/api/v1/inventory,POST,200,634,True
+8.135.95.211,2023-01-03 19:13:35,admiin,Android/84.0,/api/v1/products,GET,404,266,False
+192.168.1.1,2023-01-03 19:18:31,admin,Edge/89.0,/api/v1/payments,PUT,303,971,True
+5.193.25.205,2023-01-03 19:23:56,devloper,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,401,809,False
+205.116.178.164,2023-01-03 19:33:37,analyst,Opera/73.0,/api/v1/inventory,PUT,500,2,False
+192.168.1.3,2023-01-03 19:37:32,analyst,Android/84.0,/api/v1/orders,GET,404,104,True
+73.206.203.202,2023-01-03 19:38:17,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,303,485,False
+192.168.1.3,2023-01-03 19:40:15,analyst,Android/84.0,/api/v1/orders,GET,200,644,True
+22.119.70.201,2023-01-03 19:46:35,developer,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,200,434,False
+130.248.34.42,2023-01-03 19:47:48,analyst,Firefox/84.0,/api/v1/configuration,GET,200,950,False
+148.207.144.86,2023-01-03 20:05:45,analyst,Android/84.0,/api/v1/configuration,POST,404,381,False
+192.168.1.3,2023-01-03 20:08:52,admin,Safari,/api/v1/configuration,PUT,404,596,True
+126.130.13.181,2023-01-03 20:09:54,developer,Chrome/87.0,/api/v1/orders,GET,200,971,False
+28.119.255.196,2023-01-03 20:14:19,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,200,20,False
+54.229.97.11,2023-01-03 20:17:12,aadmin,Android/84.0,/api/v1/dashboard,GET,200,831,False
+102.141.222.10,2023-01-03 20:17:33,develOper,Chrome/87.0,/api/v1/products,DELETE,404,809,False
+169.210.51.49,2023-01-03 20:22:28,developer,Safari,/api/v1/products,GET,304,505,False
+192.168.1.1,2023-01-03 20:23:56,analyst,Edge/89.0,/api/v1/inventory,GET,304,302,True
+169.73.49.73,2023-01-03 20:24:14,developer,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,403,193,False
+192.168.1.1,2023-01-03 20:26:05,admin,Firefox/84.0,/api/v1/dashboard,GET,500,426,True
+167.22.204.239,2023-01-03 20:29:54,admiin,Android/84.0,/api/v1/payments,POST,401,513,False
+192.168.1.1,2023-01-03 20:36:59,admin,Edge/89.0,/api/v1/payments,PUT,200,173,True
+3.105.15.162,2023-01-03 20:39:22,analyst,Chrome/87.0,/api/v1/inventory,GET,200,471,False
+55.67.243.240,2023-01-03 20:42:50,admiin,Chrome/87.0,/api/v1/dashboard,DELETE,403,169,False
+162.78.243.135,2023-01-03 20:43:29,analyst,Opera/73.0,/api/v1/configuration,GET,404,45,False
+142.218.47.117,2023-01-03 20:54:17,aadmin,Firefox/84.0,/api/v1/inventory,PUT,200,412,False
+134.149.191.232,2023-01-03 20:58:43,aadmin,Firefox/84.0,/api/v1/dashboard,GET,401,2,False
+102.207.23.173,2023-01-03 21:04:37,analyzt,Edge/89.0,/api/v1/dashboard,POST,303,993,False
+133.57.44.5,2023-01-03 21:12:31,analyst,Firefox/84.0,/api/v1/payments,GET,303,614,False
+88.65.199.16,2023-01-03 21:13:27,develOper,Android/84.0,/api/v1/products,POST,200,477,False
+73.228.129.34,2023-01-03 21:15:40,developer,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,401,588,False
+192.168.1.2,2023-01-03 21:16:11,developer,Edge/89.0,/api/v1/inventory,POST,200,188,True
+190.240.35.219,2023-01-03 21:18:59,devloper,Edge/89.0,/api/v1/orders,GET,500,580,False
+109.250.114.71,2023-01-03 21:19:15,devloper,Safari,/api/v1/orders,POST,200,755,False
+96.128.148.221,2023-01-03 21:19:25,developer,Android/84.0,/api/v1/dashboard,PUT,200,555,False
+55.120.95.144,2023-01-03 21:21:53,develOper,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,403,187,False
+192.168.1.3,2023-01-03 21:22:43,developer,Edge/89.0,/api/v1/inventory,POST,200,963,True
+41.196.59.195,2023-01-03 21:32:26,analyst,iPhone; CPU OS 12_4_9,/api/v1/orders,DELETE,303,530,False
+125.159.224.206,2023-01-03 21:33:44,deve1oper,Android/84.0,/api/v1/payments,GET,401,881,False
+192.168.1.1,2023-01-03 21:35:11,analyst,Safari,/api/v1/products,GET,502,253,True
+185.147.121.196,2023-01-03 21:42:18,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,502,515,False
+206.250.11.48,2023-01-03 21:42:45,devloper,Chrome/87.0,/api/v1/dashboard,DELETE,200,516,False
+192.168.1.2,2023-01-03 21:43:03,analyst,Android/84.0,/api/v1/inventory,GET,200,330,True
+222.178.128.126,2023-01-03 21:43:09,admiin,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,200,638,False
+180.64.189.159,2023-01-03 21:46:08,admiin,Chrome/87.0,/api/v1/dashboard,DELETE,200,103,False
+165.107.84.141,2023-01-03 21:51:25,developer,Safari,/api/v1/inventory,GET,403,18,False
+192.168.1.1,2023-01-03 21:52:12,developer,Edge/89.0,/api/v1/products,GET,200,126,True
+164.218.18.107,2023-01-03 22:05:53,deve1oper,Safari,/api/v1/dashboard,GET,200,510,False
+115.61.188.254,2023-01-03 22:09:00,admiin,Safari,/api/v1/payments,PUT,403,111,False
+103.249.248.164,2023-01-03 22:12:27,devloper,Firefox/84.0,/api/v1/products,DELETE,200,559,False
+192.168.1.3,2023-01-03 22:13:30,analyst,Safari,/api/v1/products,GET,304,6,True
+71.73.119.66,2023-01-03 22:14:15,admiin,Firefox/84.0,/api/v1/dashboard,PUT,200,235,False
+165.30.224.209,2023-01-03 22:17:21,aadmin,Opera/73.0,/api/v1/orders,GET,200,695,False
+192.168.1.2,2023-01-03 22:17:28,developer,Edge/89.0,/api/v1/inventory,POST,404,437,True
+73.174.215.114,2023-01-03 22:28:43,analyzt,Opera/73.0,/api/v1/products,POST,403,449,False
+192.168.1.2,2023-01-03 22:30:30,developer,Chrome/87.0,/api/v1/orders,PUT,200,2,True
+66.82.106.100,2023-01-03 22:30:35,developer,Android/84.0,/api/v1/configuration,POST,200,647,False
+10.47.178.220,2023-01-03 22:31:28,develOper,Chrome/87.0,/api/v1/payments,PUT,404,771,False
+192.168.1.1,2023-01-03 22:32:37,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,200,309,True
+130.208.210.164,2023-01-03 22:35:24,deve1oper,Edge/89.0,/api/v1/dashboard,POST,502,289,False
+192.168.1.1,2023-01-03 22:35:48,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,GET,303,364,True
+192.168.1.2,2023-01-03 22:36:45,admin,Edge/89.0,/api/v1/payments,POST,502,964,True
+118.99.109.232,2023-01-03 22:42:41,admiin,Android/84.0,/api/v1/dashboard,GET,200,776,False
+97.47.135.246,2023-01-03 22:43:09,aadmin,Opera/73.0,/api/v1/dashboard,GET,401,312,False
+189.146.168.78,2023-01-03 22:47:20,analyst,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,200,436,False
+149.9.231.253,2023-01-03 22:49:37,analyst,Android/84.0,/api/v1/inventory,GET,303,21,False
+40.240.145.210,2023-01-03 22:52:46,analyst,Firefox/84.0,/api/v1/orders,GET,304,571,False
+43.91.37.101,2023-01-03 23:07:54,admiin,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,502,911,False
+124.183.27.42,2023-01-03 23:08:43,develOper,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,303,446,False
+93.159.124.204,2023-01-03 23:12:25,developer,Opera/73.0,/api/v1/inventory,PUT,200,729,False
+21.42.9.93,2023-01-03 23:14:21,admiin,Safari,/api/v1/configuration,DELETE,500,442,False
+192.168.1.1,2023-01-03 23:18:12,admin,Opera/73.0,/api/v1/dashboard,GET,502,631,True
+167.29.94.200,2023-01-03 23:21:43,deve1oper,Android/84.0,/api/v1/payments,GET,303,444,False
+192.168.1.3,2023-01-03 23:22:38,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,DELETE,303,654,True
+192.168.1.1,2023-01-03 23:22:52,developer,Safari,/api/v1/products,GET,200,226,True
+63.4.62.149,2023-01-03 23:23:44,analyst,Safari,/api/v1/products,POST,303,148,False
+166.126.210.82,2023-01-03 23:24:17,analyzt,Chrome/87.0,/api/v1/payments,DELETE,200,718,False
+155.12.141.56,2023-01-03 23:31:01,analyst,Edge/89.0,/api/v1/inventory,POST,200,517,False
+192.168.1.2,2023-01-03 23:33:03,analyst,Opera/73.0,/api/v1/inventory,GET,403,148,True
+198.8.148.164,2023-01-03 23:33:47,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,POST,500,330,False
+192.168.1.1,2023-01-03 23:43:41,admin,Safari,/api/v1/configuration,POST,401,523,True
+192.168.1.1,2023-01-03 23:43:54,admin,Firefox/84.0,/api/v1/payments,DELETE,303,21,True
+192.168.1.2,2023-01-03 23:44:30,analyst,Firefox/84.0,/api/v1/inventory,GET,500,578,True
+192.168.1.2,2023-01-03 23:47:13,admin,Firefox/84.0,/api/v1/configuration,POST,303,524,True
+192.168.1.2,2023-01-04 00:07:52,developer,Edge/89.0,/api/v1/inventory,POST,404,486,True
+192.168.1.1,2023-01-04 00:08:23,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,500,436,True
+153.205.89.131,2023-01-04 00:08:28,developer,Safari,/api/v1/orders,DELETE,200,737,False
+63.156.106.41,2023-01-04 00:10:48,deve1oper,Opera/73.0,/api/v1/payments,PUT,200,729,False
+122.252.98.18,2023-01-04 00:14:53,aadmin,Edge/89.0,/api/v1/payments,GET,303,812,False
+182.160.59.178,2023-01-04 00:16:08,analyst,Edge/89.0,/api/v1/configuration,POST,304,627,False
+192.168.1.1,2023-01-04 00:18:20,analyst,Edge/89.0,/api/v1/inventory,GET,200,241,True
+32.158.17.195,2023-01-04 00:19:48,develOper,Firefox/84.0,/api/v1/orders,PUT,500,382,False
+192.168.1.1,2023-01-04 00:23:12,analyst,Opera/73.0,/api/v1/inventory,GET,500,23,True
+192.168.1.1,2023-01-04 00:23:51,admin,Safari,/api/v1/configuration,POST,200,829,True
+192.168.1.1,2023-01-04 00:36:36,admin,Android/84.0,/api/v1/configuration,GET,200,766,True
+192.168.1.2,2023-01-04 00:38:09,admin,Edge/89.0,/api/v1/payments,DELETE,200,223,True
+192.168.1.2,2023-01-04 00:38:47,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,200,328,True
+192.168.1.3,2023-01-04 00:42:34,developer,Android/84.0,/api/v1/inventory,GET,303,54,True
+192.168.1.2,2023-01-04 00:42:54,developer,Android/84.0,/api/v1/inventory,PUT,200,159,True
+15.192.184.219,2023-01-04 00:50:37,analyst,Opera/73.0,/api/v1/inventory,GET,500,166,False
+192.168.1.1,2023-01-04 00:51:53,analyst,Opera/73.0,/api/v1/products,GET,404,824,True
+192.168.1.3,2023-01-04 00:55:35,developer,Safari,/api/v1/products,GET,200,531,True
+137.88.148.146,2023-01-04 01:10:54,aadmin,Firefox/84.0,/api/v1/configuration,GET,304,406,False
+99.187.250.88,2023-01-04 01:14:01,admiin,Opera/73.0,/api/v1/configuration,PUT,200,16,False
+123.86.247.190,2023-01-04 01:14:27,develOper,Chrome/87.0,/api/v1/products,GET,403,744,False
+192.168.1.2,2023-01-04 01:16:22,developer,Firefox/84.0,/api/v1/products,POST,403,27,True
+192.168.1.2,2023-01-04 01:16:45,developer,Opera/73.0,/api/v1/inventory,PUT,403,548,True
+192.168.1.2,2023-01-04 01:17:55,admin,Edge/89.0,/api/v1/payments,GET,500,84,True
+22.8.165.141,2023-01-04 01:21:40,aadmin,Safari,/api/v1/payments,DELETE,502,941,False
+203.144.152.184,2023-01-04 01:22:18,analyzt,Android/84.0,/api/v1/inventory,GET,200,789,False
+192.168.1.2,2023-01-04 01:24:15,admin,Opera/73.0,/api/v1/configuration,PUT,303,425,True
+192.168.1.1,2023-01-04 01:34:15,admin,Opera/73.0,/api/v1/configuration,PUT,303,223,True
+192.168.1.3,2023-01-04 01:42:27,analyst,Safari,/api/v1/products,GET,403,892,True
+56.59.111.217,2023-01-04 01:42:29,analyst,Android/84.0,/api/v1/configuration,DELETE,200,86,False
+192.168.1.3,2023-01-04 01:48:33,admin,Opera/73.0,/api/v1/configuration,GET,500,170,True
+30.223.2.137,2023-01-04 01:55:54,analyzt,Safari,/api/v1/products,DELETE,401,479,False
+70.222.236.50,2023-01-04 01:56:21,admiin,Android/84.0,/api/v1/dashboard,PUT,200,960,False
+41.231.79.212,2023-01-04 01:57:55,admiin,Edge/89.0,/api/v1/dashboard,POST,401,743,False
+213.148.251.149,2023-01-04 01:58:01,developer,Safari,/api/v1/payments,GET,404,202,False
+184.203.210.202,2023-01-04 02:00:08,analyst,Firefox/84.0,/api/v1/products,GET,502,527,False
+192.168.1.2,2023-01-04 02:03:51,analyst,Chrome/87.0,/api/v1/orders,GET,200,456,True
+192.30.1.42,2023-01-04 02:10:02,analyzt,Android/84.0,/api/v1/configuration,GET,200,531,False
+192.168.1.2,2023-01-04 02:10:26,developer,Edge/89.0,/api/v1/orders,PUT,200,889,True
+192.168.1.1,2023-01-04 02:18:05,analyst,Safari,/api/v1/orders,GET,403,940,True
+192.168.1.3,2023-01-04 02:20:48,admin,Android/84.0,/api/v1/payments,DELETE,401,261,True
+192.168.1.1,2023-01-04 02:21:10,developer,Firefox/84.0,/api/v1/products,PUT,200,195,True
+192.168.1.3,2023-01-04 02:24:57,developer,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,404,866,True
+192.168.1.2,2023-01-04 02:25:30,analyst,Edge/89.0,/api/v1/inventory,GET,401,196,True
+121.176.20.75,2023-01-04 02:28:46,developer,Chrome/87.0,/api/v1/products,PUT,502,414,False
+195.52.217.242,2023-01-04 02:39:29,develOper,Chrome/87.0,/api/v1/payments,POST,404,374,False
+192.168.1.3,2023-01-04 02:40:35,developer,Safari,/api/v1/inventory,POST,200,484,True
+32.128.95.12,2023-01-04 02:41:08,analyzt,Opera/73.0,/api/v1/configuration,PUT,303,338,False
+19.168.20.192,2023-01-04 02:41:27,analyzt,Edge/89.0,/api/v1/dashboard,PUT,200,938,False
+192.168.1.3,2023-01-04 02:41:46,admin,Chrome/87.0,/api/v1/configuration,PUT,401,397,True
+192.168.1.1,2023-01-04 02:46:53,developer,Android/84.0,/api/v1/orders,POST,401,565,True
+192.168.1.2,2023-01-04 02:47:13,analyst,Safari,/api/v1/inventory,GET,200,923,True
+35.171.25.82,2023-01-04 02:49:51,develOper,Android/84.0,/api/v1/dashboard,POST,200,51,False
+124.58.78.225,2023-01-04 02:50:31,analyst,Chrome/87.0,/api/v1/payments,POST,200,499,False
+152.119.18.150,2023-01-04 02:55:44,analyst,Firefox/84.0,/api/v1/configuration,DELETE,200,955,False
+192.168.1.1,2023-01-04 02:56:06,analyst,Opera/73.0,/api/v1/inventory,GET,200,772,True
+192.168.1.3,2023-01-04 02:56:35,developer,Firefox/84.0,/api/v1/products,POST,404,882,True
+90.95.49.79,2023-01-04 02:56:46,develOper,Firefox/84.0,/api/v1/payments,PUT,404,698,False
+58.47.124.224,2023-01-04 02:58:51,deve1oper,Android/84.0,/api/v1/inventory,PUT,200,185,False
+192.168.1.3,2023-01-04 02:59:18,analyst,Safari,/api/v1/products,GET,500,84,True
+129.19.156.203,2023-01-04 03:04:27,deve1oper,Android/84.0,/api/v1/inventory,POST,200,992,False
+192.168.1.3,2023-01-04 03:04:29,analyst,Edge/89.0,/api/v1/orders,GET,200,391,True
+51.152.223.60,2023-01-04 03:04:37,analyst,Android/84.0,/api/v1/configuration,DELETE,304,128,False
+78.225.238.233,2023-01-04 03:06:41,analyst,Opera/73.0,/api/v1/configuration,POST,401,239,False
+23.18.71.7,2023-01-04 03:07:34,aadmin,Android/84.0,/api/v1/payments,DELETE,304,553,False
+192.168.1.2,2023-01-04 03:07:38,admin,Opera/73.0,/api/v1/payments,DELETE,403,616,True
+192.168.1.2,2023-01-04 03:13:00,analyst,Chrome/87.0,/api/v1/products,GET,403,450,True
+192.168.1.1,2023-01-04 03:18:49,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,DELETE,502,337,True
+192.168.1.2,2023-01-04 03:24:44,developer,Edge/89.0,/api/v1/products,GET,200,521,True
+192.168.1.2,2023-01-04 03:31:23,admin,Edge/89.0,/api/v1/configuration,PUT,200,642,True
+95.98.110.12,2023-01-04 03:31:30,develOper,Android/84.0,/api/v1/configuration,POST,200,175,False
+192.168.1.2,2023-01-04 03:33:32,analyst,Safari,/api/v1/orders,GET,200,9,True
+192.168.1.2,2023-01-04 03:34:12,analyst,Safari,/api/v1/orders,GET,403,704,True
+103.36.12.249,2023-01-04 03:39:37,admiin,Android/84.0,/api/v1/products,GET,401,279,False
+208.120.169.48,2023-01-04 03:43:43,developer,Android/84.0,/api/v1/inventory,GET,404,418,False
+192.168.1.3,2023-01-04 03:48:15,developer,Opera/73.0,/api/v1/inventory,POST,200,928,True
+192.168.1.3,2023-01-04 03:50:09,developer,Opera/73.0,/api/v1/inventory,GET,304,830,True
+192.168.1.2,2023-01-04 03:51:17,developer,Chrome/87.0,/api/v1/orders,POST,403,491,True
+192.168.1.3,2023-01-04 03:54:54,developer,Chrome/87.0,/api/v1/orders,GET,200,241,True
+192.168.1.2,2023-01-04 04:03:01,admin,Opera/73.0,/api/v1/payments,GET,403,813,True
+201.161.98.44,2023-01-04 04:04:51,deve1oper,Chrome/87.0,/api/v1/configuration,POST,403,273,False
+192.168.1.1,2023-01-04 04:10:02,developer,Edge/89.0,/api/v1/orders,GET,404,859,True
+192.168.1.1,2023-01-04 04:10:46,developer,Chrome/87.0,/api/v1/orders,POST,404,648,True
+213.209.29.80,2023-01-04 04:13:21,develOper,Opera/73.0,/api/v1/orders,GET,200,389,False
+69.141.179.197,2023-01-04 04:14:10,analyst,iPhone; CPU OS 12_4_9,/api/v1/payments,GET,200,563,False
+178.66.51.106,2023-01-04 04:14:10,admiin,Opera/73.0,/api/v1/products,PUT,303,82,False
+46.166.164.110,2023-01-04 04:19:36,analyst,Safari,/api/v1/payments,POST,200,341,False
+192.168.1.2,2023-01-04 04:23:24,admin,Android/84.0,/api/v1/payments,POST,401,971,True
+192.168.1.2,2023-01-04 04:24:19,developer,Chrome/87.0,/api/v1/products,GET,200,876,True
+67.19.230.49,2023-01-04 04:27:12,deve1oper,Chrome/87.0,/api/v1/configuration,GET,502,420,False
+47.180.86.100,2023-01-04 04:28:38,analyzt,Firefox/84.0,/api/v1/payments,POST,404,129,False
+143.152.243.239,2023-01-04 04:33:19,analyzt,Safari,/api/v1/inventory,GET,403,742,False
+192.168.1.3,2023-01-04 04:37:15,developer,Android/84.0,/api/v1/products,POST,200,382,True
+13.183.95.11,2023-01-04 04:37:53,analyst,Opera/73.0,/api/v1/products,GET,403,448,False
+192.168.1.1,2023-01-04 04:38:02,admin,Chrome/87.0,/api/v1/configuration,GET,500,827,True
+192.168.1.3,2023-01-04 04:38:19,analyst,Opera/73.0,/api/v1/inventory,GET,200,285,True
+192.168.1.1,2023-01-04 04:45:05,admin,Safari,/api/v1/payments,POST,500,292,True
+192.168.1.2,2023-01-04 04:45:37,developer,Edge/89.0,/api/v1/inventory,POST,304,845,True
+109.191.94.94,2023-01-04 04:46:33,analyst,Safari,/api/v1/configuration,GET,200,806,False
+192.168.1.1,2023-01-04 04:55:31,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,200,667,True
+192.168.1.2,2023-01-04 04:55:34,developer,Opera/73.0,/api/v1/products,POST,200,120,True
+192.168.1.3,2023-01-04 04:56:56,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,GET,304,958,True
+192.168.1.1,2023-01-04 04:58:11,developer,Chrome/87.0,/api/v1/inventory,GET,500,330,True
+192.168.1.2,2023-01-04 04:58:52,admin,Firefox/84.0,/api/v1/configuration,DELETE,502,632,True
+192.168.1.1,2023-01-04 04:58:54,analyst,Safari,/api/v1/products,GET,502,781,True
+40.127.7.4,2023-01-04 04:59:01,deve1oper,Android/84.0,/api/v1/configuration,DELETE,403,302,False
+192.168.1.2,2023-01-04 05:05:34,admin,Chrome/87.0,/api/v1/configuration,DELETE,502,275,True
+167.122.31.132,2023-01-04 05:05:37,aadmin,Edge/89.0,/api/v1/configuration,GET,200,98,False
+192.168.1.3,2023-01-04 05:16:18,analyst,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,401,514,True
+192.168.1.2,2023-01-04 05:17:17,developer,Chrome/87.0,/api/v1/inventory,PUT,500,454,True
+15.24.166.125,2023-01-04 05:20:17,aadmin,Chrome/87.0,/api/v1/inventory,GET,404,856,False
+192.168.1.3,2023-01-04 05:23:53,admin,Edge/89.0,/api/v1/payments,PUT,502,734,True
+192.168.1.1,2023-01-04 05:28:06,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,200,913,True
+192.168.1.1,2023-01-04 05:29:22,developer,Android/84.0,/api/v1/orders,POST,200,181,True
+199.168.75.243,2023-01-04 05:29:32,aadmin,Android/84.0,/api/v1/payments,PUT,404,885,False
+192.168.1.1,2023-01-04 05:31:34,admin,Firefox/84.0,/api/v1/payments,DELETE,500,323,True
+68.48.67.215,2023-01-04 05:36:46,devloper,Chrome/87.0,/api/v1/payments,PUT,200,598,False
+218.100.252.187,2023-01-04 05:39:45,devloper,iPhone; CPU OS 12_4_9,/api/v1/dashboard,PUT,200,248,False
+26.247.248.223,2023-01-04 05:44:47,develOper,Firefox/84.0,/api/v1/configuration,DELETE,303,361,False
+192.168.1.2,2023-01-04 05:46:39,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,401,147,True
+192.168.1.2,2023-01-04 06:02:05,admin,Android/84.0,/api/v1/configuration,PUT,200,156,True
+110.148.230.172,2023-01-04 06:09:48,develOper,Opera/73.0,/api/v1/configuration,DELETE,401,525,False
+216.131.58.5,2023-01-04 06:12:03,admiin,Firefox/84.0,/api/v1/inventory,POST,404,543,False
+125.14.227.190,2023-01-04 06:16:21,deve1oper,Firefox/84.0,/api/v1/orders,DELETE,200,436,False
+222.41.18.216,2023-01-04 06:17:06,analyzt,Android/84.0,/api/v1/dashboard,PUT,502,431,False
+192.168.1.3,2023-01-04 06:18:01,admin,Firefox/84.0,/api/v1/configuration,GET,304,966,True
+192.168.1.1,2023-01-04 06:20:40,analyst,Edge/89.0,/api/v1/inventory,GET,200,701,True
+192.168.1.2,2023-01-04 06:21:16,admin,Safari,/api/v1/configuration,PUT,304,193,True
+183.51.156.69,2023-01-04 06:22:24,analyst,Firefox/84.0,/api/v1/payments,GET,401,287,False
+4.197.23.246,2023-01-04 06:25:02,admiin,Edge/89.0,/api/v1/inventory,POST,200,351,False
+192.168.1.3,2023-01-04 06:26:16,developer,Safari,/api/v1/products,GET,500,937,True
+192.168.1.2,2023-01-04 06:27:25,developer,Android/84.0,/api/v1/products,PUT,303,201,True
+192.168.1.1,2023-01-04 06:28:38,developer,Safari,/api/v1/dashboard,DELETE,200,547,False
+192.168.1.2,2023-01-04 06:31:08,analyst,Opera/73.0,/api/v1/inventory,GET,304,820,True
+176.166.162.0,2023-01-04 06:31:46,admiin,iPhone; CPU OS 12_4_9,/api/v1/inventory,DELETE,403,609,False
+192.168.1.2,2023-01-04 06:33:20,analyst,Firefox/84.0,/api/v1/products,GET,500,197,True
+192.168.1.3,2023-01-04 06:35:47,admin,Firefox/84.0,/api/v1/payments,PUT,401,484,True
+199.188.84.28,2023-01-04 06:41:38,deve1oper,Opera/73.0,/api/v1/orders,POST,200,491,False
+79.132.53.105,2023-01-04 06:42:20,aadmin,Edge/89.0,/api/v1/configuration,PUT,404,612,False
+169.171.250.115,2023-01-04 06:43:18,analyst,Safari,/api/v1/configuration,GET,303,609,False
+192.168.1.2,2023-01-04 06:47:38,admin,Edge/89.0,/api/v1/payments,PUT,200,328,True
+89.5.33.236,2023-01-04 06:48:21,analyst,Opera/73.0,/api/v1/dashboard,DELETE,304,213,False
+192.168.1.1,2023-01-04 06:51:04,developer,Chrome/87.0,/api/v1/orders,PUT,500,830,True
+124.53.180.231,2023-01-04 06:51:07,aadmin,Opera/73.0,/api/v1/inventory,GET,500,657,False
+192.168.1.2,2023-01-04 06:51:55,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,200,481,True
+192.168.1.2,2023-01-04 06:52:19,developer,Firefox/84.0,/api/v1/products,POST,304,462,True
+6.95.226.39,2023-01-04 07:01:50,devloper,Opera/73.0,/api/v1/inventory,PUT,200,556,False
+192.168.1.2,2023-01-04 07:05:58,analyst,Android/84.0,/api/v1/inventory,GET,500,634,True
+177.165.94.213,2023-01-04 07:06:48,develOper,Chrome/87.0,/api/v1/dashboard,POST,502,614,False
+37.34.22.172,2023-01-04 07:09:57,develOper,Opera/73.0,/api/v1/orders,GET,404,780,False
+77.85.42.191,2023-01-04 07:13:16,analyst,Safari,/api/v1/configuration,GET,502,659,False
+33.213.140.32,2023-01-04 07:14:08,develOper,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,303,178,False
+192.168.1.2,2023-01-04 07:26:42,developer,Android/84.0,/api/v1/inventory,POST,200,10,True
+192.168.1.2,2023-01-04 07:33:32,developer,Edge/89.0,/api/v1/products,GET,404,14,True
+203.251.68.244,2023-01-04 07:33:50,aadmin,Firefox/84.0,/api/v1/payments,GET,200,352,False
+26.39.253.68,2023-01-04 07:37:10,developer,Android/84.0,/api/v1/dashboard,POST,200,446,False
+192.168.1.1,2023-01-04 07:46:02,admin,Chrome/87.0,/api/v1/configuration,GET,200,406,True
+192.168.1.2,2023-01-04 07:52:12,developer,Android/84.0,/api/v1/inventory,GET,304,95,True
+162.159.238.232,2023-01-04 07:54:04,developer,Android/84.0,/api/v1/inventory,GET,200,741,False
+192.168.1.3,2023-01-04 07:57:44,admin,Chrome/87.0,/api/v1/payments,DELETE,404,979,True
+192.168.1.1,2023-01-04 07:59:17,analyst,Edge/89.0,/api/v1/products,GET,500,636,True
+192.168.1.2,2023-01-04 07:59:52,developer,Edge/89.0,/api/v1/orders,GET,303,2,True
+192.168.1.2,2023-01-04 08:01:49,admin,Edge/89.0,/api/v1/configuration,GET,404,469,True
+192.168.1.3,2023-01-04 08:03:30,developer,Safari,/api/v1/inventory,GET,200,288,True
+192.168.1.3,2023-01-04 08:04:38,developer,Firefox/84.0,/api/v1/orders,GET,401,841,True
+57.143.204.238,2023-01-04 08:05:03,analyzt,iPhone; CPU OS 12_4_9,/api/v1/dashboard,PUT,200,227,False
+163.87.87.82,2023-01-04 08:12:50,analyst,Firefox/84.0,/api/v1/payments,GET,200,896,False
+74.76.178.42,2023-01-04 08:14:11,aadmin,Android/84.0,/api/v1/orders,GET,502,805,False
+102.95.131.64,2023-01-04 08:14:17,aadmin,Firefox/84.0,/api/v1/products,POST,200,860,False
+139.37.14.52,2023-01-04 08:17:08,deve1oper,Edge/89.0,/api/v1/products,GET,304,322,False
+192.168.1.1,2023-01-04 08:19:09,admin,Opera/73.0,/api/v1/dashboard,POST,500,486,True
+122.58.118.166,2023-01-04 08:22:51,admiin,Firefox/84.0,/api/v1/payments,POST,502,976,False
+192.168.1.3,2023-01-04 08:24:29,developer,Safari,/api/v1/inventory,POST,303,690,True
+54.31.114.205,2023-01-04 08:35:26,aadmin,Android/84.0,/api/v1/dashboard,DELETE,200,109,False
+192.168.1.2,2023-01-04 08:40:03,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,502,946,True
+192.168.1.1,2023-01-04 08:53:08,admin,Safari,/api/v1/configuration,POST,304,403,True
+99.22.142.4,2023-01-04 08:55:07,devloper,Safari,/api/v1/configuration,DELETE,200,225,False
+161.198.195.248,2023-01-04 09:00:14,admiin,iPhone; CPU OS 12_4_9,/api/v1/products,DELETE,200,700,False
+192.168.1.2,2023-01-04 09:06:00,admin,Firefox/84.0,/api/v1/payments,POST,304,967,True
+111.50.243.210,2023-01-04 09:06:24,analyst,Edge/89.0,/api/v1/configuration,PUT,200,474,False
+33.250.110.182,2023-01-04 09:09:12,developer,Edge/89.0,/api/v1/configuration,DELETE,303,619,False
+192.168.1.2,2023-01-04 09:23:30,developer,Android/84.0,/api/v1/products,GET,403,483,True
+192.168.1.1,2023-01-04 09:24:30,analyst,Opera/73.0,/api/v1/orders,GET,200,289,True
+192.168.1.1,2023-01-04 09:25:20,analyst,Android/84.0,/api/v1/orders,GET,403,897,True
+192.168.1.3,2023-01-04 09:29:28,developer,Opera/73.0,/api/v1/orders,POST,303,883,True
+192.168.1.2,2023-01-04 09:31:00,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,403,808,True
+192.168.1.2,2023-01-04 09:36:56,analyst,Android/84.0,/api/v1/products,GET,200,400,True
+219.222.23.127,2023-01-04 09:42:46,develOper,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,401,792,False
+192.168.1.3,2023-01-04 09:44:09,analyst,Android/84.0,/api/v1/inventory,GET,200,54,True
+51.201.233.103,2023-01-04 09:48:08,analyst,Firefox/84.0,/api/v1/dashboard,POST,403,936,False
+192.168.1.1,2023-01-04 09:48:11,analyst,Edge/89.0,/api/v1/orders,GET,200,65,True
+19.150.129.71,2023-01-04 09:49:36,developer,Edge/89.0,/api/v1/orders,PUT,404,144,False
+192.168.1.1,2023-01-04 09:51:10,analyst,Chrome/87.0,/api/v1/products,GET,403,866,True
+192.168.1.3,2023-01-04 09:51:23,analyst,Safari,/api/v1/orders,GET,200,902,True
+192.168.1.3,2023-01-04 09:51:44,admin,Edge/89.0,/api/v1/configuration,POST,303,472,True
+192.168.1.3,2023-01-04 09:56:59,analyst,Edge/89.0,/api/v1/products,GET,200,94,True
+73.29.186.152,2023-01-04 09:57:58,aadmin,Opera/73.0,/api/v1/products,PUT,403,795,False
+192.168.1.2,2023-01-04 10:03:46,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,200,137,True
+4.141.150.249,2023-01-04 10:03:48,analyst,Chrome/87.0,/api/v1/payments,POST,303,577,False
+192.168.1.2,2023-01-04 10:09:26,admin,Android/84.0,/api/v1/configuration,PUT,304,788,True
+134.83.182.126,2023-01-04 10:11:26,devloper,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,200,503,False
+192.168.1.3,2023-01-04 10:13:07,admin,Safari,/api/v1/payments,DELETE,303,428,True
+192.168.1.2,2023-01-04 10:13:44,analyst,Firefox/84.0,/api/v1/products,GET,200,932,True
+199.141.162.98,2023-01-04 10:15:37,devloper,Chrome/87.0,/api/v1/dashboard,POST,401,983,False
+192.168.1.3,2023-01-04 10:18:55,analyst,Safari,/api/v1/orders,GET,304,297,True
+63.157.103.200,2023-01-04 10:20:51,analyst,Chrome/87.0,/api/v1/orders,PUT,200,700,False
+192.168.1.1,2023-01-04 10:23:32,admin,Edge/89.0,/api/v1/configuration,DELETE,502,746,True
+192.168.1.3,2023-01-04 10:23:46,analyst,Chrome/87.0,/api/v1/products,GET,200,430,True
+192.168.1.1,2023-01-04 10:24:16,developer,Safari,/api/v1/products,GET,200,432,True
+192.168.1.1,2023-01-04 10:25:07,analyst,Firefox/84.0,/api/v1/products,GET,200,127,True
+50.195.224.168,2023-01-04 10:26:23,aadmin,Safari,/api/v1/dashboard,PUT,404,448,False
+174.183.167.91,2023-01-04 10:27:48,devloper,Chrome/87.0,/api/v1/payments,PUT,200,316,False
+192.168.1.2,2023-01-04 10:33:24,analyst,Firefox/84.0,/api/v1/products,GET,401,114,True
+192.90.76.171,2023-01-04 10:34:49,aadmin,Opera/73.0,/api/v1/payments,PUT,404,129,False
+192.168.1.3,2023-01-04 10:43:18,admin,Safari,/api/v1/dashboard,GET,200,607,True
+40.63.16.242,2023-01-04 10:43:26,develOper,Opera/73.0,/api/v1/payments,DELETE,303,994,False
+192.168.1.2,2023-01-04 10:44:25,developer,Chrome/87.0,/api/v1/inventory,POST,200,89,True
+134.88.84.254,2023-01-04 10:47:41,analyst,Android/84.0,/api/v1/configuration,POST,200,576,False
+149.200.107.86,2023-01-04 10:48:32,developer,Edge/89.0,/api/v1/products,PUT,401,709,False
+116.40.235.198,2023-01-04 10:49:28,analyst,Firefox/84.0,/api/v1/dashboard,POST,401,717,False
+192.168.1.3,2023-01-04 10:49:46,developer,Firefox/84.0,/api/v1/inventory,PUT,200,877,True
+84.244.51.134,2023-01-04 10:50:08,developer,Edge/89.0,/api/v1/orders,POST,401,998,False
+94.218.202.107,2023-01-04 10:50:13,analyst,Chrome/87.0,/api/v1/configuration,GET,502,691,False
+120.10.116.126,2023-01-04 10:54:42,analyzt,Android/84.0,/api/v1/payments,POST,303,555,False
+192.168.1.3,2023-01-04 10:56:36,admin,Firefox/84.0,/api/v1/configuration,POST,502,580,True
+192.168.1.3,2023-01-04 10:57:55,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,GET,200,877,True
+192.168.1.3,2023-01-04 10:59:31,analyst,Edge/89.0,/api/v1/products,GET,401,79,True
+192.168.1.3,2023-01-04 10:59:44,admin,Android/84.0,/api/v1/configuration,GET,303,988,True
+192.168.1.1,2023-01-04 11:00:04,analyst,Edge/89.0,/api/v1/inventory,GET,304,8,True
+47.227.15.65,2023-01-04 11:06:38,devloper,Safari,/api/v1/orders,PUT,200,746,False
+192.168.1.3,2023-01-04 11:15:03,developer,Opera/73.0,/api/v1/inventory,GET,303,931,True
+192.168.1.2,2023-01-04 11:15:29,admin,Safari,/api/v1/configuration,POST,200,654,True
+192.168.1.1,2023-01-04 11:27:02,analyst,Chrome/87.0,/api/v1/orders,GET,404,792,True
+25.35.193.211,2023-01-04 11:30:42,analyzt,Safari,/api/v1/configuration,POST,304,230,False
+192.168.1.2,2023-01-04 11:35:45,developer,Opera/73.0,/api/v1/orders,PUT,403,539,True
+192.168.1.2,2023-01-04 11:37:09,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,303,109,True
+192.168.1.3,2023-01-04 11:37:18,analyst,Edge/89.0,/api/v1/products,GET,200,34,True
+8.19.17.126,2023-01-04 11:38:44,aadmin,Opera/73.0,/api/v1/configuration,GET,200,512,False
+88.32.141.37,2023-01-04 11:39:43,analyzt,Android/84.0,/api/v1/dashboard,POST,502,489,False
+8.188.116.72,2023-01-04 11:39:44,analyst,Edge/89.0,/api/v1/payments,POST,304,121,False
+192.168.1.2,2023-01-04 11:40:54,admin,Safari,/api/v1/dashboard,POST,403,892,True
+192.168.1.3,2023-01-04 11:42:29,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,PUT,200,495,True
+192.168.1.2,2023-01-04 11:43:18,admin,Chrome/87.0,/api/v1/configuration,POST,200,500,True
+192.168.1.1,2023-01-04 11:43:47,admin,Android/84.0,/api/v1/dashboard,POST,304,734,True
+192.168.1.2,2023-01-04 11:46:23,admin,Opera/73.0,/api/v1/configuration,POST,403,860,True
+150.230.44.14,2023-01-04 11:51:39,analyst,Opera/73.0,/api/v1/inventory,DELETE,403,386,False
+116.98.25.118,2023-01-04 11:54:38,aadmin,Android/84.0,/api/v1/configuration,POST,401,405,False
+192.168.1.2,2023-01-04 11:55:35,developer,Safari,/api/v1/orders,GET,403,660,True
+192.168.1.2,2023-01-04 11:56:06,admin,Edge/89.0,/api/v1/dashboard,POST,500,857,True
+192.168.1.1,2023-01-04 11:56:08,admin,Firefox/84.0,/api/v1/dashboard,DELETE,403,348,True
+57.43.57.172,2023-01-04 11:57:39,analyzt,Opera/73.0,/api/v1/orders,POST,303,908,False
+47.164.229.217,2023-01-04 11:59:54,devloper,Firefox/84.0,/api/v1/payments,GET,502,920,False
+108.242.24.116,2023-01-04 12:03:12,analyzt,Android/84.0,/api/v1/payments,POST,200,403,False
+192.168.1.1,2023-01-04 12:05:58,admin,Firefox/84.0,/api/v1/payments,PUT,404,320,True
+141.233.243.75,2023-01-04 12:10:18,devloper,Edge/89.0,/api/v1/orders,PUT,403,77,False
+192.168.1.1,2023-01-04 12:12:28,analyst,Android/84.0,/api/v1/products,GET,500,208,True
+192.168.1.2,2023-01-04 12:17:19,developer,Edge/89.0,/api/v1/products,GET,200,50,True
+192.168.1.3,2023-01-04 12:19:09,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,200,661,True
+152.112.34.227,2023-01-04 12:19:24,admiin,Android/84.0,/api/v1/configuration,POST,200,562,False
+192.168.1.3,2023-01-04 12:19:48,admin,Android/84.0,/api/v1/payments,PUT,200,441,True
+192.168.1.2,2023-01-04 12:21:52,admin,Chrome/87.0,/api/v1/dashboard,DELETE,403,37,True
+73.1.77.45,2023-01-04 12:22:28,analyzt,Opera/73.0,/api/v1/orders,POST,303,272,False
+192.168.1.2,2023-01-04 12:34:27,admin,Chrome/87.0,/api/v1/configuration,DELETE,500,887,True
+192.168.1.2,2023-01-04 12:34:43,analyst,Safari,/api/v1/products,GET,404,887,True
+192.168.1.2,2023-01-04 12:35:31,analyst,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,403,681,True
+192.168.1.3,2023-01-04 12:41:02,developer,Chrome/87.0,/api/v1/inventory,GET,401,209,True
+192.168.1.2,2023-01-04 12:41:10,developer,Safari,/api/v1/products,GET,303,533,True
+192.168.1.1,2023-01-04 12:43:13,admin,Edge/89.0,/api/v1/configuration,GET,303,569,True
+192.168.1.2,2023-01-04 12:44:32,analyst,Chrome/87.0,/api/v1/inventory,GET,403,136,True
+51.117.145.166,2023-01-04 12:47:54,develOper,Opera/73.0,/api/v1/payments,DELETE,401,143,False
+203.219.100.114,2023-01-04 12:50:20,aadmin,Chrome/87.0,/api/v1/dashboard,PUT,500,286,False
+194.218.26.99,2023-01-04 12:53:36,admiin,Edge/89.0,/api/v1/products,GET,500,363,False
+192.168.1.1,2023-01-04 12:56:06,developer,Firefox/84.0,/api/v1/orders,GET,303,987,True
+192.168.1.3,2023-01-04 12:57:21,admin,Chrome/87.0,/api/v1/dashboard,DELETE,200,104,True
+192.168.1.2,2023-01-04 12:59:10,developer,Safari,/api/v1/products,POST,200,213,True
+192.168.1.2,2023-01-04 13:00:44,developer,Android/84.0,/api/v1/orders,PUT,500,23,True
+177.184.128.87,2023-01-04 13:13:35,analyst,Safari,/api/v1/payments,PUT,404,528,False
+207.249.138.155,2023-01-04 13:13:42,analyst,Android/84.0,/api/v1/configuration,PUT,401,338,False
+192.168.1.3,2023-01-04 13:18:29,developer,Firefox/84.0,/api/v1/orders,POST,200,290,True
+192.168.1.3,2023-01-04 13:20:50,analyst,Opera/73.0,/api/v1/products,GET,401,799,True
+192.168.1.1,2023-01-04 13:27:44,analyst,Firefox/84.0,/api/v1/products,GET,303,499,True
+192.168.1.2,2023-01-04 13:29:56,developer,Edge/89.0,/api/v1/inventory,PUT,404,501,True
+192.168.1.3,2023-01-04 13:32:44,admin,Chrome/87.0,/api/v1/dashboard,POST,200,544,True
+192.168.1.3,2023-01-04 13:39:20,analyst,Firefox/84.0,/api/v1/products,GET,401,834,True
+192.168.1.2,2023-01-04 13:50:48,developer,Firefox/84.0,/api/v1/orders,POST,404,433,True
+217.18.24.46,2023-01-04 13:52:44,develOper,Opera/73.0,/api/v1/payments,PUT,401,196,False
+192.168.1.1,2023-01-04 13:52:44,admin,Safari,/api/v1/dashboard,POST,502,76,True
+192.168.1.3,2023-01-04 13:53:07,developer,Android/84.0,/api/v1/inventory,POST,200,371,True
+87.216.185.112,2023-01-04 13:54:49,deve1oper,Edge/89.0,/api/v1/payments,DELETE,200,508,False
+192.168.1.3,2023-01-04 13:58:35,developer,Chrome/87.0,/api/v1/inventory,POST,404,341,True
+105.64.213.118,2023-01-04 13:58:39,analyst,Android/84.0,/api/v1/inventory,PUT,200,555,False
+24.19.42.9,2023-01-04 13:59:57,developer,Edge/89.0,/api/v1/payments,DELETE,200,197,False
+192.168.1.1,2023-01-04 14:00:20,admin,Edge/89.0,/api/v1/configuration,DELETE,200,719,True
+192.168.1.2,2023-01-04 14:00:44,admin,Chrome/87.0,/api/v1/configuration,PUT,200,637,True
+196.232.221.104,2023-01-04 14:01:02,analyst,Firefox/84.0,/api/v1/payments,POST,304,194,False
+192.168.1.2,2023-01-04 14:01:43,admin,Opera/73.0,/api/v1/dashboard,PUT,200,696,True
+192.168.1.2,2023-01-04 14:02:20,admin,Chrome/87.0,/api/v1/configuration,GET,303,430,True
+192.168.1.3,2023-01-04 14:04:32,admin,Android/84.0,/api/v1/dashboard,PUT,304,654,True
+192.168.1.3,2023-01-04 14:05:42,developer,Edge/89.0,/api/v1/products,GET,200,197,True
+65.57.85.120,2023-01-04 14:05:57,analyzt,Chrome/87.0,/api/v1/products,PUT,401,166,False
+192.168.1.1,2023-01-04 14:08:23,developer,Edge/89.0,/api/v1/products,PUT,401,372,True
+192.168.1.1,2023-01-04 14:11:06,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,PUT,200,966,True
+192.168.1.2,2023-01-04 14:12:30,developer,iPhone; CPU OS 12_4_9,/api/v1/products,PUT,404,308,True
+192.168.1.3,2023-01-04 14:22:36,developer,Firefox/84.0,/api/v1/orders,POST,303,810,True
+192.168.1.2,2023-01-04 14:25:28,developer,Edge/89.0,/api/v1/products,PUT,401,903,True
+192.168.1.2,2023-01-04 14:25:42,admin,Safari,/api/v1/payments,POST,304,357,True
+192.168.1.2,2023-01-04 14:30:59,developer,Opera/73.0,/api/v1/inventory,POST,200,980,True
+175.195.183.80,2023-01-04 14:31:16,analyzt,Firefox/84.0,/api/v1/payments,DELETE,200,932,False
+192.168.1.3,2023-01-04 14:37:20,analyst,Opera/73.0,/api/v1/orders,GET,200,896,True
+218.160.80.110,2023-01-04 14:38:02,develOper,Edge/89.0,/api/v1/payments,DELETE,303,331,False
+71.168.6.66,2023-01-04 14:38:34,develOper,Chrome/87.0,/api/v1/payments,GET,403,385,False
+174.201.253.93,2023-01-04 14:41:40,admiin,Android/84.0,/api/v1/configuration,DELETE,303,613,False
+91.90.211.195,2023-01-04 14:43:01,admiin,Safari,/api/v1/configuration,GET,200,750,False
+142.203.236.153,2023-01-04 14:43:59,aadmin,Safari,/api/v1/inventory,GET,500,477,False
+197.103.212.0,2023-01-04 14:45:08,aadmin,Android/84.0,/api/v1/configuration,PUT,200,721,False
+192.168.1.1,2023-01-04 14:45:27,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,POST,303,18,True
+192.168.1.2,2023-01-04 14:48:11,analyst,Android/84.0,/api/v1/products,GET,304,43,True
+192.168.1.3,2023-01-04 14:48:15,analyst,Edge/89.0,/api/v1/products,GET,404,98,True
+192.168.1.1,2023-01-04 14:52:00,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,POST,200,63,True
+192.168.1.2,2023-01-04 15:03:00,developer,Chrome/87.0,/api/v1/orders,GET,500,431,True
+185.188.135.166,2023-01-04 15:04:24,analyzt,Firefox/84.0,/api/v1/dashboard,PUT,502,443,False
+192.168.1.2,2023-01-04 15:11:19,developer,Edge/89.0,/api/v1/products,PUT,404,816,True
+192.168.1.3,2023-01-04 15:11:29,developer,Edge/89.0,/api/v1/inventory,POST,502,815,True
+192.168.1.1,2023-01-04 15:19:20,developer,Android/84.0,/api/v1/inventory,POST,303,288,True
+146.95.238.183,2023-01-04 15:19:38,analyst,Safari,/api/v1/dashboard,PUT,502,781,False
+71.33.146.145,2023-01-04 15:20:11,analyzt,Android/84.0,/api/v1/configuration,POST,200,608,False
+192.168.1.3,2023-01-04 15:20:30,admin,Firefox/84.0,/api/v1/payments,DELETE,500,78,True
+192.168.1.2,2023-01-04 15:23:13,admin,Opera/73.0,/api/v1/payments,DELETE,500,584,True
+192.168.1.3,2023-01-04 15:32:28,developer,Android/84.0,/api/v1/orders,GET,404,940,True
+192.168.1.1,2023-01-04 15:38:05,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,POST,404,492,True
+112.19.96.95,2023-01-04 15:49:36,deve1oper,Firefox/84.0,/api/v1/payments,DELETE,404,414,False
+78.218.71.119,2023-01-04 15:52:57,analyst,Android/84.0,/api/v1/dashboard,GET,500,985,False
+193.48.54.98,2023-01-04 15:54:31,analyst,Safari,/api/v1/configuration,GET,403,296,False
+192.168.1.3,2023-01-04 15:56:13,developer,Firefox/84.0,/api/v1/products,GET,303,689,True
+192.168.1.2,2023-01-04 15:57:10,analyst,Edge/89.0,/api/v1/inventory,GET,500,851,True
+192.168.1.2,2023-01-04 15:58:02,analyst,Safari,/api/v1/products,GET,303,161,True
+192.168.1.3,2023-01-04 15:59:22,admin,Firefox/84.0,/api/v1/dashboard,DELETE,401,505,True
+192.168.1.2,2023-01-04 16:01:51,analyst,Android/84.0,/api/v1/payments,DELETE,403,423,False
+73.26.141.33,2023-01-04 16:02:21,aadmin,Safari,/api/v1/dashboard,GET,404,65,False
+208.83.114.78,2023-01-04 16:02:44,devloper,Edge/89.0,/api/v1/orders,GET,200,812,False
+192.168.1.2,2023-01-04 16:03:13,analyst,Firefox/84.0,/api/v1/products,GET,200,227,True
+192.168.1.1,2023-01-04 16:03:50,analyst,Opera/73.0,/api/v1/orders,GET,200,138,True
+192.168.1.1,2023-01-04 16:09:25,admin,Android/84.0,/api/v1/dashboard,PUT,404,396,True
+80.132.132.151,2023-01-04 16:13:06,devloper,Safari,/api/v1/payments,DELETE,200,186,False
+192.168.1.2,2023-01-04 16:13:27,developer,Android/84.0,/api/v1/products,GET,200,718,True
+192.168.1.2,2023-01-04 16:14:05,developer,Edge/89.0,/api/v1/orders,PUT,500,898,True
+6.101.125.43,2023-01-04 16:16:01,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,POST,304,798,False
+101.143.54.196,2023-01-04 16:16:38,admiin,Opera/73.0,/api/v1/inventory,PUT,403,374,False
+190.23.166.35,2023-01-04 16:18:34,analyst,Edge/89.0,/api/v1/dashboard,POST,200,332,False
+192.168.1.1,2023-01-04 16:22:23,analyst,Opera/73.0,/api/v1/products,GET,200,676,True
+192.168.1.1,2023-01-04 16:22:55,admin,Safari,/api/v1/payments,DELETE,404,854,True
+144.107.73.59,2023-01-04 16:29:10,aadmin,Opera/73.0,/api/v1/payments,PUT,403,866,False
+192.168.1.3,2023-01-04 16:33:07,admin,Chrome/87.0,/api/v1/configuration,POST,200,430,True
+192.168.1.3,2023-01-04 16:33:56,admin,Edge/89.0,/api/v1/configuration,GET,403,639,True
+29.85.105.113,2023-01-04 16:35:27,admiin,Edge/89.0,/api/v1/payments,PUT,403,237,False
+170.234.113.225,2023-01-04 16:43:44,devloper,Firefox/84.0,/api/v1/configuration,GET,502,239,False
+4.15.103.160,2023-01-04 16:44:05,analyzt,Firefox/84.0,/api/v1/configuration,GET,404,118,False
+9.138.206.107,2023-01-04 16:45:11,admiin,Chrome/87.0,/api/v1/dashboard,GET,304,766,False
+82.241.107.91,2023-01-04 16:49:02,develOper,Opera/73.0,/api/v1/configuration,PUT,401,4,False
+192.168.1.3,2023-01-04 16:56:58,admin,Chrome/87.0,/api/v1/configuration,PUT,401,50,True
+192.168.1.2,2023-01-04 16:57:40,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,PUT,200,255,True
+118.41.154.62,2023-01-04 16:59:23,admiin,Chrome/87.0,/api/v1/configuration,PUT,401,257,False
+192.168.1.2,2023-01-04 17:00:04,admin,Safari,/api/v1/configuration,DELETE,303,995,True
+192.168.1.2,2023-01-04 17:06:31,admin,Android/84.0,/api/v1/dashboard,DELETE,304,666,True
+192.168.1.3,2023-01-04 17:09:42,analyst,Firefox/84.0,/api/v1/orders,GET,401,496,True
+192.168.1.1,2023-01-04 17:14:10,analyst,Chrome/87.0,/api/v1/orders,GET,200,546,True
+192.168.1.2,2023-01-04 17:20:53,developer,Chrome/87.0,/api/v1/inventory,PUT,403,138,True
+57.91.172.39,2023-01-04 17:24:23,admiin,Opera/73.0,/api/v1/products,PUT,500,734,False
+192.168.1.3,2023-01-04 17:25:43,developer,Opera/73.0,/api/v1/inventory,POST,404,12,True
+192.168.1.2,2023-01-04 17:29:41,developer,Firefox/84.0,/api/v1/products,PUT,200,429,True
+192.168.1.3,2023-01-04 17:30:31,analyst,Firefox/84.0,/api/v1/products,GET,200,508,True
+150.7.235.82,2023-01-04 17:32:41,analyst,Firefox/84.0,/api/v1/products,POST,304,511,False
+192.168.1.1,2023-01-04 17:35:39,analyst,Android/84.0,/api/v1/orders,GET,403,207,True
+73.190.136.194,2023-01-04 17:35:58,deve1oper,Android/84.0,/api/v1/dashboard,GET,200,335,False
+65.73.111.73,2023-01-04 17:36:27,developer,iPhone; CPU OS 12_4_9,/api/v1/dashboard,GET,500,136,False
+192.168.1.3,2023-01-04 17:36:43,developer,Opera/73.0,/api/v1/orders,PUT,200,232,True
+192.168.1.3,2023-01-04 17:36:44,developer,Android/84.0,/api/v1/products,PUT,404,865,True
+132.59.102.121,2023-01-04 17:37:30,aadmin,Opera/73.0,/api/v1/dashboard,GET,304,533,False
+105.189.148.23,2023-01-04 17:37:46,devloper,Edge/89.0,/api/v1/inventory,PUT,200,700,False
+206.17.150.204,2023-01-04 17:41:27,aadmin,Safari,/api/v1/orders,GET,403,896,False
+192.168.1.3,2023-01-04 17:45:13,developer,Chrome/87.0,/api/v1/orders,PUT,500,934,True
+212.41.8.119,2023-01-04 17:49:43,developer,Chrome/87.0,/api/v1/dashboard,POST,200,222,False
+160.111.99.202,2023-01-04 17:50:48,deve1oper,Android/84.0,/api/v1/payments,PUT,200,421,False
+192.168.1.3,2023-01-04 17:55:13,analyst,Edge/89.0,/api/v1/orders,GET,502,603,True
+192.168.1.2,2023-01-04 17:57:27,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,POST,304,284,True
+203.62.130.227,2023-01-04 18:01:12,admiin,Opera/73.0,/api/v1/payments,POST,303,715,False
+8.245.37.211,2023-01-04 18:03:03,develOper,Edge/89.0,/api/v1/products,POST,200,694,False
+192.168.1.2,2023-01-04 18:05:25,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,DELETE,401,545,True
+196.81.170.57,2023-01-04 18:06:54,admiin,Safari,/api/v1/payments,POST,403,941,False
+2.28.118.180,2023-01-04 18:11:21,analyzt,Chrome/87.0,/api/v1/configuration,PUT,403,508,False
+80.231.110.218,2023-01-04 18:13:40,analyst,Opera/73.0,/api/v1/products,PUT,200,756,False
+192.168.1.3,2023-01-04 18:14:26,admin,Edge/89.0,/api/v1/configuration,GET,403,112,True
+85.14.158.150,2023-01-04 18:17:53,admiin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,POST,304,702,False
+124.46.207.14,2023-01-04 18:18:55,devloper,Safari,/api/v1/products,PUT,404,756,False
+192.168.1.2,2023-01-04 18:19:09,developer,Opera/73.0,/api/v1/inventory,GET,304,727,True
+141.166.250.56,2023-01-04 18:23:24,analyst,Firefox/84.0,/api/v1/payments,PUT,403,730,False
+192.168.1.1,2023-01-04 18:27:03,analyst,Opera/73.0,/api/v1/products,GET,500,126,True
+73.38.138.200,2023-01-04 18:32:30,analyst,Edge/89.0,/api/v1/products,DELETE,403,969,False
+192.168.1.2,2023-01-04 18:36:31,analyst,Firefox/84.0,/api/v1/products,GET,403,277,True
+192.168.1.1,2023-01-04 18:38:24,developer,Safari,/api/v1/products,GET,403,917,True
+223.134.244.31,2023-01-04 18:40:06,develOper,Edge/89.0,/api/v1/payments,DELETE,304,42,False
+164.226.135.164,2023-01-04 18:43:52,deve1oper,Safari,/api/v1/payments,PUT,200,114,False
+108.186.152.215,2023-01-04 18:50:17,analyzt,Safari,/api/v1/configuration,GET,200,548,False
+85.221.0.219,2023-01-04 18:50:25,aadmin,Safari,/api/v1/configuration,GET,200,870,False
+156.105.168.197,2023-01-04 18:50:33,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/dashboard,POST,200,95,False
+192.168.1.2,2023-01-04 18:51:25,analyst,Edge/89.0,/api/v1/products,GET,200,979,True
+15.151.244.76,2023-01-04 18:52:24,developer,Edge/89.0,/api/v1/products,DELETE,200,828,False
+192.168.1.1,2023-01-04 18:53:37,analyst,Edge/89.0,/api/v1/inventory,GET,502,133,True
+108.189.22.25,2023-01-04 18:55:13,analyst,Edge/89.0,/api/v1/dashboard,DELETE,303,436,False
+188.32.17.114,2023-01-04 18:55:40,develOper,Opera/73.0,/api/v1/configuration,POST,303,700,False
+192.168.1.1,2023-01-04 18:56:02,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,POST,401,631,True
+67.193.139.199,2023-01-04 18:56:20,develOper,Firefox/84.0,/api/v1/dashboard,GET,200,924,False
+192.168.1.3,2023-01-04 18:59:29,admin,Safari,/api/v1/configuration,GET,303,975,True
+92.225.85.14,2023-01-04 19:00:34,admiin,Opera/73.0,/api/v1/payments,GET,200,429,False
+192.168.1.2,2023-01-04 19:13:45,developer,Android/84.0,/api/v1/products,GET,401,508,True
+95.2.179.238,2023-01-04 19:14:17,analyzt,Opera/73.0,/api/v1/payments,GET,401,523,False
+192.168.1.2,2023-01-04 19:14:55,admin,Opera/73.0,/api/v1/payments,DELETE,502,438,True
+192.168.1.1,2023-01-04 19:16:09,developer,Opera/73.0,/api/v1/products,PUT,303,609,True
+195.244.149.238,2023-01-04 19:17:30,analyst,Firefox/84.0,/api/v1/payments,GET,303,562,False
+192.168.1.1,2023-01-04 19:19:10,developer,Edge/89.0,/api/v1/products,PUT,200,412,True
+192.168.1.3,2023-01-04 19:21:37,analyst,iPhone; CPU OS 12_4_9,/api/v1/products,GET,303,150,True
+192.168.1.3,2023-01-04 19:30:31,developer,Safari,/api/v1/products,GET,304,987,True
+154.193.73.226,2023-01-04 19:35:43,developer,Safari,/api/v1/payments,DELETE,401,709,False
+59.212.10.168,2023-01-04 19:41:03,analyst,Opera/73.0,/api/v1/payments,GET,200,247,False
+192.168.1.1,2023-01-04 19:42:00,developer,Edge/89.0,/api/v1/inventory,POST,401,456,True
+192.168.1.1,2023-01-04 19:42:22,admin,Edge/89.0,/api/v1/payments,DELETE,500,169,True
+14.118.43.168,2023-01-04 19:43:37,analyst,Chrome/87.0,/api/v1/configuration,PUT,200,363,False
+192.168.1.1,2023-01-04 19:47:47,developer,Safari,/api/v1/inventory,PUT,401,6,True
+192.168.1.1,2023-01-04 19:49:04,developer,Safari,/api/v1/inventory,PUT,304,877,True
+192.168.1.2,2023-01-04 19:49:43,admin,Edge/89.0,/api/v1/dashboard,PUT,304,160,True
+192.168.1.1,2023-01-04 19:50:29,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,POST,500,885,True
+120.80.222.51,2023-01-04 19:54:44,analyst,Chrome/87.0,/api/v1/dashboard,GET,200,447,False
+192.168.1.2,2023-01-04 19:55:58,developer,Edge/89.0,/api/v1/orders,GET,303,508,True
+63.164.98.153,2023-01-04 19:58:12,admiin,iPhone; CPU OS 12_4_9,/api/v1/payments,DELETE,200,631,False
+15.170.80.233,2023-01-04 20:02:43,deve1oper,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,404,935,False
+192.168.1.3,2023-01-04 20:04:53,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,200,431,True
+44.17.84.109,2023-01-04 20:06:22,develOper,Safari,/api/v1/products,GET,304,479,False
+192.141.192.51,2023-01-04 20:11:08,developer,Edge/89.0,/api/v1/dashboard,GET,200,595,False
+192.168.1.3,2023-01-04 20:22:25,admin,Edge/89.0,/api/v1/dashboard,DELETE,303,946,True
+192.168.1.3,2023-01-04 20:26:25,analyst,Opera/73.0,/api/v1/orders,GET,401,475,True
+192.168.1.1,2023-01-04 20:28:47,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,PUT,200,865,True
+192.168.1.1,2023-01-04 20:30:02,analyst,iPhone; CPU OS 12_4_9,/api/v1/orders,GET,401,695,True
+192.168.1.1,2023-01-04 20:30:36,analyst,Firefox/84.0,/api/v1/products,GET,200,610,True
+192.168.1.2,2023-01-04 20:31:54,analyst,Firefox/84.0,/api/v1/products,GET,502,409,True
+53.85.106.36,2023-01-04 20:35:55,deve1oper,Safari,/api/v1/configuration,POST,502,234,False
+192.168.1.1,2023-01-04 20:40:27,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,PUT,200,611,True
+192.168.1.3,2023-01-04 20:43:24,developer,Opera/73.0,/api/v1/orders,GET,403,619,True
+109.65.133.241,2023-01-04 20:50:55,deve1oper,Android/84.0,/api/v1/payments,PUT,502,344,False
+204.180.97.109,2023-01-04 20:54:57,developer,Safari,/api/v1/inventory,GET,200,902,False
+192.168.1.2,2023-01-04 21:04:25,analyst,Opera/73.0,/api/v1/orders,GET,303,586,True
+36.98.210.170,2023-01-04 21:19:08,developer,Edge/89.0,/api/v1/payments,POST,200,979,False
+145.179.154.30,2023-01-04 21:20:00,deve1oper,Firefox/84.0,/api/v1/payments,PUT,200,846,False
+91.155.211.211,2023-01-04 21:22:42,devloper,Safari,/api/v1/orders,POST,404,303,False
+192.168.1.2,2023-01-04 21:33:48,analyst,Safari,/api/v1/orders,GET,200,573,True
+192.168.1.3,2023-01-04 21:41:11,admin,iPhone; CPU OS 12_4_9,/api/v1/configuration,POST,401,215,True
+221.225.168.132,2023-01-04 21:41:31,develOper,Android/84.0,/api/v1/products,GET,200,984,False
+192.168.1.2,2023-01-04 21:43:14,analyst,Opera/73.0,/api/v1/products,GET,304,847,True
+12.77.175.72,2023-01-04 21:47:50,admiin,Chrome/87.0,/api/v1/payments,PUT,304,154,False
+63.115.248.251,2023-01-04 21:49:58,analyst,Android/84.0,/api/v1/products,POST,502,480,False
+204.190.132.102,2023-01-04 21:53:56,deve1oper,Android/84.0,/api/v1/dashboard,POST,200,823,False
+192.168.1.3,2023-01-04 22:01:16,admin,Opera/73.0,/api/v1/dashboard,PUT,502,492,True
+192.168.1.2,2023-01-04 22:02:23,developer,Firefox/84.0,/api/v1/products,GET,502,933,True
+167.13.146.26,2023-01-04 22:21:09,develOper,Safari,/api/v1/dashboard,DELETE,200,742,False
+215.15.233.225,2023-01-04 22:22:20,analyst,Opera/73.0,/api/v1/payments,POST,200,685,False
+192.168.1.2,2023-01-04 22:22:38,admin,Opera/73.0,/api/v1/dashboard,DELETE,303,332,True
+192.168.1.1,2023-01-04 22:23:14,developer,iPhone; CPU OS 12_4_9,/api/v1/inventory,GET,404,585,True
+114.32.201.105,2023-01-04 22:27:45,analyst,Firefox/84.0,/api/v1/products,GET,502,646,False
+90.16.217.252,2023-01-04 22:30:30,admiin,Chrome/87.0,/api/v1/orders,PUT,500,698,False
+192.168.1.1,2023-01-04 22:32:13,admiin,Opera/73.0,/api/v1/payments,GET,200,700,False
+192.168.1.2,2023-01-04 22:33:00,admin,Opera/73.0,/api/v1/dashboard,POST,200,59,True
+76.167.229.17,2023-01-04 22:36:36,deve1oper,Opera/73.0,/api/v1/inventory,DELETE,403,656,False
+192.168.1.2,2023-01-04 22:38:45,analyst,Opera/73.0,/api/v1/inventory,GET,401,778,True
+192.168.1.3,2023-01-04 22:38:59,analyst,Firefox/84.0,/api/v1/inventory,GET,303,54,True
+192.168.1.1,2023-01-04 22:53:21,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,401,530,True
+192.168.1.3,2023-01-04 22:55:06,admin,Safari,/api/v1/configuration,DELETE,200,371,True
+215.165.135.84,2023-01-04 22:55:17,developer,Firefox/84.0,/api/v1/configuration,POST,502,531,False
+192.168.1.3,2023-01-04 23:01:52,admin,iPhone; CPU OS 12_4_9,/api/v1/payments,POST,403,293,True
+192.168.1.3,2023-01-04 23:05:58,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,PUT,500,975,True
+192.168.1.1,2023-01-04 23:07:18,developer,Firefox/84.0,/api/v1/inventory,GET,200,551,True
+207.245.115.45,2023-01-04 23:08:44,deve1oper,Safari,/api/v1/configuration,GET,200,42,False
+192.168.1.1,2023-01-04 23:10:30,admin,Opera/73.0,/api/v1/configuration,POST,200,95,True
+192.168.1.1,2023-01-04 23:12:52,developer,Safari,/api/v1/orders,POST,500,214,True
+192.168.1.1,2023-01-04 23:13:24,admin,Opera/73.0,/api/v1/payments,GET,200,170,True
+192.168.1.1,2023-01-04 23:15:41,developer,iPhone; CPU OS 12_4_9,/api/v1/products,GET,200,167,True
+95.158.29.80,2023-01-04 23:18:02,develOper,Chrome/87.0,/api/v1/products,GET,200,857,False
+192.168.1.2,2023-01-04 23:19:39,admin,iPhone; CPU OS 12_4_9,/api/v1/dashboard,PUT,200,855,True
+192.168.1.1,2023-01-04 23:19:40,admin,Edge/89.0,/api/v1/payments,POST,500,967,True
+192.168.1.1,2023-01-04 23:22:55,admin,Edge/89.0,/api/v1/dashboard,POST,303,132,True
+70.78.212.48,2023-01-04 23:23:33,admiin,Android/84.0,/api/v1/configuration,POST,200,900,False
+150.146.68.43,2023-01-04 23:26:48,admiin,Android/84.0,/api/v1/configuration,POST,403,811,False
+115.185.234.172,2023-01-04 23:27:13,aadmin,Firefox/84.0,/api/v1/inventory,GET,200,288,False
+101.89.227.182,2023-01-04 23:30:55,develOper,Edge/89.0,/api/v1/dashboard,PUT,200,884,False
+192.168.1.3,2023-01-04 23:31:50,analyst,Safari,/api/v1/orders,GET,500,644,True
+203.123.217.128,2023-01-04 23:37:20,analyst,Chrome/87.0,/api/v1/payments,DELETE,502,323,False
+192.168.1.1,2023-01-04 23:37:29,developer,iPhone; CPU OS 12_4_9,/api/v1/orders,PUT,404,443,True
+73.89.117.174,2023-01-04 23:37:51,deve1oper,Android/84.0,/api/v1/inventory,PUT,403,305,False
+216.250.29.82,2023-01-04 23:39:56,develOper,iPhone; CPU OS 12_4_9,/api/v1/dashboard,DELETE,502,925,False
+192.168.1.2,2023-01-04 23:45:09,admin,Safari,/api/v1/dashboard,PUT,200,299,True
+177.80.240.244,2023-01-04 23:49:30,developer,Edge/89.0,/api/v1/payments,PUT,200,712,False
+192.168.1.3,2023-01-04 23:52:05,analyst,Chrome/87.0,/api/v1/products,GET,200,917,True
+192.168.1.3,2023-01-04 23:52:28,analyst,Opera/73.0,/api/v1/orders,GET,200,829,True
+192.168.1.1,2023-01-04 23:58:39,developer,Chrome/87.0,/api/v1/products,PUT,200,505,True
+192.168.1.2,2023-01-04 23:59:02,developer,Android/84.0,/api/v1/orders,PUT,200,205,True

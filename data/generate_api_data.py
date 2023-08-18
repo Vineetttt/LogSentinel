@@ -46,14 +46,14 @@ dictionary = {
         ],
 }
 
-csv_file_path = 'data/data.csv'
+csv_file_path = 'data/api.csv'
 start_date = datetime(2023, 1, 1)
 end_date = datetime(2023, 1, 5)
 
 data = []
 
-for _ in range(1, 10001):
-    compliant = [True] * 90 + [False] * 10
+for _ in range(1, 2001):
+    compliant = [True] * 55 + [False] * 45
     compliant_choice = random.choice(compliant)
     time_stamp = generate_random_timestamp(start_date, end_date)
     ua = random.choice(dictionary['ua'])
