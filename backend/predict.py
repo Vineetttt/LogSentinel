@@ -57,10 +57,14 @@ def predict_csv():
             y_pred = np.argmax(predictions.predictions, axis=1)
             df['predicted'] = y_pred
 
+            new = pd.DataFrame()
+            new['Entry'] = df['entry']
+            new['Compliant'] = df['predicted']
+
             filtered_rows = df[df['predicted'] == 0].to_dict(orient='records')
             count = len(filtered_rows)
 
-            return jsonify({'filtered_rows': filtered_rows, "count": count})
+            return jsonify({'filtered_rows': new.to_dict(orient='records'), "count": count})
 
         else:
             return jsonify({'error': 'Error generating prompted data'})
