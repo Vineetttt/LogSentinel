@@ -1,3 +1,4 @@
+from io import StringIO
 import streamlit as st
 import pandas as pd
 import seaborn as sns
@@ -11,7 +12,7 @@ def load_dashboard():
     st.title("Analytics Dashboard")
 
     # Upload CSV file for analysis
-    uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
+    uploaded_file = st.file_uploader("Upload a CSV file", type=["csv","txt"])
 
     if uploaded_file:
         st.subheader("Uploaded Data")

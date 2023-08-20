@@ -1,7 +1,9 @@
+from io import BytesIO, StringIO
+import tempfile
+import pdftables_api
 import streamlit as st
 import requests
 import pandas as pd
-import plotly.graph_objects as go
 
 def highlight(s):
     return ['background-color:rgba(0, 255, 0, 0.1)']*len(s) if s.Compliant else ['background-color: rgba(255,0,0, 0.1)']*len(s)
@@ -11,7 +13,7 @@ def load_home_page():
     st.subheader("Base Model: Distilbert-Base-Uncased")
 
     # Upload CSV file
-    uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
+    uploaded_file = st.file_uploader("Upload a CSV file", type=["csv","txt"])
 
     # Upload rules from a text file
     rules_file = st.file_uploader("Upload a text file containing rules", type=["txt"])
@@ -22,7 +24,12 @@ def load_home_page():
     
     if st.button("Predict"):
         if uploaded_file:
-            st.write("Predicting...")
+            if uploaded_file.type == "text/plain":
+                df = pd.read_csv(StringIO(uploaded_file.read().decode('utf-8')), sep='\t')
+                converted_file_content = df.to_csv(index=False)
+                uploaded_file = converted_file_content
+
+            st.write("Please wait while our model scans your logs for potential threats...")
 
             # Prepare file data to be sent to the API
             files = {'file': uploaded_file}
@@ -39,8 +46,9 @@ def load_home_page():
 
                 # Display results
                 st.warning(f"There are {count} non-compliant entries in your dataset")
+                st.write("After analyzing the logs you provided along with the set of compliance rules our fine-tuned LLM predicts that the following users highlighted in red are non-compliant and can be potential threats to your organization")
                 st.write("Please visit the analytics section to gain deeper insights")
-                st.subheader("Analysis:")
+                st.subheader("Model Predictions:")
 
                 # Create a DataFrame
                 df = pd.DataFrame(original_rows)

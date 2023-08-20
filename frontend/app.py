@@ -1,13 +1,13 @@
 import streamlit as st
 import pandas as pd
-from home import load_home_page
+from predict import load_home_page
 from dashboard import load_dashboard
 from about_us import load_about
 import streamlit_authenticator as stauth
 import pickle
 from pathlib import Path
 
-st.set_page_config(page_title="Compliance Monitoring", page_icon="🕵️‍♂️", layout="wide")
+st.set_page_config(page_title="Compliance Monitoring", page_icon="🕵️‍♂️")
 
 names = ['Vineet Chotaliya','Test User']
 usernames = ['vineet','test@123']
