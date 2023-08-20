@@ -6,6 +6,15 @@ def load_about():
     st.header("Description")
     st.markdown("The Compliance Monitoring and Log Analysis Platform is an innovative solution designed to empower businesses with the ability to ensure compliance, detect potential threats, and gain deep insights from their log data. This platform leverages cutting-edge technologies, including large language models and data analytics, to provide a comprehensive approach to log analysis and security monitoring.")
     
+    st.header("Key Features")
+    st.markdown("• Fine-tuned open source DistilBERT LLM for performing RTE based on the set of rules provided along with the log data.")
+    st.markdown("• Ability of the system to handle various input formats (txt,csv) for log data and rules.")
+    st.markdown("• Powerful dashboard providing deeper insights into the log data for monitoring.")
+    st.markdown("• Smooth and intuitive UI for users to interact with the system.")
+    st.markdown("• High Accuracy averaging to 96% with very low false positives and false negatives.")
+    st.markdown("• Notable performance with around 1.5 minutes being taken to make predictions on over 100 log entries.")
+    
+
     # Expandable section for uploading logs
     with st.expander("Uploading Logs"):
         st.write("To upload logs, follow these steps:")
