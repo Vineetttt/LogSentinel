@@ -34,7 +34,7 @@ name, authentication_status, username = authenticator.login('Login', 'main')
 if authentication_status == True:
     st.title("LogSentinel")
     st.title("Compliance Monitoring and Log Analysis Platform")
-    st.sidebar.header("LogAnalyzer")
+    st.sidebar.header("LogSentinel")
     authenticator.logout("Logout", "sidebar")
     st.sidebar.title(f"Welcome {name}")
     selected_api = st.sidebar.radio("", ["About Us","Predict Compliance","Dashboard"])
