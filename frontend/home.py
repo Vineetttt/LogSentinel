@@ -1,13 +1,11 @@
 import streamlit as st
 import requests
 import pandas as pd
+import plotly.graph_objects as go
 
-def highlight_survived(s):
+def highlight(s):
     return ['background-color:rgba(0, 255, 0, 0.1)']*len(s) if s.Compliant else ['background-color: rgba(255,0,0, 0.1)']*len(s)
 
-def color_survived(val):
-    color = 'rgba(0, 255, 0, 0.1)' if val else ' rgba(255, 0, 0, 0.1)'
-    return f'background-color: {color}'
 
 def load_home_page():
     st.subheader("Base Model: Distilbert-Base-Uncased")
@@ -15,11 +13,15 @@ def load_home_page():
     # Upload CSV file
     uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
 
-    # Rules input
-    rules_input = st.text_area("Enter rules (one rule per line)")
-
+    # Upload rules from a text file
+    rules_file = st.file_uploader("Upload a text file containing rules", type=["txt"])
+    if rules_file is not None:
+        rules_input = rules_file.read().decode('utf-8')
+    else:
+        rules_input = ""
+    
     if st.button("Predict"):
-        if uploaded_file and rules_input:
+        if uploaded_file:
             st.write("Predicting...")
 
             # Prepare file data to be sent to the API
@@ -36,16 +38,20 @@ def load_home_page():
                 count = data['count']
 
                 # Display results
-                st.warning(f"There are {count} non compliant entries in your dataset")
-                st.write("Please visit analytics section to gain deeper insights")
+                st.warning(f"There are {count} non-compliant entries in your dataset")
+                st.write("Please visit the analytics section to gain deeper insights")
                 st.subheader("Analysis:")
+
+                # Create a DataFrame
                 df = pd.DataFrame(original_rows)
 
-                # Apply conditional styling based on 'compliant' attribute
-                styled_df = df.style.apply(highlight_survived, axis=1)
-                st.dataframe(styled_df)
+                # Apply conditional styling based on 'predicted' attribute
+                styled_df = df.style.apply(highlight, axis=1)
+
+                # Display the styled DataFrame
+                st.dataframe(styled_df,use_container_width=True) 
+
             else:
                 st.error("Error occurred while predicting.")
-
         else:
-            st.warning("Please upload a CSV file and enter rules.")
+            st.warning("Please upload a CSV file.")

@@ -16,10 +16,10 @@ st.title("Compliance Monitoring")
 
 # Sidebar for selecting APIs
 st.sidebar.header("LogAnalyzer")
-selected_api = st.sidebar.radio("", ["Predict CSV","Analysis"])
+selected_api = st.sidebar.radio("", ["MONITOR YOUR LOGS","DASHBOARD"])
 
 # Predict CSV UI
-if selected_api == "Predict CSV":
+if selected_api == "MONITOR YOUR LOGS":
     load_home_page()
-elif selected_api == "Analysis":
+elif selected_api == "DASHBOARD":
     load_dashboard()

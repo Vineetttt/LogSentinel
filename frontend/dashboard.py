@@ -3,6 +3,9 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+def highlight(s):
+    return ['background-color: rgba(255,0,0, 0.1)']*len(s)
+
 def load_dashboard():
     st.set_option('deprecation.showPyplotGlobalUse', False)
     st.title("Analytics Dashboard")
@@ -14,6 +17,15 @@ def load_dashboard():
         st.subheader("Uploaded Data")
         data = pd.read_csv(uploaded_file)
         st.dataframe(data)
+
+        st.subheader("Non-Compliant Users")
+    
+        non_compliant_users = data[data['Compliant'] == 0]['UserID'].unique()
+        non_compliant_df = pd.DataFrame({'UserID': non_compliant_users, 'Action': ["BLOCK  INSPECT  REVOKE"] * len(non_compliant_users)})
+        non_compliant_df = non_compliant_df.style.apply(highlight,axis=1)
+        
+        # Display the DataFrame with the button
+        st.dataframe(non_compliant_df, width=300,hide_index=True,)
 
         st.subheader("Insights")
 
